@@ -2,7 +2,11 @@ name: Update News
 
 on:
   schedule:
-    - cron: "0 */3 * * *"   # 3時間ごと
+    # 3時間ごと・1日8回（6:07/9:07/12:07/15:07/18:07/21:07/0:07/3:07 JST）
+    # 「:00」ちょうどはGitHub側が混雑し実行が飛びやすいため7分ずらしている
+    # → 起床前(6:07)・昼前(12:07)・市場クローズ後(15:07)・仕事後(18:07)は
+    #   この3時間サイクルの中に自動的に含まれる
+    - cron: "7 */3 * * *"
   workflow_dispatch:         # 手動実行も可
 
 # git push するために書き込み権限が必要（ChatGPT版はこれが無く push に失敗する）
@@ -17,7 +21,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 15   # ← ハングして後続実行が詰まるのを防ぐ
+    timeout-minutes: 25   # ← フィード107本規模になったため余裕を持たせる（ハング時の後続詰まり防止）
 
     steps:
       - uses: actions/checkout@v4
