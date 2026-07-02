@@ -103,6 +103,40 @@ const FEEDS = [
   { name: "PR TIMES（積水ハウス）", kind: "press", dev: "積水", url: encodeURI("https://prtimes.jp/topics/keywords/積水ハウス") },
   { name: "PR TIMES（積水ハウス）", type: "google", kind: "press", dev: "積水", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "積水ハウス"&hl=ja&gl=JP&ceid=JP:ja') },
 
+  { name: "近鉄不動産",     type: "google", kind: "press", dev: "近鉄", url: encodeURI('https://news.google.com/rss/search?q="近鉄不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（近鉄不動産）", kind: "press", dev: "近鉄", url: encodeURI("https://prtimes.jp/topics/keywords/近鉄不動産") },
+  { name: "PR TIMES（近鉄不動産）", type: "google", kind: "press", dev: "近鉄", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "近鉄不動産"&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "伊藤忠都市開発", type: "google", kind: "press", dev: "伊藤忠", url: encodeURI('https://news.google.com/rss/search?q="伊藤忠都市開発" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（伊藤忠都市開発）", kind: "press", dev: "伊藤忠", url: encodeURI("https://prtimes.jp/topics/keywords/伊藤忠都市開発") },
+  { name: "PR TIMES（伊藤忠都市開発）", type: "google", kind: "press", dev: "伊藤忠", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "伊藤忠都市開発"&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "モリモト",       type: "google", kind: "press", dev: "モリモト", url: encodeURI('https://news.google.com/rss/search?q="モリモト" マンション -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（モリモト）", kind: "press", dev: "モリモト", url: encodeURI("https://prtimes.jp/topics/keywords/モリモト") },
+  { name: "PR TIMES（モリモト）", type: "google", kind: "press", dev: "モリモト", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "モリモト" マンション&hl=ja&gl=JP&ceid=JP:ja') },
+
+  // 住友商事・旭化成はグループ全体のニュースが多いため、kind:pressのPRESS_SIGNAL厳選に加え
+  // Google検索自体にも不動産関連語を足して精度を上げる。
+  { name: "住友商事",       type: "google", kind: "press", dev: "住友商事", url: encodeURI('https://news.google.com/rss/search?q="住友商事" マンション 不動産 -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（住友商事）", kind: "press", dev: "住友商事", url: encodeURI("https://prtimes.jp/topics/keywords/住友商事") },
+  { name: "PR TIMES（住友商事）", type: "google", kind: "press", dev: "住友商事", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "住友商事" マンション 不動産&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "旭化成不動産レジデンス", type: "google", kind: "press", dev: "旭化成", url: encodeURI('https://news.google.com/rss/search?q="旭化成" マンション 不動産 -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（旭化成）", kind: "press", dev: "旭化成", url: encodeURI("https://prtimes.jp/topics/keywords/旭化成") },
+  { name: "PR TIMES（旭化成）", type: "google", kind: "press", dev: "旭化成", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "旭化成" マンション 不動産&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "明和地所",       type: "google", kind: "press", dev: "明和地所", url: encodeURI('https://news.google.com/rss/search?q="明和地所" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（明和地所）", kind: "press", dev: "明和地所", url: encodeURI("https://prtimes.jp/topics/keywords/明和地所") },
+  { name: "PR TIMES（明和地所）", type: "google", kind: "press", dev: "明和地所", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "明和地所"&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "オープンハウス", type: "google", kind: "press", dev: "OH", url: encodeURI('https://news.google.com/rss/search?q="オープンハウス" マンション 戸建 -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（オープンハウス）", kind: "press", dev: "OH", url: encodeURI("https://prtimes.jp/topics/keywords/オープンハウス") },
+  { name: "PR TIMES（オープンハウス）", type: "google", kind: "press", dev: "OH", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "オープンハウス" マンション&hl=ja&gl=JP&ceid=JP:ja') },
+
+  { name: "東急リバブル",   type: "google", kind: "press", dev: "東急リ", url: encodeURI('https://news.google.com/rss/search?q="東急リバブル" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（東急リバブル）", kind: "press", dev: "東急リ", url: encodeURI("https://prtimes.jp/topics/keywords/東急リバブル") },
+  { name: "PR TIMES（東急リバブル）", type: "google", kind: "press", dev: "東急リ", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "東急リバブル"&hl=ja&gl=JP&ceid=JP:ja') },
+
   { name: "日刊工業新聞",  type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:nikkan.co.jp 不動産 再開発 建設 住宅&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "ニュースイッチ", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:newswitch.jp 不動産 再開発 建設 住宅&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "LNEWS",         type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:lnews.jp 物流施設 不動産 開発&hl=ja&gl=JP&ceid=JP:ja") },
@@ -152,6 +186,16 @@ const FEEDS = [
   { name: "日経クロステック建設", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:xtech.nikkei.com 建設 再開発 マンション&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "新建築オンライン", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:shinkenchiku.online&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "ダイヤモンド・オンライン", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:diamond.jp 住宅ローン 金利 不動産&hl=ja&gl=JP&ceid=JP:ja") },
+  { name: "ダイヤモンド不動産研究所", type: "google", url: encodeURI('https://news.google.com/rss/search?q=site:diamond.jp "不動産研究所"&hl=ja&gl=JP&ceid=JP:ja') },
+
+  // ── Yahoo!掲載記事の実際の元配信を調査して判明した抜け漏れを追加 ──────
+  //   news.yahoo.co.jp自体はrobots.txtで自動アクセス不可のため直接収集はできないが、
+  //   Google News経由なら各社の元記事(または再配信先)を拾える。
+  { name: "Yahoo!ニュース オリジナル THE PAGE", type: "google", url: encodeURI('https://news.google.com/rss/search?q=site:news.yahoo.co.jp "THE PAGE" 不動産 住宅 マンション&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "マネーポストWEB", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:moneypost.jp 住宅ローン 不動産 マンション 相続&hl=ja&gl=JP&ceid=JP:ja") },
+  { name: "文春オンライン", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:bunshun.jp 不動産 住宅ローン マンション&hl=ja&gl=JP&ceid=JP:ja") },
+  { name: "弁護士ドットコムニュース", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:bengo4.com 不動産 住宅 マンション 契約 トラブル&hl=ja&gl=JP&ceid=JP:ja") },
+  { name: "BUSINESS INSIDER JAPAN", url: "https://www.businessinsider.jp/feed/index.xml" },
 ];
 
 // ───────────────────────────────────────────────────────────
@@ -162,7 +206,7 @@ const TAG_GROUPS = [
   { label: "金利・日銀",   keywords: ["日銀", "利上げ", "利下げ", "政策金利", "金融政策", "金利", "変動金利", "固定金利"] },
   { label: "住宅ローン",   keywords: ["住宅ローン", "繰上返済", "繰り上げ返済", "借入", "借り入れ", "団信", "フラット35", "控除", "減税"] },
   { label: "不動産・市場", keywords: ["不動産", "マンション", "タワマン", "タワーマンション", "戸建", "新築", "中古", "分譲", "地価", "住宅価格", "市況", "賃貸", "湾岸"] },
-  { label: "開発・デベロッパー", keywords: ["デベロッパー", "ディベロッパー", "再開発", "都市開発", "大規模開発", "竣工", "着工", "三井不動産", "三菱地所", "住友不動産", "野村不動産", "東急不動産", "森ビル", "大和ハウス", "積水ハウス", "住友林業", "東京建物", "日鉄興和不動産"] }
+  { label: "開発・デベロッパー", keywords: ["デベロッパー", "ディベロッパー", "再開発", "都市開発", "大規模開発", "竣工", "着工", "三井不動産", "三菱地所", "住友不動産", "野村不動産", "東急不動産", "森ビル", "大和ハウス", "積水ハウス", "住友林業", "東京建物", "日鉄興和不動産", "近鉄不動産", "伊藤忠都市開発", "モリモト", "住友商事", "旭化成", "明和地所", "オープンハウス", "東急リバブル"] }
 ];
 
 // ───────────────────────────────────────────────────────────
@@ -231,7 +275,10 @@ function detectTags(title) {
 const DEV_SHORT = [
   ["三井不動産", "三井"], ["三菱地所", "三菱"], ["野村不動産ホールディングス", "野村"], ["野村不動産", "野村"],
   ["住友不動産", "住友"], ["東京建物", "東建"], ["日鉄興和不動産", "日鉄"], ["東急不動産", "東急"], ["森ビル", "森"],
-  ["大和ハウス工業", "大和"], ["大和ハウス", "大和"], ["積水ハウス", "積水"]
+  ["大和ハウス工業", "大和"], ["大和ハウス", "大和"], ["積水ハウス", "積水"],
+  ["近鉄不動産", "近鉄"], ["伊藤忠都市開発", "伊藤忠"], ["モリモト", "モリモト"],
+  ["住友商事", "住友商事"], ["旭化成", "旭化成"], ["明和地所", "明和地所"],
+  ["オープンハウス", "OH"], ["東急リバブル", "東急リ"]
 ];
 
 // マンションブランド名からもデベロッパーを推定する。
