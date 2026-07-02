@@ -118,7 +118,7 @@ a.ki-news__title:hover { color: var(--ki-accent); text-decoration: underline; }
 .ki-tag[data-t="不動産・市場"] { background:#f4eee6; color:#8a5a2b; }
 .ki-tag[data-t="開発・デベロッパー"] { background:#efe9f4; color:#5a3f7a; }
 .ki-tag[data-t="その他"]       { background:#eef0f2; color:#6b7280; }
-.ki-tag[data-t="三井"], .ki-tag[data-t="三菱"], .ki-tag[data-t="野村"], .ki-tag[data-t="住友"], .ki-tag[data-t="東建"], .ki-tag[data-t="日鉄"], .ki-tag[data-t="東急"], .ki-tag[data-t="大和"], .ki-tag[data-t="積水"], .ki-tag[data-t="近鉄"], .ki-tag[data-t="伊藤忠"], .ki-tag[data-t="モリモト"], .ki-tag[data-t="住友商事"], .ki-tag[data-t="旭化成"], .ki-tag[data-t="明和地所"], .ki-tag[data-t="OH"], .ki-tag[data-t="東急リ"] { background:#e8e3da; color:#5b4a35; }
+.ki-tag[data-t="三井"], .ki-tag[data-t="三菱"], .ki-tag[data-t="野村"], .ki-tag[data-t="住友"], .ki-tag[data-t="東建"], .ki-tag[data-t="日鉄"], .ki-tag[data-t="東急"], .ki-tag[data-t="大和"], .ki-tag[data-t="積水"], .ki-tag[data-t="近鉄"], .ki-tag[data-t="伊藤忠"], .ki-tag[data-t="モリモト"], .ki-tag[data-t="住友商事"], .ki-tag[data-t="旭化成"], .ki-tag[data-t="明和地所"], .ki-tag[data-t="オープンハウス"], .ki-tag[data-t="東急リ"] { background:#e8e3da; color:#5b4a35; }
 
 /* デベロッパー絞り込みチップ */
 .ki-devfilter { display:flex; gap:6px; flex-wrap:wrap; margin-bottom:12px; }
@@ -142,6 +142,10 @@ a.ki-news__title:hover { color: var(--ki-accent); text-decoration: underline; }
 #columnsX .ki-xart__go { font-size: .76rem; }
 #columnsX .twitter-tweet { margin: 0 !important; }
 .ki-embed { min-width: 0; }
+/* 分析・レポート：X投稿をニュースと同じ横幅いっぱいに表示 */
+.ki-embed-wide { width: 100%; }
+.ki-embed-wide .ki-embed { width: 100%; }
+.ki-embed-wide .twitter-tweet { width: 100% !important; max-width: 100% !important; margin: 0 !important; }
 .ki-xart { display:flex; flex-direction:column; text-decoration:none; color:var(--ki-ink); border:1px solid var(--ki-line); border-radius:14px; overflow:hidden; background:#fff; transition:border-color .15s, transform .15s; }
 .ki-xart:hover { border-color:var(--ki-accent); transform:translateY(-2px); }
 .ki-xart__img { aspect-ratio:16/9; background:#e9edf0; }
@@ -321,13 +325,13 @@ footer.site-footer { background: rgba(255,255,255,.72); border-top: 1px solid #e
         <div id="reportsState" class="ki-state" hidden></div>
       </section>
 
-      <!-- 分析・レポート -->
+      <!-- 分析・レポート（Xの引用パネル：ニュースと同じ横幅で表示） -->
       <section id="reports" class="ki-section">
         <div class="ki-section__head">
           <h2 class="ki-section__title">分析・レポート</h2>
           <span class="ki-section__en">Reports</span>
         </div>
-        <p class="ki-state">準備中</p>
+        <div id="reportsX" class="ki-embed-wide"></div>
       </section>
 
       <!-- コラム（Xの引用パネル＋リンクカード） -->
@@ -392,6 +396,11 @@ const picArticles = [
 const columnFeature = null;
 const columnsData = [];
 
+/* 4) 分析・レポート：Xポスト埋め込み（ニュースと同じ横幅いっぱいで表示） */
+const reportsXPosts = [
+  "https://x.com/kirinsan4567/status/2072670473738207352"
+];
+
 /* ---------- 共通ヘルパー ---------- */
 const $ = sel => document.querySelector(sel);
 function esc(s){ return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
@@ -414,6 +423,16 @@ function renderX(){
     `<div class="ki-embed"><blockquote class="twitter-tweet" data-dnt="true"><a href="${esc(u)}"></a></blockquote></div>`
   ).join("");
   el.innerHTML = feat + posts;
+}
+
+/* ---------- 分析・レポート：Xポスト埋め込み（横幅いっぱい） ---------- */
+function renderReportsX(){
+  const el = $('#reportsX');
+  if (!el) return;
+  const posts = reportsXPosts.map(u =>
+    `<div class="ki-embed"><blockquote class="twitter-tweet" data-dnt="true" data-width="550"><a href="${esc(u)}"></a></blockquote></div>`
+  ).join("");
+  el.innerHTML = posts || `<p class="ki-state">準備中</p>`;
 }
 
 /* ---------- Pics（Xポスト埋め込み＋記事カード） ---------- */
@@ -613,7 +632,7 @@ function fillList(items, listSel, stateSel, moreSel, emptyMsg){
   more.hidden = items.length <= NEWS_RECENT_MAX; // 残りがある時だけカレンダー導線を表示
 }
 
-const DEVS = ["三井", "三菱", "野村", "住友", "東建", "日鉄", "東急", "森", "大和", "積水", "近鉄", "伊藤忠", "モリモト", "住友商事", "旭化成", "明和地所", "OH", "東急リ"];
+const DEVS = ["三井", "三菱", "野村", "住友", "東建", "日鉄", "東急", "森", "大和", "積水", "近鉄", "伊藤忠", "モリモト", "住友商事", "旭化成", "明和地所", "オープンハウス", "東急リ"];
 let allPress = [];
 
 function renderPressFiltered(dev){
@@ -677,6 +696,7 @@ async function showUpdated(){
 /* ---------- 起動 ---------- */
 renderX();
 renderPics();
+renderReportsX();
 whenChartReady(renderReports);
 renderCards('#columnsCards', columnsData);
 loadTweets();
