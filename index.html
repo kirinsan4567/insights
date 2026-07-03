@@ -64,9 +64,10 @@
 }
 .ki-brand { font-weight: 700; font-size: 1.15rem; letter-spacing: .02em; text-decoration: none; color: var(--ki-ink); white-space: nowrap; }
 .ki-brand span { color: var(--ki-accent); }
-.ki-brandrow { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.ki-brandrow { display: flex; align-items: center; gap: 10px; flex-wrap: nowrap; }
+.ki-brand { flex: none; }
 .ki-brand__sep { width: 1px; height: 15px; background: var(--ki-line); flex: none; }
-.ki-brand__tag { font-size: .8rem; font-weight: 500; color: var(--ki-accent); }
+.ki-brand__tag { flex: 1 1 auto; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: .8rem; font-weight: 500; color: var(--ki-accent); }
 .ki-nav { display: flex; gap: 4px; flex-wrap: wrap; }
 .ki-nav a {
   text-decoration: none; color: var(--ki-sub); font-size: .88rem; font-weight: 500;
@@ -125,6 +126,23 @@ a.ki-news__title:hover { color: var(--ki-accent); text-decoration: underline; }
 .ki-devchip { font-size:.8rem; font-weight:700; padding:4px 12px; border-radius:999px; border:1px solid var(--ki-line); background:#fff; color:var(--ki-sub); cursor:pointer; font-family:inherit; }
 .ki-devchip:hover { border-color:var(--ki-accent); color:var(--ki-accent); }
 .ki-devchip.active { background:var(--ki-accent); color:#fff; border-color:var(--ki-accent); }
+
+/* 検索窓（ヘッダー内、ニュース・プレスリリース共通検索） */
+.ki-searchbar--header { margin: 0; flex: none; }
+.ki-search {
+  font-family: inherit; color: var(--ki-ink);
+  border: 1px solid var(--ki-line); border-radius: 999px; background: #fff;
+  outline: none; transition: border-color .15s, width .15s;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2' stroke-linecap='round'%3E%3Ccircle cx='11' cy='11' r='7'/%3E%3Cline x1='21' y1='21' x2='16.65' y2='16.65'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+}
+.ki-search--sm {
+  width: 140px; padding: 5px 10px 5px 28px; font-size: .78rem;
+  background-position: 9px center; background-size: 12px 12px;
+}
+.ki-search--sm:focus { width: 200px; border-color: var(--ki-accent); }
+.ki-search::placeholder { color: var(--ki-sub); }
+.ki-search::-webkit-search-cancel-button { cursor: pointer; }
 
 .ki-more { display:block; width:100%; margin-top:16px; padding:10px; border:1px solid var(--ki-line); background:var(--ki-card); border-radius:10px; color:var(--ki-accent); font-weight:700; font-family:inherit; cursor:pointer; }
 .ki-more:hover { background:#fff; border-color:var(--ki-accent); }
@@ -209,7 +227,9 @@ a.ki-news__title:hover { color: var(--ki-accent); text-decoration: underline; }
 
 @media (max-width: 640px) {
   .ki-brand__sep { display: none; }
-  .ki-brand__tag { flex-basis: 100%; font-size: .76rem; }
+  .ki-brand__tag { font-size: .76rem; }
+  .ki-search--sm { width: 100px; }
+  .ki-search--sm:focus { width: 170px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -240,6 +260,9 @@ footer.site-footer { background: rgba(255,255,255,.72); border-top: 1px solid #e
       <a class="ki-brand" href="index.html">KIRIN <span>Insights</span></a>
       <span class="ki-brand__sep" aria-hidden="true"></span>
       <span class="ki-brand__tag">不動産と住宅ローンの『いま』を読む</span>
+      <div class="ki-searchbar ki-searchbar--header">
+        <input type="search" id="globalSearch" class="ki-search ki-search--sm" placeholder="検索" aria-label="ニュース・プレスリリースを検索">
+      </div>
     </div>
     <nav class="ki-nav">
       <a href="#news">ニュース</a>
@@ -633,11 +656,35 @@ function fillList(items, listSel, stateSel, moreSel, emptyMsg){
 }
 
 const DEVS = ["三井", "三菱", "野村", "住友", "東建", "日鉄", "東急", "森", "大和", "積水", "近鉄", "伊藤忠", "モリモト", "住友商事", "旭化成", "明和地所", "オープンハウス", "東急リ"];
-let allPress = [];
+let allNewsItems = [];   // ニュース欄の母集団（全件・検索対象）
+let allPress = [];       // プレス欄の母集団（kind:press のみ）
+let searchQuery = "";    // ニュース・プレスリリース共通の検索キーワード
+let currentDev = "すべて";
+
+// タイトル・要約・媒体名・タグを対象に部分一致検索（大文字小文字は無視）
+function matchQuery(n, q){
+  if (!q) return true;
+  const hay = [n.title, n.summary, n.source, ...(n.tags || [])].filter(Boolean).join(" ").toLowerCase();
+  return hay.includes(q.trim().toLowerCase());
+}
 
 function renderPressFiltered(dev){
-  const items = (dev === "すべて") ? allPress : allPress.filter(n => (n.tags || []).includes(dev));
-  fillList(items, '#pressList', '#pressState', '#pressMore', `${dev === "すべて" ? "" : dev + "の"}プレスリリースがまだありません。`);
+  currentDev = dev;
+  let items = (dev === "すべて") ? allPress : allPress.filter(n => (n.tags || []).includes(dev));
+  items = items.filter(n => matchQuery(n, searchQuery));
+  const devLabel = dev === "すべて" ? "" : dev + "の";
+  const emptyMsg = searchQuery
+    ? `「${searchQuery}」に一致する${devLabel}プレスリリースが見つかりませんでした。`
+    : `${devLabel}プレスリリースがまだありません。`;
+  fillList(items, '#pressList', '#pressState', '#pressMore', emptyMsg);
+}
+
+function renderNewsFiltered(){
+  const items = allNewsItems.filter(n => matchQuery(n, searchQuery));
+  const emptyMsg = searchQuery
+    ? `「${searchQuery}」に一致するニュースが見つかりませんでした。`
+    : '表示できるニュースがまだありません。';
+  fillList(items, '#newsList', '#newsState', '#newsMore', emptyMsg);
 }
 
 function buildPressFilter(){
@@ -661,13 +708,14 @@ async function renderNews(){
     if(!Array.isArray(items)) items = [];
     items.sort((a,b)=> new Date(b.date) - new Date(a.date));
 
-    // ニュース欄＝全件（プレス含む）
-    fillList(items, '#newsList', '#newsState', '#newsMore', '表示できるニュースがまだありません。');
+    // ニュース欄＝全件（プレス含む）＋検索
+    allNewsItems = items;
+    renderNewsFiltered();
 
-    // プレスリリース欄＝kind:press のみ＋デベロッパー絞り込み
+    // プレスリリース欄＝kind:press のみ＋デベロッパー絞り込み＋検索
     allPress = items.filter(n => n.kind === 'press');
     buildPressFilter();
-    renderPressFiltered("すべて");
+    renderPressFiltered(currentDev);
   } catch (e) {
     $('#newsState').textContent = 'ニュースを読み込めませんでした。少し時間をおいて再読み込みしてください。';
     $('#pressState').textContent = 'プレスリリースを読み込めませんでした。';
@@ -677,7 +725,7 @@ async function renderNews(){
 /* ---------- 更新時刻の表示（Action由来。HTML編集ではカウントしない） ---------- */
 async function showUpdated(){
   const n = $('#newsUpdated'), p = $('#pressUpdated');
-  let txt = '3時間ごとに自動更新';
+  let txt = '';
   try {
     const res = await fetch('data/news_updated.json', { cache: 'no-store' });
     if (res.ok){
@@ -685,10 +733,10 @@ async function showUpdated(){
       const d = new Date(j.updatedAt);
       if (!isNaN(d)){
         const s = d.toLocaleString('ja-JP', { timeZone:'Asia/Tokyo', year:'numeric', month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit' });
-        txt += `／最終更新 ${s}`;
+        txt = `最終更新 ${s}`;
       }
     }
-  } catch (e) { /* 未生成時はデフォルト文のみ */ }
+  } catch (e) { /* 未生成時は空表示のまま */ }
   if (n) n.textContent = txt;
   if (p) p.textContent = txt;
 }
@@ -715,6 +763,13 @@ setHeaderOffset();
 window.addEventListener('resize', setHeaderOffset);
 window.addEventListener('load', setHeaderOffset);
 renderNews();
+
+/* 検索窓（ヘッダー1箇所）：ニュース・プレスリリース両方を同時に絞り込む */
+$('#globalSearch')?.addEventListener('input', e => {
+  searchQuery = e.target.value;
+  renderNewsFiltered();
+  renderPressFiltered(currentDev);
+});
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
