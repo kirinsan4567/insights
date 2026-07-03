@@ -61,42 +61,55 @@ const FEEDS = [
   //   直RSSが構造的に壊れて読めない回があっても（XMLエンティティ不正等）SKIPされるだけなので、
   //   確実版としてGoogle検索スコープ（site:prtimes.jp "正式社名"）も併用する。
   { name: "三井不動産",     type: "google", kind: "press", dev: "三井", url: encodeURI('https://news.google.com/rss/search?q="三井不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（三井不動産）", dev: "三井", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=51782" },
+  { name: "PR TIMES（三井不動産）", kind: "press", dev: "三井", url: encodeURI("https://prtimes.jp/topics/keywords/三井不動産") },
+  { name: "PR TIMES（三井不動産）", type: "google", kind: "press", dev: "三井", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "三井不動産"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "三菱地所",       type: "google", kind: "press", dev: "三菱", url: encodeURI('https://news.google.com/rss/search?q="三菱地所" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（三菱地所）", dev: "三菱", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=16002" },
+  { name: "PR TIMES（三菱地所）", kind: "press", dev: "三菱", url: encodeURI("https://prtimes.jp/topics/keywords/三菱地所") },
+  { name: "PR TIMES（三菱地所）", type: "google", kind: "press", dev: "三菱", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "三菱地所"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "野村不動産",     type: "google", kind: "press", dev: "野村", url: encodeURI('https://news.google.com/rss/search?q="野村不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
   // 野村不動産：事業会社とホールディングスでPR TIMES上のキーワードページが分かれているため両方収集。
-  { name: "PR TIMES（野村不動産）", dev: "野村", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=25694" },
+  { name: "PR TIMES（野村不動産）", kind: "press", dev: "野村", url: encodeURI("https://prtimes.jp/topics/keywords/野村不動産") },
+  { name: "PR TIMES（野村不動産）", type: "google", kind: "press", dev: "野村", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "野村不動産"&hl=ja&gl=JP&ceid=JP:ja') },
+  { name: "PR TIMES（野村不動産ホールディングス）", kind: "press", dev: "野村", url: encodeURI("https://prtimes.jp/topics/keywords/野村不動産ホールディングス") },
+  { name: "PR TIMES（野村不動産ホールディングス）", type: "google", kind: "press", dev: "野村", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "野村不動産ホールディングス"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "東急不動産",     type: "google", kind: "press", dev: "東急", url: encodeURI('https://news.google.com/rss/search?q="東急不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（東急不動産）", dev: "東急", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=6953" },
+  { name: "PR TIMES（東急不動産）", kind: "press", dev: "東急", url: encodeURI("https://prtimes.jp/topics/keywords/東急不動産") },
+  { name: "PR TIMES（東急不動産）", type: "google", kind: "press", dev: "東急", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "東急不動産"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "東京建物",       type: "google", kind: "press", dev: "東建", url: encodeURI('https://news.google.com/rss/search?q="東京建物" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（東京建物）", dev: "東建", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=52843" },
+  { name: "PR TIMES（東京建物）", kind: "press", dev: "東建", url: encodeURI("https://prtimes.jp/topics/keywords/東京建物") },
+  { name: "PR TIMES（東京建物）", type: "google", kind: "press", dev: "東建", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "東京建物"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "森ビル",         type: "google", kind: "press", dev: "森",   url: encodeURI('https://news.google.com/rss/search?q="森ビル" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（森ビル）", dev: "森", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=48109" },
+  { name: "PR TIMES（森ビル）", kind: "press", dev: "森", url: encodeURI("https://prtimes.jp/topics/keywords/森ビル") },
+  { name: "PR TIMES（森ビル）", type: "google", kind: "press", dev: "森", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "森ビル"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "住友不動産",     type: "google", kind: "press", dev: "住友", url: encodeURI('https://news.google.com/rss/search?q="住友不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（住友不動産）", dev: "住友", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=46698" },
+  { name: "PR TIMES（住友不動産）", kind: "press", dev: "住友", url: encodeURI("https://prtimes.jp/topics/keywords/住友不動産") },
+  { name: "PR TIMES（住友不動産）", type: "google", kind: "press", dev: "住友", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "住友不動産"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "日鉄興和不動産",  type: "google", kind: "press", dev: "日鉄", url: encodeURI('https://news.google.com/rss/search?q="日鉄興和不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（日鉄興和不動産）", dev: "日鉄", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=1379" },
+  { name: "PR TIMES（日鉄興和不動産）", kind: "press", dev: "日鉄", url: encodeURI("https://prtimes.jp/topics/keywords/日鉄興和不動産") },
+  { name: "PR TIMES（日鉄興和不動産）", type: "google", kind: "press", dev: "日鉄", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "日鉄興和不動産"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "大和ハウス工業",  type: "google", kind: "press", dev: "大和", url: encodeURI('https://news.google.com/rss/search?q="大和ハウス工業" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（大和ハウス工業）", dev: "大和", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=2296" },
+  { name: "PR TIMES（大和ハウス工業）", kind: "press", dev: "大和", url: encodeURI("https://prtimes.jp/topics/keywords/大和ハウス工業") },
+  { name: "PR TIMES（大和ハウス工業）", type: "google", kind: "press", dev: "大和", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "大和ハウス工業"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "積水ハウス",     type: "google", kind: "press", dev: "積水", url: encodeURI('https://news.google.com/rss/search?q="積水ハウス" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
   { name: "PR TIMES（積水ハウス）", kind: "press", dev: "積水", url: encodeURI("https://prtimes.jp/topics/keywords/積水ハウス") },
   { name: "PR TIMES（積水ハウス）", type: "google", kind: "press", dev: "積水", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "積水ハウス"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "近鉄不動産",     type: "google", kind: "press", dev: "近鉄", url: encodeURI('https://news.google.com/rss/search?q="近鉄不動産" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（近鉄不動産）", dev: "近鉄", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=107064" },
+  { name: "PR TIMES（近鉄不動産）", kind: "press", dev: "近鉄", url: encodeURI("https://prtimes.jp/topics/keywords/近鉄不動産") },
+  { name: "PR TIMES（近鉄不動産）", type: "google", kind: "press", dev: "近鉄", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "近鉄不動産"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "伊藤忠都市開発", type: "google", kind: "press", dev: "伊藤忠", url: encodeURI('https://news.google.com/rss/search?q="伊藤忠都市開発" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（伊藤忠都市開発）", dev: "伊藤忠", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=47364" },
+  { name: "PR TIMES（伊藤忠都市開発）", kind: "press", dev: "伊藤忠", url: encodeURI("https://prtimes.jp/topics/keywords/伊藤忠都市開発") },
+  { name: "PR TIMES（伊藤忠都市開発）", type: "google", kind: "press", dev: "伊藤忠", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "伊藤忠都市開発"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "モリモト",       type: "google", kind: "press", dev: "モリモト", url: encodeURI('https://news.google.com/rss/search?q="モリモト" マンション -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
   { name: "PR TIMES（モリモト）", kind: "press", dev: "モリモト", url: encodeURI("https://prtimes.jp/topics/keywords/モリモト") },
@@ -109,17 +122,20 @@ const FEEDS = [
   { name: "PR TIMES（住友商事）", type: "google", kind: "press", dev: "住友商事", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "住友商事" マンション 不動産&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "旭化成不動産レジデンス", type: "google", kind: "press", dev: "旭化成", url: encodeURI('https://news.google.com/rss/search?q="旭化成" マンション 不動産 -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（旭化成ホームズ）", dev: "旭化成", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=73738" },
+  { name: "PR TIMES（旭化成）", kind: "press", dev: "旭化成", url: encodeURI("https://prtimes.jp/topics/keywords/旭化成") },
+  { name: "PR TIMES（旭化成）", type: "google", kind: "press", dev: "旭化成", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "旭化成" マンション 不動産&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "明和地所",       type: "google", kind: "press", dev: "明和地所", url: encodeURI('https://news.google.com/rss/search?q="明和地所" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
   { name: "PR TIMES（明和地所）", kind: "press", dev: "明和地所", url: encodeURI("https://prtimes.jp/topics/keywords/明和地所") },
   { name: "PR TIMES（明和地所）", type: "google", kind: "press", dev: "明和地所", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "明和地所"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "オープンハウス", type: "google", kind: "press", dev: "オープンハウス", url: encodeURI('https://news.google.com/rss/search?q="オープンハウス" マンション 戸建 -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（オープンハウスグループ）", dev: "オープンハウス", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=24241" },
+  { name: "PR TIMES（オープンハウス）", kind: "press", dev: "オープンハウス", url: encodeURI("https://prtimes.jp/topics/keywords/オープンハウス") },
+  { name: "PR TIMES（オープンハウス）", type: "google", kind: "press", dev: "オープンハウス", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "オープンハウス" マンション&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "東急リバブル",   type: "google", kind: "press", dev: "東急リ", url: encodeURI('https://news.google.com/rss/search?q="東急リバブル" -採用 -人事 -株価&hl=ja&gl=JP&ceid=JP:ja') },
-  { name: "PR TIMES（東急リバブル）", dev: "東急リ", trusted: true, url: "https://prtimes.jp/companyrdf.php?company_id=115219" },
+  { name: "PR TIMES（東急リバブル）", kind: "press", dev: "東急リ", url: encodeURI("https://prtimes.jp/topics/keywords/東急リバブル") },
+  { name: "PR TIMES（東急リバブル）", type: "google", kind: "press", dev: "東急リ", url: encodeURI('https://news.google.com/rss/search?q=site:prtimes.jp "東急リバブル"&hl=ja&gl=JP&ceid=JP:ja') },
 
   { name: "日刊工業新聞",  type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:nikkan.co.jp 不動産 再開発 建設 住宅&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "ニュースイッチ", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:newswitch.jp 不動産 再開発 建設 住宅&hl=ja&gl=JP&ceid=JP:ja") },
@@ -180,6 +196,19 @@ const FEEDS = [
   { name: "文春オンライン", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:bunshun.jp 不動産 住宅ローン マンション&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "弁護士ドットコムニュース", type: "google", url: encodeURI("https://news.google.com/rss/search?q=site:bengo4.com 不動産 住宅 マンション 契約 トラブル&hl=ja&gl=JP&ceid=JP:ja") },
   { name: "BUSINESS INSIDER JAPAN", url: "https://www.businessinsider.jp/feed/index.xml" },
+
+  // ── 建設専門紙（直RSS。本文全文が取れる。kind:"construction"は
+  //    「その他」判定でも捨てず必ず「建設」タグを付与＝下記メインループ参照）──
+  //   WordPress標準フィードのため、URLやカテゴリ構成が変わると壊れる可能性あり。
+  //   SKIPが続くようならカテゴリスラッグ・cat番号を再確認すること。
+  { name: "日刊建設工業新聞（工事・計画）", tagAs: "construction", url: "https://www.decn.co.jp/cat/n_kouji/feed/" },
+  { name: "建設通信新聞Digital（企業）",     tagAs: "construction", url: "https://www.kensetsunews.com/cat/news_kigyo/feed/" },
+  { name: "建設通信新聞Digital（関東・甲信越）", tagAs: "construction", url: "https://www.kensetsunews.com/cat/news_area_kk/feed/" },
+  { name: "建設通信新聞Digital（行政）",     tagAs: "construction", url: "https://www.kensetsunews.com/cat/news_gyosei/feed/" },
+  { name: "建設通信新聞Digital（予算）",     tagAs: "construction", url: "https://www.kensetsunews.com/cat/news_yosan/feed/" },
+  // constnews.comは古いWordPress（4.1系）でセキュリティ更新が止まっている可能性が高く、
+  // 将来的にURL構成が変わるリスクが他より高いので注意。
+  { name: "建設ニュース（不動産・関西中心）", tagAs: "construction", url: "https://www.constnews.com/?cat=13836&feed=rss2" },
 ];
 
 // ───────────────────────────────────────────────────────────
@@ -190,7 +219,8 @@ const TAG_GROUPS = [
   { label: "金利・日銀",   keywords: ["日銀", "利上げ", "利下げ", "政策金利", "金融政策", "金利", "変動金利", "固定金利"] },
   { label: "住宅ローン",   keywords: ["住宅ローン", "繰上返済", "繰り上げ返済", "借入", "借り入れ", "団信", "フラット35", "控除", "減税"] },
   { label: "不動産・市場", keywords: ["不動産", "マンション", "タワマン", "タワーマンション", "戸建", "新築", "中古", "分譲", "地価", "住宅価格", "市況", "賃貸", "湾岸"] },
-  { label: "開発・デベロッパー", keywords: ["デベロッパー", "ディベロッパー", "再開発", "都市開発", "大規模開発", "竣工", "着工", "三井不動産", "三菱地所", "住友不動産", "野村不動産", "東急不動産", "森ビル", "大和ハウス", "積水ハウス", "住友林業", "東京建物", "日鉄興和不動産", "近鉄不動産", "伊藤忠都市開発", "モリモト", "住友商事", "旭化成", "明和地所", "オープンハウス", "東急リバブル"] }
+  { label: "開発・デベロッパー", keywords: ["デベロッパー", "ディベロッパー", "再開発", "都市開発", "大規模開発", "竣工", "着工", "三井不動産", "三菱地所", "住友不動産", "野村不動産", "東急不動産", "森ビル", "大和ハウス", "積水ハウス", "住友林業", "東京建物", "日鉄興和不動産", "近鉄不動産", "伊藤忠都市開発", "モリモト", "住友商事", "旭化成", "明和地所", "オープンハウス", "東急リバブル"] },
+  { label: "建設", keywords: ["着工", "竣工", "起工", "施工", "ゼネコン", "建設", "JV", "工事", "土木", "入札", "受注", "施主"] }
 ];
 
 // ───────────────────────────────────────────────────────────
@@ -234,8 +264,15 @@ function titleKey(t) {
 }
 
 const stripTags = s => (s || "").replace(/<[^>]*>/g, " ");
+
+// kensetsunews.com等、一部WordPressフィードの本文末尾に付く定型文を除去
+// 例: "The post <a>タイトル</a> first appeared on <a>建設通信新聞Digital</a>."
+function stripFeedBoilerplate(raw) {
+  return (raw || "").replace(/The post[\s\S]*?first appeared on[\s\S]*?\.\s*$/i, "");
+}
+
 function cleanSummary(raw, max = 140) {
-  let s = tidy(stripTags(raw));
+  let s = tidy(stripFeedBoilerplate(stripTags(raw)));
   if (s.length > max) s = s.slice(0, max).trim() + "…";
   return s;
 }
@@ -378,17 +415,19 @@ function loadExisting() {
         if (feed.kind === "press" && !isPressRelevant(title)) continue;
 
         const id = normalizeUrl(link) || title;
-        const titleDevTags = devTags(title);
-        let tags = Array.from(new Set([...detectTags(title), ...titleDevTags]));
-        // feed.trusted: companyrdf.php(company_id指定の公式アカウントRSS)は、
-        //   その会社自身が発信元だと確定しているので、タイトルに社名が無くても無条件で信用する。
-        // それ以外(Google検索ベースの site:prtimes.jp "社名" 等)は精度に限界があり、
-        //   無関係な記事(例:食品メーカーの新商品発表)が紛れ込んでPRESS_SIGNAL(新発売 等)に
-        //   ヒットし、誤ってデベロッパータグが付く事故が実際に発生したため、
-        //   タイトル自体にその社名/ブランド名が写っている場合のみ採用する。
-        if (feed.dev && (feed.trusted || titleDevTags.includes(feed.dev))) {
+        let tags = Array.from(new Set([...detectTags(title), ...devTags(title)]));
+        // 公式サイト由来のプレスは、タイトルに社名が無くても所属デベロッパーを付与
+        if (feed.dev) {
           tags = tags.filter(t => t !== "その他");
           tags = Array.from(new Set([...tags, feed.dev, "開発・デベロッパー"]));
+        }
+        // 建設専門紙（decn.co.jp / kensetsunews.com / constnews.com）は
+        // 媒体側で既にカテゴリ選別済みのため、タイトルにキーワードが無くても
+        // 「建設」タグを必ず付けて残す（＝下の「その他」除外の対象にしない）
+        // ※ tagAsは出力用kindフィールド（news/press）とは別軸。ここでは"news"のまま出力される。
+        if (feed.tagAs === "construction") {
+          tags = tags.filter(t => t !== "その他");
+          tags = Array.from(new Set([...tags, "建設"]));
         }
 
         // 厳選: 興味関心の外（タグが「その他」だけ）はストックしない
