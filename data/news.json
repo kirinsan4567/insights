@@ -1,5 +1,41 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USTZwOU9HUlZNSWcwUE1NOXpwNm9Bd3hBUVRkY0I4QVNZZ19QVE1KMFpaZlN0bHFaM0NDWEpmMnpkRzB0R1lXUVJsZkYyejVGWFY4UnNHcGhYVElvdTRENUZ0OWRWRjQ?oc=5",
+    "title": "東京23区の8割で新築マンション平均1億円超え 足立区・板橋区も初の大台突破",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USTZwOU9HUlZNSWcwUE1NOXpwNm9Bd3hBUVRkY0I4QVNZZ19QVE1KMFpaZlN0bHFaM0NDWEpmMnpkRzB0R1lXUVJsZkYyejVGWFY4UnNHcGhYVElvdTRENUZ0OWRWRjQ?oc=5",
+    "source": "マイナビニュース",
+    "date": "2026-07-03T22:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/949924",
+    "title": "｢名古屋や豊田より購買力が低い街｣だったのに…76億円\"ハコモノ再開発\"が招いた｢愛知の商業都市｣の哀しい衰退 | ライフ | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/949924?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-07-03T21:45:00.000Z",
+    "tags": [
+      "開発・デベロッパー"
+    ],
+    "summary": "かつて｢家族の憧れの場｣だった百貨店は､なぜ徐々に姿を消したのか―愛知県岡崎市を舞台に､商店街の再開発と地元商店主たちの葛藤､市民の消費行動とのすれ違いを追います。",
+    "kind": "news"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/949916",
+    "title": "｢全国初の再開発だ｣→｢40年で松坂屋も西武もセルビも消える｣…\"愛知屈指の商都\"から百貨店が全滅した切ない顛末 | ライフ | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/949916?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-07-03T21:45:00.000Z",
+    "tags": [
+      "開発・デベロッパー"
+    ],
+    "summary": "かつて｢西三河の商業中心地｣として百貨店や大型店が立ち並んだ岡崎市。全国初の大規模再開発やイオンの県外初進出が話題を呼びましたが､今や百貨店はすべて姿を消しました。なぜ岡崎には百貨店が根付かなかった…",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjBNaTFvSGlLOEcyUXVDU3BaT2RMTEJTM1p1RzU2bklEeU12a2gyQmZuTEZSRlpzSE0xMHQzakhVdExyV2JJOVV5WFloT2pzSlJqaklTQXpVNkVmMVZ6clpmS3Fxb2pxRmF2V3ptdUtYZHVja200MGpvQkNaNHNIUUp3?oc=5",
     "title": "【Buttery本店】レモン香るクッキー缶＆まるごと桃タルトなどフレッシュな夏の新作スイーツ7月2日より新発売！",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPRjBNaTFvSGlLOEcyUXVDU3BaT2RMTEJTM1p1RzU2bklEeU12a2gyQmZuTEZSRlpzSE0xMHQzakhVdExyV2JJOVV5WFloT2pzSlJqaklTQXpVNkVmMVZ6clpmS3Fxb2pxRmF2V3ptdUtYZHVja200MGpvQkNaNHNIUUp3?oc=5",
@@ -1003,10 +1039,11 @@
     "date": "2026-07-02T21:00:00.000Z",
     "tags": [
       "開発・デベロッパー",
-      "建設"
+      "建設",
+      "日鉄"
     ],
     "summary": "日鉄興和不動産は１日、川崎市で賃貸物流施設と賃貸Ｒ＆Ｄ施設、賃貸工場を一体化した「（仮称）ＬＯＧＩＦＲＯＮＴ ０１－ＬａｂＦａｃｔｏｒｙ川崎高津」に着工した。延べ１２・１万平方メートルの規模で、日鉄エンジニアリングが設 […]",
-    "kind": "news"
+    "kind": "press"
   },
   {
     "id": "https://www.decn.co.jp/?p=185752",
@@ -4086,6 +4123,18 @@
     "tags": [
       "金利・日銀",
       "住宅ローン"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBja2VHRkNJd05zNDcxdmpYa1FsRE9QTjRJdm1WRkd4OEUtal8wekVzdW5BVGhNN3V4Z3JXckZlUF96bTdaOXN1Y0h3bUVpbjRoLWpVVVNTLVhDUk1CUnRoVDhqcUMzajlEQmk4?oc=5",
+    "title": "三福綜合不動産公式YouTubeが総再生回数8万回を突破",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBja2VHRkNJd05zNDcxdmpYa1FsRE9QTjRJdm1WRkd4OEUtal8wekVzdW5BVGhNN3V4Z3JXckZlUF96bTdaOXN1Y0h3bUVpbjRoLWpVVVNTLVhDUk1CUnRoVDhqcUMzajlEQmk4?oc=5",
+    "source": "時事ドットコム",
+    "date": "2026-06-30T06:45:00.000Z",
+    "tags": [
+      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
@@ -15420,58 +15469,6 @@
       "不動産・市場"
     ],
     "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://prtimes.jp/main/html/rd/p/000000580.000001379.html",
-    "title": "「虎ノ門アルセアタワー」の12店舗が初参加 「Toranomon Hills Bar Hopping ～飲んで食べて美食巡り～」",
-    "url": "https://prtimes.jp/main/html/rd/p/000000580.000001379.html",
-    "source": "PR TIMES（日鉄興和不動産）",
-    "date": "2026-05-13T04:00:01.000Z",
-    "tags": [
-      "日鉄",
-      "開発・デベロッパー"
-    ],
-    "summary": "[日鉄興和不動産株式会社] 日鉄興和不動産株式会社（本社：東京都港区、代表取締役社長：三輪 正浩、以下「当社」）が運営する「虎ノ門アルセアタワー」の飲食店12店舗が、2026年5月21日（木）～28日（木）に開催されるグルメイベント「T...",
-    "kind": "news"
-  },
-  {
-    "id": "https://prtimes.jp/main/html/rd/p/000000930.000025694.html",
-    "title": "【ノーガホテル 上野 東京】ジンジャーシロップの残渣（ざんさ）から生まれたクラフトジン。2026年5月13日より提供開始",
-    "url": "https://prtimes.jp/main/html/rd/p/000000930.000025694.html",
-    "source": "PR TIMES（野村不動産）",
-    "date": "2026-05-13T03:00:02.000Z",
-    "tags": [
-      "野村",
-      "開発・デベロッパー"
-    ],
-    "summary": "[野村不動産ホールディングス株式会社] [表: https://prtimes.jp/data/corp/25694/table/930_1_f73f9db48f4fc90c35ada38eb1785b74.jpg ] 野村不動産ホテルズ株式会社（本社：東京都港区／代表取締役社長…",
-    "kind": "news"
-  },
-  {
-    "id": "https://prtimes.jp/main/html/rd/p/000000932.000025694.html",
-    "title": "経年により年々高まる住宅設備の不具合リスクや不安に対応 住まいの安心を20年支える新サービス「NEXT PASS 20」提供開始",
-    "url": "https://prtimes.jp/main/html/rd/p/000000932.000025694.html",
-    "source": "PR TIMES（野村不動産）",
-    "date": "2026-05-13T02:00:02.000Z",
-    "tags": [
-      "野村",
-      "開発・デベロッパー"
-    ],
-    "summary": "[野村不動産ホールディングス株式会社] [表: https://prtimes.jp/data/corp/25694/table/932_1_fa5303219aca14de66304a440a384c82.jpg ] 野村不動産株式会社（本社：東京都港区／代表取締役社長：松尾大…",
-    "kind": "news"
-  },
-  {
-    "id": "https://prtimes.jp/main/html/rd/p/000002665.000002296.html",
-    "title": "コスモスイニシア、10年先を見据えた「Vision 2035」を策定し、“新しいあたりまえ”をつくる企業へと前進(ニュースレター)",
-    "url": "https://prtimes.jp/main/html/rd/p/000002665.000002296.html",
-    "source": "PR TIMES（大和ハウス工業）",
-    "date": "2026-05-13T02:00:02.000Z",
-    "tags": [
-      "大和",
-      "開発・デベロッパー"
-    ],
-    "summary": "[大和ハウス工業株式会社] 大和ハウスグループの株式会社コスモスイニシア（本社：東京都港区、社長：高智 亮大朗、以下「コスモスイニシア」）は、10年先を見据えた「Vision 2035」を策定し、これまで掲げてきた「Mission」とあわせ、コ...",
     "kind": "news"
   }
 ]
