@@ -1,5 +1,187 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adE52eVNfdkNZUU92aVpmc3IzRlRhdVNaMGtFSUZYOTI3RHdRNkFNcTFDY0tZRGxkZXlDT3ZhVnRmVTRPNnlNcVRLODLSAU9BVV95cUxNTkhZRGxDalZVMDZrT0l6UkJFei02enEzWFF5SEJ1YmFJalVsWnBMRnBZb1ZQdXlISGFkcVpyazF2UndOZjFiSU9pelJuZmpr?oc=5",
+    "title": "え、「年金」が改善してるってホント？金利上昇と株高で意外な効果も〈油断は禁物〉のワケ",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9adE52eVNfdkNZUU92aVpmc3IzRlRhdVNaMGtFSUZYOTI3RHdRNkFNcTFDY0tZRGxkZXlDT3ZhVnRmVTRPNnlNcVRLODLSAU9BVV95cUxNTkhZRGxDalZVMDZrT0l6UkJFei02enEzWFF5SEJ1YmFJalVsWnBMRnBZb1ZQdXlISGFkcVpyazF2UndOZjFiSU9pelJuZmpr?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.decn.co.jp/?p=185824",
+    "title": "マイクロン／広島工場（広島県東広島市）拡張工事が起工／フジタが総合建設パートナー",
+    "url": "https://www.decn.co.jp/?p=185824",
+    "source": "日刊建設工業新聞（工事・計画）",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "米半導体大手マイクロン・テクノロジーは、子会社のマイクロンメモリジャパンの広島工場（広島県東広島市）で、４日に拡張工事の起工式を開いた。工場の西側にクリーンルームを備えた新棟を建設。ＡＩ向け次世代メモリーを生産する。２ […]",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.decn.co.jp/?p=185826",
+    "title": "東京・葛飾区／スタジアム構想事業検討委員会が初会合／役割分担など議論",
+    "url": "https://www.decn.co.jp/?p=185826",
+    "source": "日刊建設工業新聞（工事・計画）",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "東京・葛飾区が「葛飾区スタジアム構想事業検討委員会」の初会合を３日に区役所で開いた。区内で整備を目指すＪリーグ基準のスタジアムを巡り、基本的な考え方や役割分担などを議論。委員会の意見も踏まえたスタジアム構想などをまとめ […]",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.decn.co.jp/?p=185833",
+    "title": "東北農政局／廻堰大溜池の改修／地区調査に着手",
+    "url": "https://www.decn.co.jp/?p=185833",
+    "source": "日刊建設工業新聞（工事・計画）",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "東北農政局は、青森県鶴田町と弘前市に跨がる廻堰（まわりぜき）大溜池の老朽化対策に取り組むため、本年度から複数年をかけて地区調査を進める。北奥羽土地改良調査管理事務所が耐震性能照査検討や施設計画検討など４件の関連業務を発 […]",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.decn.co.jp/?p=185834",
+    "title": "愛知県／美術品等共同収蔵庫整備等事業／実施方針を公表、８月に公告へ",
+    "url": "https://www.decn.co.jp/?p=185834",
+    "source": "日刊建設工業新聞（工事・計画）",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "愛知県は６日、ＰＦＩを導入する「愛知県美術品等共同収蔵庫整備等事業」の実施方針を公表した。今後のスケジュールは８月に総合評価一般競争入札（ＷＴＯ対象）を公告し、９月に参加表明書を受け付ける。個別対話を経て２０２７年２月 […]",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.decn.co.jp/?p=185837",
+    "title": "大阪府市／夢洲第２期区域開発事業者募集プロポ公告／８月５日から参加受付",
+    "url": "https://www.decn.co.jp/?p=185837",
+    "source": "日刊建設工業新聞（工事・計画）",
+    "date": "2026-07-06T21:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "大阪府と大阪市は、大阪・関西万博跡地のうち売却対象地約４２ヘクタールを対象とした「夢洲第２期区域開発事業者募集」の公募型プロポーザル（２段階審査方式）を３日に公告した。計画内容と価格の提案を評価する。参加申請の受付期間 […]",
+    "kind": "news"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/950522",
+    "title": "｢ボーナス年額｣ランキングTOP100社 1位は驚異の27.7カ月で1000万円超！ 3位は住友商事､1位･2位は…？〈再配信〉 | キャリア・教育 | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/950522?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-07-06T20:30:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "住友商事"
+    ],
+    "summary": "6月は夏のボーナスが話題となる季節。2025年夏･冬の一時金は過去最高額を更新し､多くの企業で高額な支給が続いています。従業員平均ボーナス額が最も高かった企業はどこでしょうか（※読者の反響が大きかっ…",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNamtFNVJ4QUdkQVVXRWxONWw5M1BDT1BmbDVkcHh0akdUR0VSXzJOZElqdER2Q2otLVJuTzc3cVpsYlNqN0ZIOW42WFdjNjVGQ2tZU2Zpb0k5d2piY3dZX1BTYmFxb3F4cnp6MjhqUzE2LW1qc0hoeERHNHhwMFFCXzBVMmZxZnBNSVA2SDhkQzFDUWpERUoxTnNCMFhwbUxISjFEeW5oVzktMGx4eHYtUDc3RDdKOWpxWmJZYlc5S240TmFwR2g0LWRkSlBGTFpCaFZySjFRSVM0V1RZVEtvWHdCdFVYQmEtWHV6ak9nX1U0V0ptb1drVVJBdWlfVzRZazhEOGNuOTN0YVlTNkduTjZzVk1rTEVLeG5MUDFsM1NFQWNjUkVVTEJfd2Fia3RxYXNwaXRIZ1F1aWJlcUQ2aQ?oc=5",
+    "title": "PGA TOUR「Baycurrent Classic Presented by LEXUS」のスポンサーシップ契約を締結",
+    "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNamtFNVJ4QUdkQVVXRWxONWw5M1BDT1BmbDVkcHh0akdUR0VSXzJOZElqdER2Q2otLVJuTzc3cVpsYlNqN0ZIOW42WFdjNjVGQ2tZU2Zpb0k5d2piY3dZX1BTYmFxb3F4cnp6MjhqUzE2LW1qc0hoeERHNHhwMFFCXzBVMmZxZnBNSVA2SDhkQzFDUWpERUoxTnNCMFhwbUxISjFEeW5oVzktMGx4eHYtUDc3RDdKOWpxWmJZYlc5S240TmFwR2g0LWRkSlBGTFpCaFZySjFRSVM0V1RZVEtvWHdCdFVYQmEtWHV6ak9nX1U0V0ptb1drVVJBdWlfVzRZazhEOGNuOTN0YVlTNkduTjZzVk1rTEVLeG5MUDFsM1NFQWNjUkVVTEJfd2Fia3RxYXNwaXRIZ1F1aWJlcUQ2aQ?oc=5",
+    "source": "ラブすぽ",
+    "date": "2026-07-06T20:20:10.000Z",
+    "tags": [
+      "三菱",
+      "開発・デベロッパー"
+    ],
+    "summary": "[三菱地所株式会社] 三菱地所株式会社とPGA TOURは、アジア唯一のPGA TOUR公式大会である「Baycurrent Classic Presented by LEXUS」のスポンサーシップ契約を締結し、三菱地所が本大会のプレミアムスポンサーに就くことを決定しま...",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY0s1dlNINGFOaWx4Y00zdjVTVFEtSVZ3eGg4TjFDZjF2ckwweXk2MzliNHBRN1hVNlpac3E2dm1KdFVUS2hpT0dsQlN1MlE1b3c?oc=5",
+    "title": "暮らしの常識を覆す…ミラノ・サローネから紐解く「ライフスタイルの変化」と「不動産の未来」",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TY0s1dlNINGFOaWx4Y00zdjVTVFEtSVZ3eGg4TjFDZjF2ckwweXk2MzliNHBRN1hVNlpac3E2dm1KdFVUS2hpT0dsQlN1MlE1b3c?oc=5",
+    "source": "ゴールドオンライン",
+    "date": "2026-07-06T20:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOM1V6VGZFRnJ2UVNzMWZ5VGh1aWZXODNDMXV2UkVwY04ySVgzRHdiYldVUDNxd2hJaldtemxycFZoOEVuREFqbmFIcy1LTXMyUWdsNmRFQml5Und5UjhnaG9ibVNJM1k?oc=5",
+    "title": "AIでシールド機を自動運転、大成建設 鹿児島県のトンネルで初適用",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBOM1V6VGZFRnJ2UVNzMWZ5VGh1aWZXODNDMXV2UkVwY04ySVgzRHdiYldVUDNxd2hJaldtemxycFZoOEVuREFqbmFIcy1LTXMyUWdsNmRFQml5Und5UjhnaG9ibVNJM1k?oc=5",
+    "source": "日経クロステック",
+    "date": "2026-07-06T20:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ESVU4Z3ZIZ004a2pDd01wcTdjZXRuQVlHNDNYMWx0VF9Mdl9VeHhxTmQ0bXZZZndObndyLXN1Rnl4aVJKb283eWhCbE9KQUFtTUh4RF9FNFpsV2VCbEdPOGtlVmlKU0k?oc=5",
+    "title": "土木・建築分野でロボット62万台導入へ、2040年めど 経済産業省",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ESVU4Z3ZIZ004a2pDd01wcTdjZXRuQVlHNDNYMWx0VF9Mdl9VeHhxTmQ0bXZZZndObndyLXN1Rnl4aVJKb283eWhCbE9KQUFtTUh4RF9FNFpsV2VCbEdPOGtlVmlKU0k?oc=5",
+    "source": "日経クロステック",
+    "date": "2026-07-06T20:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.kensetsunews.com/archives/1256737",
+    "title": "2月上旬に入札公告/熊谷市のDBO新衛生センター/ストーカ式で日量198t",
+    "url": "https://www.kensetsunews.com/archives/1256737",
+    "source": "建設通信新聞Digital（関東・甲信越）",
+    "date": "2026-07-06T19:55:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "埼玉県熊谷市は、ＤＢＯ（設計・建設・運営）方式による整備を検討している「（仮称）新熊谷衛生センター…",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.kensetsunews.com/archives/1256785",
+    "title": "水産庁/14億余で五洋建設/WTO狼煙漁港災害復旧",
+    "url": "https://www.kensetsunews.com/archives/1256785",
+    "source": "建設通信新聞Digital（関東・甲信越）",
+    "date": "2026-07-06T19:55:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "水産庁は、ＷＴＯ対象の「令和８年度狼煙漁港（狼煙地区）災害復旧工事」を総合評価一般競争入札した結果…",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.kensetsunews.com/archives/1256908",
+    "title": "観音寺スマートICが開通/交流人口増、観光振興に期待/市、NEXCO共同事業",
+    "url": "https://www.kensetsunews.com/archives/1256908",
+    "source": "建設通信新聞Digital（行政）",
+    "date": "2026-07-06T19:55:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "ＮＥＸＣＯ西日本四国支社と香川県観音寺市が共同で進めてきた「観音寺スマートインターチェンジ（ＩＣ）…",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5ZnVVMUQzLWo0QlNCY0tCY3FzQkdSWGF1VjJkbzU2b1JGWmlwcUN4OExFS0Vrcy1yWGhJUHRkTW1palp3Z1o4?oc=5",
+    "title": "【注目トピックス 市況・概況】[通貨オプション]OP売り、レンジ相場で",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB5ZnVVMUQzLWo0QlNCY0tCY3FzQkdSWGF1VjJkbzU2b1JGWmlwcUN4OExFS0Vrcy1yWGhJUHRkTW1palp3Z1o4?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-06T18:33:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFQ4eHRVcGRkUW5YNmxlVUpMc0QwTHoyTDNBd1EteHhWMVd5UjNyX3h5UTZHZTJPNTk4M0hsVkk0RDhITVNIb1AxYnR2VXlEQk5fY19UaDhfcVV0ZWRIdTZXY1FjeHZqOHZMYmpGOVNESk1BZkpQLUVsUVZPdkh6WDdldExkWTNMOUtjRmNyaU9jTF9MRVYzN2dfWXhrUTJLUExBOUl3?oc=5",
     "title": "（人事・住建・不動産）大和ハウス工業",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFQ4eHRVcGRkUW5YNmxlVUpMc0QwTHoyTDNBd1EteHhWMVd5UjNyX3h5UTZHZTJPNTk4M0hsVkk0RDhITVNIb1AxYnR2VXlEQk5fY19UaDhfcVV0ZWRIdTZXY1FjeHZqOHZMYmpGOVNESk1BZkpQLUVsUVZPdkh6WDdldExkWTNMOUtjRmNyaU9jTF9MRVYzN2dfWXhrUTJLUExBOUl3?oc=5",
@@ -12,6 +194,20 @@
     ],
     "summary": "",
     "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pVUNxV0plZ3l0OWNma1BqdWtPXzd6VjhCaC1SVzRmTTJCYThaa0NzSm5nZzcteHFUOTg4M201MGpvX2tPLW40OFh2MTRjaXF5LVE5bXNWQllqdURMSTNR?oc=5",
+    "title": "【タイ】三菱地所とセントラル、複合施設を共同開発［建設］",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9pVUNxV0plZ3l0OWNma1BqdWtPXzd6VjhCaC1SVzRmTTJCYThaa0NzSm5nZzcteHFUOTg4M201MGpvX2tPLW40OFh2MTRjaXF5LVE5bXNWQllqdURMSTNR?oc=5",
+    "source": "千葉テレビ放送",
+    "date": "2026-07-06T17:02:09.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "建設",
+      "三菱"
+    ],
+    "summary": "",
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2xFSV8wSjdCbGhEbUNQNER3TVFlYUEzbUNIaXRBVzFYSDVUc2xZZUEyTVVCY3gyZVdmNlhEYVZpWGJYNmRweDFLOTg2Z1NYYkI0VERvampURTdwVGZPd1U5QVJYSEEzYnFXRDFXS1E2NjJhMk5saGd5dzUxTmhhVXJNQVYtanJmUHYyeA?oc=5",
@@ -1030,6 +1226,20 @@
       "開発・デベロッパー",
       "建設",
       "住友商事"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YaGtrMW9nd1Q1eENtWVNxQWYtal8xRGRDWkNwUmpfblNsNnJJWE1BMHFwd2k2RXBGSTlydXRaS3ZXR0NGM3JQMkhaZmpNUUlSQW55Nk9fU1A2OGpxc1lJM1JB?oc=5",
+    "title": "【開発】早稲田大学そばに学生マンション、三菱地所レジ",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YaGtrMW9nd1Q1eENtWVNxQWYtal8xRGRDWkNwUmpfblNsNnJJWE1BMHFwd2k2RXBGSTlydXRaS3ZXR0NGM3JQMkhaZmpNUUlSQW55Nk9fU1A2OGpxc1lJM1JB?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-07-05T21:02:16.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "三菱"
     ],
     "summary": "",
     "kind": "press"
@@ -2901,6 +3111,18 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5BOU13Ykx4ZzdXYWRYc2FuN3c4TkljNGk3TmxDTjBSVXVqU3dLRjRiZ3Z3eHpSSkdaRzVkb0xZczA2THJCSXlJ?oc=5",
     "source": "マネーポストWEB",
     "date": "2026-07-02T23:24:05.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84TVQ5Wi1wdXhMYlZhQnE3aGt1YXktZ2ZYS3M5eC1rWVhlazhKa3dyOVVSUVNfdFBCYWNUQkVSb3BKOUdMX09sLXFoSmhMb3ZlUG5v?oc=5",
+    "title": "恩田駅徒歩8分、ペットOK、小型犬猫2匹、大型犬可、ペット設備充実、動物病院付近有りの賃貸マンション情報-http://www.maido39.com/",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84TVQ5Wi1wdXhMYlZhQnE3aGt1YXktZ2ZYS3M5eC1rWVhlazhKa3dyOVVSUVNfdFBCYWNUQkVSb3BKOUdMX09sLXFoSmhMb3ZlUG5v?oc=5",
+    "source": "ドリームニュース",
+    "date": "2026-07-02T23:22:46.000Z",
     "tags": [
       "不動産・市場"
     ],
@@ -5960,19 +6182,6 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05R29GUEJ4c0JTV21ieEVSdUFZWlBFVDBhX3F3Y2lsWjhtRVFOUFFiek1CTzF6VElkVDUxMVF1Y3p6a3dIa0JuTVVPWm9nVmpLcm5QV1FNMHRPaDB5dWdPQ3dTNGpaUWpqWlE?oc=5",
-    "title": "PGA TOUR「Baycurrent Classic Presented by LEXUS」のスポンサーシップ契約を締結",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05R29GUEJ4c0JTV21ieEVSdUFZWlBFVDBhX3F3Y2lsWjhtRVFOUFFiek1CTzF6VElkVDUxMVF1Y3p6a3dIa0JuTVVPWm9nVmpLcm5QV1FNMHRPaDB5dWdPQ3dTNGpaUWpqWlE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-07-01T01:00:03.000Z",
-    "tags": [
-      "三菱",
-      "開発・デベロッパー"
-    ],
-    "summary": "[三菱地所株式会社] 三菱地所株式会社とPGA TOURは、アジア唯一のPGA TOUR公式大会である「Baycurrent Classic Presented by LEXUS」のスポンサーシップ契約を締結し、三菱地所が本大会のプレミアムスポンサーに就くことを決定しま...",
-    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GcHY5bEV1X29JTXhDVHlfOERJdEZiT1g1cTlTZmY4cU1iTVJxREEtcEI4V0E0bDFuMGFmWmxrRUJ2VmVzRTNEOUR0UVEwdFBaX01ZUEU2VTlkTFpmOWplZXA1Q2Y1VDluN0E?oc=5",
@@ -11858,19 +12067,6 @@
     "kind": "press"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WYmR6UmdjQmNBZ3Q2VlFBeTgydVRqLTBCd2JYYi1UX0FTRkViWWJyUTBqTmZYa05oM1phLWFONDFmRl9pOFBqRHhmeWxyVi1hakZSdWM2U0xLcEFXeVlBYmdrRHktRjdvVEE?oc=5",
-    "title": "「蓼科 東急ホテル」コテージ棟 第一期リニューアルオープン",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WYmR6UmdjQmNBZ3Q2VlFBeTgydVRqLTBCd2JYYi1UX0FTRkViWWJyUTBqTmZYa05oM1phLWFONDFmRl9pOFBqRHhmeWxyVi1hakZSdWM2U0xLcEFXeVlBYmdrRHktRjdvVEE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-19T07:00:00.000Z",
-    "tags": [
-      "東急",
-      "開発・デベロッパー"
-    ],
-    "summary": "[東急不動産株式会社] 東急不動産株式会社（本社：東京都渋谷区、代表取締役社長：田中 辰明、以下「東急不動産」）が保有し、東急リゾーツ＆ステイ株式会社（本社：東京都渋谷区、代表取締役社長：山脇 賢一、以下「東急リゾーツ＆...",
-    "kind": "press"
-  },
-  {
     "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTNDMjczYURCVUZTR284RmJKVXRLVW1faDkwZTk0amZUcEVYVF8ybTl5cUZPclVnOC1XWlZPY3Q3Zmpnd3lodXo5VENNbVlKNjdKbVR0MUxXYzZUWEFOb3YzOTdSTTQ1TzZIRmNQZVpXd3diUEtOZGFhUDBvZG14MERTd2h3bG53?oc=5",
     "title": "7月のフラット35金利は引き下げでも3%台を維持！ 住宅ローン金利（変動・10年固定）を予想（ダイヤモンド不動産研究所）",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTTNDMjczYURCVUZTR284RmJKVXRLVW1faDkwZTk0amZUcEVYVF8ybTl5cUZPclVnOC1XWlZPY3Q3Zmpnd3lodXo5VENNbVlKNjdKbVR0MUxXYzZUWEFOb3YzOTdSTTQ1TzZIRmNQZVpXd3diUEtOZGFhUDBvZG14MERTd2h3bG53?oc=5",
@@ -11936,6 +12132,19 @@
     ],
     "summary": "[三井不動産株式会社] 本レターのポイント 三井不動産株式会社、住友生命保険相互会社、ダイキン工業株式会社、株式会社大和証券グループ本社、三井化学株式会社の5社共催による「LGBTQ+トークイベント」を開催 『＆BIZ三井のオ...",
     "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByQzkyWjVTVXo3N0g1M3BwRlhXLVFYSWdQUmxsMV9sWjZQRlpSZVhfRE82SURNcVN2dFJWTWFHUl9qYWk4Yl9HSlZoSC1neDRZd0VUdmtn?oc=5",
+    "title": "「蓼科 東急ホテル」コテージ棟 第一期リニューアルオープン",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFByQzkyWjVTVXo3N0g1M3BwRlhXLVFYSWdQUmxsMV9sWjZQRlpSZVhfRE82SURNcVN2dFJWTWFHUl9qYWk4Yl9HSlZoSC1neDRZd0VUdmtn?oc=5",
+    "source": "フーズチャネル",
+    "date": "2026-06-19T05:20:36.000Z",
+    "tags": [
+      "東急",
+      "開発・デベロッパー"
+    ],
+    "summary": "[東急不動産株式会社] 東急不動産株式会社（本社：東京都渋谷区、代表取締役社長：田中 辰明、以下「東急不動産」）が保有し、東急リゾーツ＆ステイ株式会社（本社：東京都渋谷区、代表取締役社長：山脇 賢一、以下「東急リゾーツ＆...",
+    "kind": "press"
   },
   {
     "id": "https://prtimes.jp/main/html/rd/p/000000709.000006953.html",
@@ -15075,228 +15284,5 @@
     ],
     "summary": "",
     "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmdjMUlBWWt5bVBXZHpSbk1YbGZoMGtDYW93WS1WRGQzNTcyMy00YUpvcmVIQ1pTRExOcVhtU0JTc280c3Y1S25uU1hCaEZ1dWpRc2dOazVodU1EeWhVNjNWMHBZOWFuYmRIT0ZlRUVaM252WG5kbDF6RWVDbUtkZA?oc=5",
-    "title": "米中古住宅販売、5月は3.2％増の417万戸 予想上回る",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQmdjMUlBWWt5bVBXZHpSbk1YbGZoMGtDYW93WS1WRGQzNTcyMy00YUpvcmVIQ1pTRExOcVhtU0JTc280c3Y1S25uU1hCaEZ1dWpRc2dOazVodU1EeWhVNjNWMHBZOWFuYmRIT0ZlRUVaM252WG5kbDF6RWVDbUtkZA?oc=5",
-    "source": "Reuters",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVLXZCUUM2bTh5SHROUG1aajctYVJVN1Q2OVl0UDNtLWtCZC1NWTNXMWVwaGd4bXlvRk01NnBnYVpQMk95WXktdnlRRnB0OTgtdGt2bEhFeEliV1F4MHpNejhxSzJzZ2M?oc=5",
-    "title": "日銀、6月会合で利上げの公算大 31年ぶり政策金利1.0%程度へ",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVLXZCUUM2bTh5SHROUG1aajctYVJVN1Q2OVl0UDNtLWtCZC1NWTNXMWVwaGd4bXlvRk01NnBnYVpQMk95WXktdnlRRnB0OTgtdGt2bEhFeEliV1F4MHpNejhxSzJzZ2M?oc=5",
-    "source": "朝日新聞",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xNDlQdWl3SmhJY3pmUlBMVXN1VkFhZEJNYlNwNGhVYlBWOVZuekRhU3ZjQVV3ZDR2MUxfQnlVdnRCU2xnX216TFMwTkJtSzctakhRWjhB?oc=5",
-    "title": "政策金利、1・0％に引き上げへ 日銀、31年ぶりの高さ",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0xNDlQdWl3SmhJY3pmUlBMVXN1VkFhZEJNYlNwNGhVYlBWOVZuekRhU3ZjQVV3ZDR2MUxfQnlVdnRCU2xnX216TFMwTkJtSzctakhRWjhB?oc=5",
-    "source": "西日本新聞me",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvUGE2czhBS2RacFoyUGJIRFI2dFoyTGV4V1FPQktNdmpiWUFnNUVCRTAtSmxTdkM0UktPN18xUmlscnZSeWl2WEVQSElaS1Y2S2U1bXNB?oc=5",
-    "title": "日銀利上げで住宅ローン返済負担重く 高齢者や富裕層には恩恵も",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBvUGE2czhBS2RacFoyUGJIRFI2dFoyTGV4V1FPQktNdmpiWUFnNUVCRTAtSmxTdkM0UktPN18xUmlscnZSeWl2WEVQSElaS1Y2S2U1bXNB?oc=5",
-    "source": "西日本新聞me",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xUHFfQjhCdVFESkFqZzhOa29UdzJoX1VVSjRxY1JNdXVQNGRfTkN1b09oY0ZzTl93RURyQTRjdnloMmtQa0I3WkE0dmhkRk5NRVpMYVlFX3U?oc=5",
-    "title": "平和不動産、駐車場をレンタルコンテナに",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0xUHFfQjhCdVFESkFqZzhOa29UdzJoX1VVSjRxY1JNdXVQNGRfTkN1b09oY0ZzTl93RURyQTRjdnloMmtQa0I3WkE0dmhkRk5NRVpMYVlFX3U?oc=5",
-    "source": "全国賃貸住宅新聞",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdTI2RkNBTHNrd1VtQ3htMy1iMlRfTUZRQUgwTGpISVBOeU8xQTVTSXhCWldDTFZyeHlqY21zTFF1bHFJNTFVdFp1U2FUZFZQeDhRSjBPV05lVjJBNFRqTmQ1cWc1cmM?oc=5",
-    "title": "水辺空間生かすエリア誕生へ 東京ミッドタウン日本橋が27年秋開業 [東京都]",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YdTI2RkNBTHNrd1VtQ3htMy1iMlRfTUZRQUgwTGpISVBOeU8xQTVTSXhCWldDTFZyeHlqY21zTFF1bHFJNTFVdFp1U2FUZFZQeDhRSjBPV05lVjJBNFRqTmQ1cWc1cmM?oc=5",
-    "source": "朝日新聞",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "三井",
-      "開発・デベロッパー",
-      "野村"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OdzdHNFZvczRyelF4cU5lQ1JydDZrLUhWX1lyRFBIOHJhdEYyOWlCOW1waTluQTdpcDFRZ3Nza1Jkb3FXZVRMSGM2VWZDdjN5N1dXVVU2SE1WV2VYZXd1REhha2RtNFcwaEE?oc=5",
-    "title": "三井不動産とKDDIスマートドローン、オフィスビル内で狭小空間ドローン「IBIS2」の点検実証を実施",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OdzdHNFZvczRyelF4cU5lQ1JydDZrLUhWX1lyRFBIOHJhdEYyOWlCOW1waTluQTdpcDFRZ3Nza1Jkb3FXZVRMSGM2VWZDdjN5N1dXVVU2SE1WV2VYZXd1REhha2RtNFcwaEE?oc=5",
-    "source": "ドローンジャーナル",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "住宅ローン",
-      "不動産・市場",
-      "開発・デベロッパー",
-      "三井"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fUHdPblBsNm5qUGxVeldkQkE4VWNEWXdVem16UTZZTHdQN3pFenNXM3B0bEV6VnUxMzdNbHhyUGFvTDR1ZGRyOEFB?oc=5",
-    "title": "大和ハウス、マルチテナント施設「DPL寒川Ⅰ」着工",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9fUHdPblBsNm5qUGxVeldkQkE4VWNEWXdVem16UTZZTHdQN3pFenNXM3B0bEV6VnUxMzdNbHhyUGFvTDR1ZGRyOEFB?oc=5",
-    "source": "マテリアルフロー･プラス",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "大和",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVGxqN0VUVVhiVUlLMTFFUHZmS1R6bVRXVEdXTmdNSlp6Vjlsak5OT1poYWlrdWxlR3RJYXdjYjVTaXpDdUhWeGVmdmV0QUluS1VCRmtjLTJ1V3A1YVV6djdRQWh3TVluLXc?oc=5",
-    "title": "新さっぽろ駅周辺地区における複合開発プロジェクトが日本都市計画学会 学会賞「計画設計賞」を受賞(ニュースレター)",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zVGxqN0VUVVhiVUlLMTFFUHZmS1R6bVRXVEdXTmdNSlp6Vjlsak5OT1poYWlrdWxlR3RJYXdjYjVTaXpDdUhWeGVmdmV0QUluS1VCRmtjLTJ1V3A1YVV6djdRQWh3TVluLXc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "大和",
-      "開発・デベロッパー"
-    ],
-    "summary": "[大和ハウス工業株式会社] 大和ハウス工業株式会社（本社：大阪市、社長：大友 浩嗣）は、大成建設株式会社（本社：東京都新宿区、社長：相川 善郎）、株式会社ドーコン（本社：札幌市、社長：今 日出人）、一般社団法人新さっぽろエリア...",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnQ0NsOUVMYkg4ZjZQalRyS1AwdTk5bmJ2VnVOZ3NmNzBVVUViVFNSbHh3ZUtEcWpkSXJIbEtVRUgyYTRYTWtoNW9aR041cVVnUVBjdzBEeURNMUp2ekZBODc3WDQ3MUVzQUE?oc=5",
-    "title": "積水ハウスとフェアフィールド・バイ・マリオット 道の駅プロジェクト 多様な人権課題の解決を目指す「Tokyo Pride 2026」に共同出展",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnQ0NsOUVMYkg4ZjZQalRyS1AwdTk5bmJ2VnVOZ3NmNzBVVUViVFNSbHh3ZUtEcWpkSXJIbEtVRUgyYTRYTWtoNW9aR041cVVnUVBjdzBEeURNMUp2ekZBODc3WDQ3MUVzQUE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "積水"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cend5bGJPTTFJQ3JIUDEzSTd6QXhVYTItY3JYOVlYUFBGZVVSQmhXNU9wU1NaM1RLc2F2QVZ1NmlDQVF4QXROSk84YmRSZk5fZnQ2RFFjVVVPdzNma2FPQjh3MUFOWElYeUE?oc=5",
-    "title": "【フェアフィールド・バイ・マリオット 道の駅プロジェクト】「マイ下駄」で踊る、特別な郡上の夏。～7月30日、踊り下駄づくり体験イベント開催～",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Cend5bGJPTTFJQ3JIUDEzSTd6QXhVYTItY3JYOVlYUFBGZVVSQmhXNU9wU1NaM1RLc2F2QVZ1NmlDQVF4QXROSk84YmRSZk5fZnQ2RFFjVVVPdzNma2FPQjh3MUFOWElYeUE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "積水",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPaUtJZXZYRm5wN3pGWnZ4SXNqMEdKaXpnOTI1VUlXcTh2RFBxbmc2OEhVYW93aEtUcGJ6ZDB1cmI4RzlYUU9CR0dlLWlBMWNQQjFTWGlMZUpfVm02Qy0xTS0wOTBYeG1pMEg2Y21CeHNXbjBDUU9hb0RXU1pTYVl0OGNZS2J0eXBRdGl4bkkwOTg5bERZeVFyYVpTMzZXRnllZTMzNGU3d2F2NjFncW9IQzBvc21uSTlrQl9HTm5JeV9maWdNamp6a09CNEJRdTBEMnJxbnpGaXh2aVFoYjV5YWtpa3dTTktkUnU4UDc3c1I4eXVqR3Vtc0hJRW1JODVuWjFMVGp4eEpSbmRQUWNFVTh2cHA4czBDNnRv?oc=5",
-    "title": "キーワード：５月・不動産業の倒産件数・負債総額 に関連する記事",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPaUtJZXZYRm5wN3pGWnZ4SXNqMEdKaXpnOTI1VUlXcTh2RFBxbmc2OEhVYW93aEtUcGJ6ZDB1cmI4RzlYUU9CR0dlLWlBMWNQQjFTWGlMZUpfVm02Qy0xTS0wOTBYeG1pMEg2Y21CeHNXbjBDUU9hb0RXU1pTYVl0OGNZS2J0eXBRdGl4bkkwOTg5bERZeVFyYVpTMzZXRnllZTMzNGU3d2F2NjFncW9IQzBvc21uSTlrQl9HTm5JeV9maWdNamp6a09CNEJRdTBEMnJxbnpGaXh2aVFoYjV5YWtpa3dTTktkUnU4UDc3c1I4eXVqR3Vtc0hJRW1JODVuWjFMVGp4eEpSbmRQUWNFVTh2cHA4czBDNnRv?oc=5",
-    "source": "jutaku-s.com",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUVltMU9yd2w3ZlRTYjZuejRGSUkwRFU2MUhrMnlSS2lOejVIWEZPaG1nbGxKaDlXS0dxZ2p0WWJQd19iVkZJempqUWtPbkN0cUpGZHlQYUc1RHg3ZTRhbTRTei15ekZiMlE?oc=5",
-    "title": "「ウエリスタワー枚方樟葉」第1期1次110戸 販売開始",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TUVltMU9yd2w3ZlRTYjZuejRGSUkwRFU2MUhrMnlSS2lOejVIWEZPaG1nbGxKaDlXS0dxZ2p0WWJQd19iVkZJempqUWtPbkN0cUpGZHlQYUc1RHg3ZTRhbTRTei15ekZiMlE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "住友商事",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYmNzMlNfV3JHcGVhVVpaQ3dmZzd2Rm92MmdpZmVFNnZhRDBON3FIbHlLSDFKWWVQV1E3TnU1NUlPUjJBZEloSE81MnVWUWZaTnplbHpkYWRXUENxbktR?oc=5",
-    "title": "野村不動産、ユニクロ向け物流施設がフィリピンで竣工…東南アジア最大規模",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HYmNzMlNfV3JHcGVhVVpaQ3dmZzd2Rm92MmdpZmVFNnZhRDBON3FIbHlLSDFKWWVQV1E3TnU1NUlPUjJBZEloSE81MnVWUWZaTnplbHpkYWRXUENxbktR?oc=5",
-    "source": "レスポンス（Response.jp）",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "野村",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83T1ZxQmpXRWtPODdoTVU4RV9rOXhWWXVTWTJzVEc3MEVOZUEtbjVLdVdoVmo3b2NCNm5ITkhSeUFaZGtfNTktdm1qTWlndW1OVVc0SWl0dVJqRHdHd3cwRVRKd0toaVcxOUE?oc=5",
-    "title": "金利上昇・ナフサ・中東オイル危機・不動産融資厳格化時代でも勝ち続ける福岡の不動産投資戦略。現役サラリーマン投資家ミスターK氏が登壇する新築アパート一棟投資セミナーを6月27日に開催",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83T1ZxQmpXRWtPODdoTVU4RV9rOXhWWXVTWTJzVEc3MEVOZUEtbjVLdVdoVmo3b2NCNm5ITkhSeUFaZGtfNTktdm1qTWlndW1OVVc0SWl0dVJqRHdHd3cwRVRKd0toaVcxOUE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場",
-      "住友商事",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TRUJZX0RDUTR3VTBtLU9DNjV5RGp4NTE3ZElqSi1pSGdTdmltVENqSF84YkhqcnhzZFFweUtNZVNpNDBqWHJuOU1lZVhYNXp5clppVE1VWjNudGJCV2NB?oc=5",
-    "title": "日銀追加利上げで家計に明暗、住宅ローン負担増と預金利息上昇の狭間",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TRUJZX0RDUTR3VTBtLU9DNjV5RGp4NTE3ZElqSi1pSGdTdmltVENqSF84YkhqcnhzZFFweUtNZVNpNDBqWHJuOU1lZVhYNXp5clppVE1VWjNudGJCV2NB?oc=5",
-    "source": "BigGo ファイナンス",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ROUZVZ2NtUURHOGxjWF9Vd0hwQm1UcGpUSG5qX2ZYZWNZTzdMdWJ6WVdEQThYbHVzaUJIenhqeWptbl9PQV9mOFIzVTVyTnVTOUoyVEVKdmJIenRqdzBVS0hGTDRoaVpDaVBsSDZseGxFSjlO?oc=5",
-    "title": "日銀が政策金利1.0%に利上げへ 15日からの金融政策決定会合で踏み切る公算 物価上昇リスクに対応",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ROUZVZ2NtUURHOGxjWF9Vd0hwQm1UcGpUSG5qX2ZYZWNZTzdMdWJ6WVdEQThYbHVzaUJIenhqeWptbl9PQV9mOFIzVTVyTnVTOUoyVEVKdmJIenRqdzBVS0hGTDRoaVpDaVBsSDZseGxFSjlO?oc=5",
-    "source": "TBS NEWS DIG",
-    "date": "2026-06-09T07:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
   }
 ]
