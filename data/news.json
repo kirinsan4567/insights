@@ -38,6 +38,18 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Mcl9FVncwcEQtWGZXQWc4RUZzTEdfdE1Jb3ZDNW1CRkdGY1EtZENVVHhkeldTVXluOHp4UDJTYXFHcTVhemtR?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均テクニカル：続伸、十字線で終値は連日の25日線割れ",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Mcl9FVncwcEQtWGZXQWc4RUZzTEdfdE1Jb3ZDNW1CRkdGY1EtZENVVHhkeldTVXluOHp4UDJTYXFHcTVhemtR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-10T09:15:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pYXlzcUJhUzZaX0dVV1pmWUtLNmtTREY1NVIwVXAxMDdXTmVjLXRET2wxaE9NeThsWlBoQ0JXaTExZFVhcW5nM2QzUDNITGM4MGd5MzVXUE1uNl8zRXVSSVZNNlZKbDhmUlE?oc=5",
     "title": "「渋谷闇バイトゼロプロジェクト」が渋谷区内教育機関で体験型授業を実施",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pYXlzcUJhUzZaX0dVV1pmWUtLNmtTREY1NVIwVXAxMDdXTmVjLXRET2wxaE9NeThsWlBoQ0JXaTExZFVhcW5nM2QzUDNITGM4MGd5MzVXUE1uNl8zRXVSSVZNNlZKbDhmUlE?oc=5",
@@ -1627,6 +1639,18 @@
     "tags": [
       "金利・日銀",
       "住宅ローン"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4ekNPVDZ0QjdxMTdVQUpSV01mZEMzeEprQTFpLWxuNEtGS2N2M0g0SWlBc28wWmxxb25RTmlHczZKZGI1ZjEw?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は軟化する展開",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB4ekNPVDZ0QjdxMTdVQUpSV01mZEMzeEprQTFpLWxuNEtGS2N2M0g0SWlBc28wWmxxb25RTmlHczZKZGI1ZjEw?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-09T00:34:37.000Z",
+    "tags": [
+      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
@@ -15126,34 +15150,5 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwazVfN3pwcDV4NG4yTFJWQnpWYUlQUXY1UHA0ZWRJMEFTclJRTUpMckwwd3VENUNUNmE4M1lzWExoVUd1S19qWEktM0N0V1V6aHpUWDltR25CMDhXNVBnRUVkWkI2TElsdEE?oc=5",
-    "title": "多様な企業・人材・技術が交わる新産業創造拠点「三井不動産インダストリアルパーク海老名（MFIP海老名） ＆forest」竣工",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwazVfN3pwcDV4NG4yTFJWQnpWYUlQUXY1UHA0ZWRJMEFTclJRTUpMckwwd3VENUNUNmE4M1lzWExoVUd1S19qWEktM0N0V1V6aHpUWDltR25CMDhXNVBnRUVkWkI2TElsdEE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-25T07:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "建設",
-      "三井"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbkNIN3FnVThEQWh2YWV5eHZNU2RJa0NrMDlYMlpKdlZfT1pNbTBnV1VOa0N0cEQ3c3RxSHNSd0JNUEJYR0FkUl9xMGRpbGdpWUFvbUlPMnF6UkFDMEZ3c3VxSjhSVHJSVEE?oc=5",
-    "title": "住まいの売買仲介・賃貸情報サイト「三菱地所の住まいリレー」を全面リニューアル",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pbkNIN3FnVThEQWh2YWV5eHZNU2RJa0NrMDlYMlpKdlZfT1pNbTBnV1VOa0N0cEQ3c3RxSHNSd0JNUEJYR0FkUl9xMGRpbGdpWUFvbUlPMnF6UkFDMEZ3c3VxSjhSVHJSVEE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-06-25T07:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "三菱"
-    ],
-    "summary": "",
-    "kind": "press"
   }
 ]
