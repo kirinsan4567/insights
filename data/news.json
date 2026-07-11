@@ -940,6 +940,18 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBodzgwOUphalVQVF82Mm9MSUI0QzBManhnV0lYMjB1c09UdDZNUk42cW5OWDJiWnNzNzFCM2RUbjBzbzBiLTJZ?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は下げ渋り、円買い一服",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBodzgwOUphalVQVF82Mm9MSUI0QzBManhnV0lYMjB1c09UdDZNUk42cW5OWDJiWnNzNzFCM2RUbjBzbzBiLTJZ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-10T04:20:48.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tU0VWTVRKdGJVNVN5dFNfbXN2Z0w1QV9TdEowYnFmM3ZYeUdjd2ZnWDBON3BsdGNzYkxtYlRqYzZYRlRod3VmRG02Qy1GbUJvN25V?oc=5",
     "title": "１ｓｔコーポ---2026年5月期の受注実績",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tU0VWTVRKdGJVNVN5dFNfbXN2Z0w1QV9TdEowYnFmM3ZYeUdjd2ZnWDBON3BsdGNzYkxtYlRqYzZYRlRod3VmRG02Qy1GbUJvN25V?oc=5",
@@ -15111,19 +15123,5 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nTko2VUlwSW8xQ3QzLUh0Z3VyZnVLYmRaekRUSmRJYjh4RXpMX254VzdSWmRDeEVadTBuUC03Qms3YVRYaDE2ZGF0YVBtbkdxYjlaaXlESXY4UXhRdzZ3aDZ3?oc=5",
-    "title": "【売買】八丁堀のオフィスビルを売却、野村不動産",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nTko2VUlwSW8xQ3QzLUh0Z3VyZnVLYmRaekRUSmRJYjh4RXpMX254VzdSWmRDeEVadTBuUC03Qms3YVRYaDE2ZGF0YVBtbkdxYjlaaXlESXY4UXhRdzZ3aDZ3?oc=5",
-    "source": "日経不動産マーケット情報",
-    "date": "2026-06-26T09:50:59.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "野村"
-    ],
-    "summary": "",
-    "kind": "press"
   }
 ]
