@@ -4671,6 +4671,18 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHSHo0VWVsaEl4QWpzd291YnJuQlFKajNqLWpPTktwRTI0c2htbjdDaGNqeEVwdjhhcmVKM0tCeEtKTklRbmt1bC14Nkl5cDg3R3RJM3ZOZUxaNTM1cjNLMk5zTQ?oc=5",
+    "title": "長期金利、一時２．８５％に上昇 ２９年ぶり高水準、財政悪化懸念で",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHSHo0VWVsaEl4QWpzd291YnJuQlFKajNqLWpPTktwRTI0c2htbjdDaGNqeEVwdjhhcmVKM0tCeEtKTklRbmt1bC14Nkl5cDg3R3RJM3ZOZUxaNTM1cjNLMk5zTQ?oc=5",
+    "source": "時事ドットコム",
+    "date": "2026-07-07T06:45:00.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJRHBHQU1HeVI1OXJrdndBQVZJZ3R6d1VOcHFZaEgzZlQ0WmlhVllBakkwejA3QkxuaFpaUlZ1WHpZbGFzbWx3?oc=5",
     "title": "【注目トピックス 市況・概況】日経平均大引け：前日比1480.73円安の68256.96円",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJRHBHQU1HeVI1OXJrdndBQVZJZ3R6d1VOcHFZaEgzZlQ0WmlhVllBakkwejA3QkxuaFpaUlZ1WHpZbGFzbWx3?oc=5",
@@ -15113,20 +15125,5 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtZHFDWXFXeDJlRjJXOFFVcmthRnUtWXVTSjVZTFV2bXMwUHlVYjVMZkFpN1pPYWlNYTE2R2x5dU8wbWhPUFNOTGxUMkRRQmFDOXh5bGtXanNRa3c?oc=5",
-    "title": "日経平均構成銘柄 決算確認（東京エレクトロン 三井不動産 住友不動産 大林組 日産化学） 元証券マン 投資家バティ Yaroslav Amosov (ELjzSlwHCE)",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtZHFDWXFXeDJlRjJXOFFVcmthRnUtWXVTSjVZTFV2bXMwUHlVYjVMZkFpN1pPYWlNYTE2R2x5dU8wbWhPUFNOTGxUMkRRQmFDOXh5bGtXanNRa3c?oc=5",
-    "source": "Mshale",
-    "date": "2026-06-27T15:53:46.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "三井",
-      "住友"
-    ],
-    "summary": "",
-    "kind": "press"
   }
 ]
