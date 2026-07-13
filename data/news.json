@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVOEFWdE5jcDB6MUw5dFNRN21lMk5aakllSVYxM0FNZklJZWJYeUR2eGsxMFFBUXBCOWZuTTlrVjhrQmJ3ckxJ?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は162円07銭まで上昇後にやや伸び悩み",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBVOEFWdE5jcDB6MUw5dFNRN21lMk5aakllSVYxM0FNZklJZWJYeUR2eGsxMFFBUXBCOWZuTTlrVjhrQmJ3ckxJ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-13T00:08:11.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83OEhQV3hpQ3ZHcG1kTlFMTFVPSHNHMTBQTWd6c2Q5THE0UzZTb09XM1EtR2c0WGxPTWI2cjNadVE2dWR0ejRz?oc=5",
     "title": "【注目トピックス 市況・概況】前場に注目すべき3つのポイント～半導体やAI関連株物色継続も原油相場にらみの相場展開に～",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE83OEhQV3hpQ3ZHcG1kTlFMTFVPSHNHMTBQTWd6c2Q5THE0UzZTb09XM1EtR2c0WGxPTWI2cjNadVE2dWR0ejRz?oc=5",
@@ -14766,6 +14778,47 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcmpJWnFQVy1Hc0ZWZVZ6T25IaGJEWDlnMTFkYUJSYnpUMHBueXd1ci1XbDBrdzlteFZpRDNtSlhqdExORDhzdGtYR01ZUE1EZk5WaXpObUQ1blVEeF9VNms5V0Q3TnpCNUVFRUhkUE5PQVdQekF4WWhwNW9vZ1U?oc=5",
+    "title": "突入！金利1％時代：金利上昇で格差露呈 住宅ローンが若年層と低中所得層を直撃 服部直樹",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WcmpJWnFQVy1Hc0ZWZVZ6T25IaGJEWDlnMTFkYUJSYnpUMHBueXd1ci1XbDBrdzlteFZpRDNtSlhqdExORDhzdGtYR01ZUE1EZk5WaXpObUQ1blVEeF9VNms5V0Q3TnpCNUVFRUhkUE5PQVdQekF4WWhwNW9vZ1U?oc=5",
+    "source": "週刊エコノミスト Online",
+    "date": "2026-06-29T07:00:00.000Z",
+    "tags": [
+      "金利・日銀",
+      "住宅ローン"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rc1dhQjg1cC1yZnU1TUVwcjROa3VTV1pqYWR3WTN2cmN1U2xjcWFrUkpqZmh3ckVoU1h4R0VoeVdhdEFQY3c3a1g0aFRGOE0?oc=5",
+    "title": "世田谷・高級マンション管理組合と不動産会社の「怒声飛び交う定期総会」",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rc1dhQjg1cC1yZnU1TUVwcjROa3VTV1pqYWR3WTN2cmN1U2xjcWFrUkpqZmh3ckVoU1h4R0VoeVdhdEFQY3c3a1g0aFRGOE0?oc=5",
+    "source": "現代ビジネス",
+    "date": "2026-06-29T07:00:00.000Z",
+    "tags": [
+      "不動産・市場",
+      "東急",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ZHFONmtSZGQwVFc3Y1pUTjUxYUlkY0VVbVZlaF9nb29zZi1UWDNSUVYzUHk5YU43UmVCSUk4X3E5Nm1nUldSM3VtUnhudms?oc=5",
+    "title": "【衝撃の泥沼裁判の行方は…】世田谷「高級マンション」の住民と東急不動産が総会で”大モメ”の一部始終",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05ZHFONmtSZGQwVFc3Y1pUTjUxYUlkY0VVbVZlaF9nb29zZi1UWDNSUVYzUHk5YU43UmVCSUk4X3E5Nm1nUldSM3VtUnhudms?oc=5",
+    "source": "現代ビジネス",
+    "date": "2026-06-29T07:00:00.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "東急"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUjhYTldpZ0R5RDNfTnU0NHhlVzhGWjRxbVR6b1AydlVmNkZxU0FEei1ueUEybWFTTnZvZDF0T3JUQVBJX1F1cnhFTE11U2pnZGlvNTlBRDl3VThhQ1UxcC1DS2pjRVZCSVE?oc=5",
     "title": "スマホアプリ「三井ダイレクト損保アプリ」をリニューアルしました",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tUjhYTldpZ0R5RDNfTnU0NHhlVzhGWjRxbVR6b1AydlVmNkZxU0FEei1ueUEybWFTTnZvZDF0T3JUQVBJX1F1cnhFTE11U2pnZGlvNTlBRDl3VThhQ1UxcC1DS2pjRVZCSVE?oc=5",
@@ -15069,56 +15122,6 @@
     "tags": [
       "開発・デベロッパー",
       "三菱"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdGtmYlF6bEREQXlORzBWZkNjOUVycUZiaUx2S2ZZQjFNMk9FY3ZKSmRrNEl0WnJMSXNiVi12UHFPcVVNbDA0ci1nNllISmJqYW5mdmtyX0o?oc=5",
-    "title": "日銀利上げで得をするのは｢金持ちシニア｣だけ…｢平均貯蓄2843万円｣が示す\"世代間格差\"の不都合な真実",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVdGtmYlF6bEREQXlORzBWZkNjOUVycUZiaUx2S2ZZQjFNMk9FY3ZKSmRrNEl0WnJMSXNiVi12UHFPcVVNbDA0ci1nNllISmJqYW5mdmtyX0o?oc=5",
-    "source": "PRESIDENT Online（プレジデントオンライン）",
-    "date": "2026-06-29T00:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBULU42bkJNcjFNZnR6ZkIwRGdoekZtTFhHMHFHZWZmZk80R3hqdnVqTHVNU2JRSjBnR0drOWtKNHZDMTRTOHl5SzZ4TTZpbUR6WDdn?oc=5",
-    "title": "福岡発・分譲住宅会社イデアハウスが関東初進出！ 2026年7月に千葉県松戸市へ新店舗開設 関東展開を本格化し、売上100億円企業へ",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBULU42bkJNcjFNZnR6ZkIwRGdoekZtTFhHMHFHZWZmZk80R3hqdnVqTHVNU2JRSjBnR0drOWtKNHZDMTRTOHl5SzZ4TTZpbUR6WDdn?oc=5",
-    "source": "ドリームニュース",
-    "date": "2026-06-29T00:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLY2FqWkZKcTIyWVk3ZjBkWnNWdy1KWnZuTlRaODJBMjlXX0ZWZG1ISEhVZWdtQ3RUNEFzSTd0WmViTFdHSlltZGsxbVBheVk1X1VB?oc=5",
-    "title": "（朝）米国市場は主要3指数がそろって小幅安 AI・半導体関連が軟調で相場を下押し - 市況概況",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBLY2FqWkZKcTIyWVk3ZjBkWnNWdy1KWnZuTlRaODJBMjlXX0ZWZG1ISEhVZWdtQ3RUNEFzSTd0WmViTFdHSlltZGsxbVBheVk1X1VB?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-06-28T23:08:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMGsxbTF4WHhtNE5mWUszV2EzZ2tPM1JiWTlHX01ScU1Xa2VsaDJmMUxwMUU3NUp1endDd05ITjJwSkZqTXA2azAycHZMVHpBc1VmMmE4cmJQSTE4WTBzN2ROUUNfenMzazhlcExaeGY?oc=5",
-    "title": "プロジェクトパートナー 住友不動産 : SDGs・大学や企業の取り組み : 2030 SDGsチャレンジ",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMGsxbTF4WHhtNE5mWUszV2EzZ2tPM1JiWTlHX01ScU1Xa2VsaDJmMUxwMUU3NUp1endDd05ITjJwSkZqTXA2azAycHZMVHpBc1VmMmE4cmJQSTE4WTBzN2ROUUNfenMzazhlcExaeGY?oc=5",
-    "source": "読売新聞教育ネットワーク",
-    "date": "2026-06-28T22:19:55.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "住友"
     ],
     "summary": "",
     "kind": "press"
