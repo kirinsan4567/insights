@@ -1,5 +1,33 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SeUpOYW84RUJaUjRlSWhMbWpOcnFOU3NkNkVpV0dmcHFNTHF4R1U2RC15eFg4SW9JSVVrVXFFaWVNUUVpMm5j?oc=5",
+    "title": "今日の注目スケジュール：欧ユーロ圏消費者物価指数確報値、米住宅着工件数、米鉱工業生産など",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1SeUpOYW84RUJaUjRlSWhMbWpOcnFOU3NkNkVpV0dmcHFNTHF4R1U2RC15eFg4SW9JSVVrVXFFaWVNUUVpMm5j?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-16T21:30:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1RUhXcWQwU3ZVYmViRWhRUGVqdzdsWnUyaTl3dmszMEw2TGRSVkRBNnlkbmR3M2I4ZW5oOEEzckFZcTBKSmZnSGtNQQ?oc=5",
+    "title": "着工は９月中旬／下京区に計画する延べ４６００平方㍍の共同住宅／東急不動産と新都市企画",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA1RUhXcWQwU3ZVYmViRWhRUGVqdzdsWnUyaTl3dmszMEw2TGRSVkRBNnlkbmR3M2I4ZW5oOEEzckFZcTBKSmZnSGtNQQ?oc=5",
+    "source": "建設ニュース",
+    "date": "2026-07-16T21:21:16.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "建設",
+      "東急"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://toyokeizai.net/articles/-/951028",
     "title": "中国CATLが技術協力した米ミシガン州の電池工場稼働…フォードが建設､トランプ政権のEV冷遇下での船出に | ビジネス | 東洋経済オンライン",
     "url": "https://toyokeizai.net/articles/-/951028?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -141,6 +169,31 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54T1V5Uk55ZHhaeDhNd2FvRE9FenBLNUQzemo4M0ZlcHFPTXAtVHItX0V4M2hzaGFwbzFBRndFTHdLRE1HcmhF?oc=5",
     "source": "マネーポストWEB",
     "date": "2026-07-16T19:16:12.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91UGotLWg5ejN6dUplU2JOUWx0SXJURExQTGQ1SVE0NGNvNUdUVFRJVll6R2t1ckRkUnNudDktak5qbmVCRWxSYmFTbHZ1MWVfV3RSaGJVSWxTUUU?oc=5",
+    "title": "カメラ不要で見守り 旭化成エレ、ミリ波レーダー量産",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91UGotLWg5ejN6dUplU2JOUWx0SXJURExQTGQ1SVE0NGNvNUdUVFRJVll6R2t1ckRkUnNudDktak5qbmVCRWxSYmFTbHZ1MWVfV3RSaGJVSWxTUUU?oc=5",
+    "source": "日刊工業新聞",
+    "date": "2026-07-16T19:11:32.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "旭化成"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmUzhTRW5kUncxVUtZZks0QzVMbmlGQkt0SERaWDJUNlFfTElWQXNiRHlueDJHdnBxZVV4aF9yUTA4ZGdWS2lB?oc=5",
+    "title": "【注目トピックス 市況・概況】NY外為：ドル高値、FRB高官のタカ派発言で",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBmUzhTRW5kUncxVUtZZks0QzVMbmlGQkt0SERaWDJUNlFfTElWQXNiRHlueDJHdnBxZVV4aF9yUTA4ZGdWS2lB?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-16T18:57:53.000Z",
     "tags": [
       "不動産・市場"
     ],
@@ -4819,6 +4872,20 @@
     ],
     "summary": "",
     "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tS25CazJxVWEwdlBTQmRIWGEwVzFFV3FpNndyZ2Vwa2hIRjNfZDdCdkVyd1MzUGNFNk4tcEFkeTE2TEUzcXRuSWdPQlYxQnZ1TmlIeTJNTnZaVVFZN29lNWUzUjV5dw?oc=5",
+    "title": "三井不動産、箱根・小涌谷にラグジュアリーホテル「HOTEL THE MITSUI HAKONE」を12月15日開業 全126室に天然温泉を完備",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8tS25CazJxVWEwdlBTQmRIWGEwVzFFV3FpNndyZ2Vwa2hIRjNfZDdCdkVyd1MzUGNFNk4tcEFkeTE2TEUzcXRuSWdPQlYxQnZ1TmlIeTJNTnZaVVFZN29lNWUzUjV5dw?oc=5",
+    "source": "AMP[アンプ]",
+    "date": "2026-07-13T07:56:12.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "三井"
+    ],
+    "summary": "",
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBoRFhnb29GZ0RiZGhUb1c2cFItUWY2cS1zcUpvdzRIb1daNVRTWmNSaXpGcmo1SHJPQ1hsY1QyYzU2VFF5Sm9n?oc=5",
@@ -14967,69 +15034,6 @@
     "source": "PR TIMES",
     "date": "2026-07-03T03:00:02.000Z",
     "tags": [
-      "住友",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TeG5yek1QVXAyVkNxVEdCbzgyelpfTjBCZ0J5UEphdjlRdTFfNHZtbVNLZEpQRHh5T2RlMDQ4TDdCQmtDRmdCZmVMMjNoSUZveXE1M3BBSkM4NWc0MU1tU2hYNUdGdm9Xa3c?oc=5",
-    "title": "BRUNOからディズニーキッチンアイテム第2弾。「くまのプーさん」原作100周年を記念したスペシャルコレクションを新発売！",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TeG5yek1QVXAyVkNxVEdCbzgyelpfTjBCZ0J5UEphdjlRdTFfNHZtbVNLZEpQRHh5T2RlMDQ4TDdCQmtDRmdCZmVMMjNoSUZveXE1M3BBSkM4NWc0MU1tU2hYNUdGdm9Xa3c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-07-03T03:00:02.000Z",
-    "tags": [
-      "住友",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FaTFqNzNnRmZaSXJyQUZrNXlsT1lDS2JSWEZOQzFya0lDdVlldGVkTUEwdmstcUNMRVd5ZWVIV0w1ZWVadzhOS1I2bnR1SG1teUMwYQ?oc=5",
-    "title": "【名古屋大家座談会】金利1.3%台の「名古屋金利」健在もよそ者に高い壁、突破口は少額取引スタート？",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FaTFqNzNnRmZaSXJyQUZrNXlsT1lDS2JSWEZOQzFya0lDdVlldGVkTUEwdmstcUNMRVd5ZWVIV0w1ZWVadzhOS1I2bnR1SG1teUMwYQ?oc=5",
-    "source": "rakumachi.jp",
-    "date": "2026-07-03T03:00:01.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54UHNpUzRNUnEyYVpYZXRNTXRTUDVDWjlNQTlpREIzdElZcEJvQ051R1pfak1Db1o4MFItTWtIbjBtNDVlQm5r?oc=5",
-    "title": "【注目トピックス 市況・概況】注目銘柄ダイジェスト（前場）:イノバセル、電通総研、住友化など",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE54UHNpUzRNUnEyYVpYZXRNTXRTUDVDWjlNQTlpREIzdElZcEJvQ051R1pfak1Db1o4MFItTWtIbjBtNDVlQm5r?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-03T02:39:42.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HZWhTZTNOYTZKZnpRWlNSdW5vdUFZclZIRFgxV0NfOEZzOW9VLXRHU2RZVjJGdE5Id1FtWklOa240amZhV1Vj?oc=5",
-    "title": "【資産17億円超・シケモク投資家さん厳選の“資産バリュー株”4銘柄】「今の株価は目標株価の半値ほど」誰もが知る大手企業の株が“激安”水準！インフレ到来で不動産を大量保有する銘柄に追い風",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HZWhTZTNOYTZKZnpRWlNSdW5vdUFZclZIRFgxV0NfOEZzOW9VLXRHU2RZVjJGdE5Id1FtWklOa240amZhV1Vj?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-03T02:31:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zUjF2N3hNVjNJbHUtandxekNTQWptOXdEeFhoQzJaWTh1QkNpenViWU5CWWdBOUUydDRrUXBBaGcxOWxuTkFRV0dnTk9DS3pUdElQWmY5RVdjeWVOb0FWMlFHOVloVUV5Unc?oc=5",
-    "title": "カナリー、「賃貸住宅フェア2026 in 東京」に出展。人とAIの役割分担をテーマにセミナー登壇",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zUjF2N3hNVjNJbHUtandxekNTQWptOXdEeFhoQzJaWTh1QkNpenViWU5CWWdBOUUydDRrUXBBaGcxOWxuTkFRV0dnTk9DS3pUdElQWmY5RVdjeWVOb0FWMlFHOVloVUV5Unc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-07-03T02:30:01.000Z",
-    "tags": [
-      "不動産・市場",
       "住友",
       "開発・デベロッパー"
     ],
