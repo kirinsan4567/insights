@@ -26,6 +26,31 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TWjJRMGR1Qk9SMUR3SXdCdHI2akM2VTQ4Mk1NQTdiR0tleGxjXzA1ZXR0LW9RVTNJZ1JySDQzNkw3SDJZNnlR?oc=5",
+    "title": "【注目トピックス 市況・概況】ユーロ週間見通し：下げ渋りか、ECBの利上げ打ち止め観測も円売りがサポート",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TWjJRMGR1Qk9SMUR3SXdCdHI2akM2VTQ4Mk1NQTdiR0tleGxjXzA1ZXR0LW9RVTNJZ1JySDQzNkw3SDJZNnlR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-18T06:09:43.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zdU92NnVhU0FRVmZ2bHMxRC1hby1QZlR6bnlZenJXejNlWWFfV0Rvbm9HSnpOODZOUFRBdXZ0cUFVcEJsdHpR?oc=5",
+    "title": "【注目トピックス 経済総合】国内外の注目経済指標：日銀利上げ観測強まれば円買い材料に",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5zdU92NnVhU0FRVmZ2bHMxRC1hby1QZlR6bnlZenJXejNlWWFfV0Rvbm9HSnpOODZOUFRBdXZ0cUFVcEJsdHpR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-18T06:05:20.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9HQ29vNGtjRml4QVh1OHdhOG95YmNoN0pkVXB5OTBQVGllM2tUTGlZZmFNRE1HQ2Z0T0xnaV9sRVB4UTVaMktF?oc=5",
     "title": "【注目トピックス 市況・概況】国内株式市場見通し：アルファベットや米半導体企業の決算がAI・半導体株の行方を左右へ",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9HQ29vNGtjRml4QVh1OHdhOG95YmNoN0pkVXB5OTBQVGllM2tUTGlZZmFNRE1HQ2Z0T0xnaV9sRVB4UTVaMktF?oc=5",
@@ -252,6 +277,18 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4tMEhFTXRlc1dCUEpndm9lSEdHbXpzNHBzaHUybHJvWDd6dEE3aEthQW45eUZPVzVobkg3b3paS2ZxSnNRUkRr?oc=5",
     "source": "マネーポストWEB",
     "date": "2026-07-17T15:59:17.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45UTVRMTBJRmdzOTVocmxueUxra2tzcDdzaVZpeXIzdElJVHNkQ2l1RDNyU2h5QW9qS0xaZnJIZ2wyMkNaYU1B?oc=5",
+    "title": "【注目トピックス 市況・概況】【市場反応】米7月ミシガン大1年期待インフレ率は予想以上に低下、ドル反落",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE45UTVRMTBJRmdzOTVocmxueUxra2tzcDdzaVZpeXIzdElJVHNkQ2l1RDNyU2h5QW9qS0xaZnJIZ2wyMkNaYU1B?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-17T14:29:03.000Z",
     "tags": [
       "不動産・市場"
     ],
@@ -1196,10 +1233,12 @@
     "source": "ITmedia ビジネス",
     "date": "2026-07-16T20:00:00.000Z",
     "tags": [
-      "不動産・市場"
+      "不動産・市場",
+      "オープンハウス",
+      "開発・デベロッパー"
     ],
     "summary": "コスト高などを背景に、マンションや戸建ての小型化が進んでいる。",
-    "kind": "news"
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0R1luV1JTRXZ4M2J1blhZS0h1cVlzSVk2RTNNRVk2MXFQR2I4Y1ZkTDQ3akdpZHNLbW5BSzZfY3dicUdMY0VhaGk5N1dqOWlIZHc?oc=5",
@@ -15007,42 +15046,6 @@
       "建設"
     ],
     "summary": "東京都江戸川区のＪＲ総武線小岩駅南側で計画されている、「南小岩七丁目駅前地区第一種市街地再開発事業…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1256055",
-    "title": "富田林市/8月19日まで受付/金剛中央公園複合施設DBO",
-    "url": "https://www.kensetsunews.com/archives/1256055",
-    "source": "建設通信新聞Digital（行政）",
-    "date": "2026-07-05T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "大阪府富田林市は、ＤＢＯ（設計・建設・運営）方式のＰＦＩを導入する「金剛中央公園・多機能複合施設等…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1256159",
-    "title": "卸売市場再整備へ調査/現地建て替えの実現性検証/徳島市",
-    "url": "https://www.kensetsunews.com/archives/1256159",
-    "source": "建設通信新聞Digital（行政）",
-    "date": "2026-07-05T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "徳島市は、老朽化が進む徳島市中央卸売市場の建て替えに乗り出す。３日、「徳島市中央卸売市場再整備調査…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1256122",
-    "title": "全額確保は公共8割、民間7割/労務費の内訳明示/国交省調査",
-    "url": "https://www.kensetsunews.com/archives/1256122",
-    "source": "建設通信新聞Digital（行政）",
-    "date": "2026-07-05T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "国土交通省が改正建設業法の全面施行前に行った調査によると、直近の現場で労務費を内訳明示した見積書を…",
     "kind": "news"
   }
 ]
