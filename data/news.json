@@ -2293,6 +2293,18 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyLTlkbm1oMjhPLXkxT1JtX3dmTldjeVNZVHVnYmZaTURHUzdTOGkwNy1fSEptLXlVVXp6aWdzLUZRWmd4dGptQWg5bUdKXzkxaGhaOXZYSHFFMUVOWE9TYklB?oc=5",
+    "title": "片山財務相 金融政策の具体的手法は日銀に委ねられるべきだ",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyLTlkbm1oMjhPLXkxT1JtX3dmTldjeVNZVHVnYmZaTURHUzdTOGkwNy1fSEptLXlVVXp6aWdzLUZRWmd4dGptQWg5bUdKXzkxaGhaOXZYSHFFMUVOWE9TYklB?oc=5",
+    "source": "みんかぶ",
+    "date": "2026-07-16T02:03:00.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xSG44eDdKeUR5S0VaWlJhejVqa0dsaXp4UFJ0TG1nc0l5ZEI2NEN1NnZXb2hEV3V4NjRuS094ZktLQk1ET2NLT3lodlJGTVM2ajE0N3RZb0g5VDZKaENMRg?oc=5",
     "title": "【ニュース】 鳥栖市・東急不動産・T2の3者、「サザン鳥栖クロスパーク」での自動運転トラックの実装などで基本協定書を締結 佐賀県鳥栖市",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xSG44eDdKeUR5S0VaWlJhejVqa0dsaXp4UFJ0TG1nc0l5ZEI2NEN1NnZXb2hEV3V4NjRuS094ZktLQk1ET2NLT3lodlJGTVM2ajE0N3RZb0g5VDZKaENMRg?oc=5",
@@ -15028,19 +15040,5 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWjB0M29mTFh4WnJ5Q3ZpMkwydzlyQXFGcjR5YUh0R2RkcG1zOVlPUGs1ME40dEpuam03dGNreEVoSkJ6bGJTalhicUxqa1ZKVTc3cy1rREtzWTVoZ3JUSHJvNlA3ZkpkZXc?oc=5",
-    "title": "東京セキスイハイムの全新築戸建て住宅に“スマートホーム統合アプリ”を導入へ",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TWjB0M29mTFh4WnJ5Q3ZpMkwydzlyQXFGcjR5YUh0R2RkcG1zOVlPUGs1ME40dEpuam03dGNreEVoSkJ6bGJTalhicUxqa1ZKVTc3cy1rREtzWTVoZ3JUSHJvNlA3ZkpkZXc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-07-05T23:00:01.000Z",
-    "tags": [
-      "不動産・市場",
-      "オープンハウス",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
   }
 ]
