@@ -1,5 +1,30 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dmhveEFlV05pWGwzdFBfenR4dHJhLVROZE4wMkEtQWVTc1U3d1dyOUE2eUFIeUE2UVlMNVJ1TVJMOEVOWGJtd1lCTHl6VlJ1LU5IN3h6ekdjS1VUekxXb1VvQUduS0hZM1E?oc=5",
+    "title": "ドバイ総研、2025年12月の再販市場を調査 JVC、Business Bay、Dubai Marinaが上位",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16dmhveEFlV05pWGwzdFBfenR4dHJhLVROZE4wMkEtQWVTc1U3d1dyOUE2eUFIeUE2UVlMNVJ1TVJMOEVOWGJtd1lCTHl6VlJ1LU5IN3h6ekdjS1VUekxXb1VvQUduS0hZM1E?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-07-20T11:50:01.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1obEJPNVlQNzE0dEllWU1OdkFJUDBIQ1Q1b0QtQldKSkZia3FvZDNwdGptQkN3QnZYeXlJTlRZUWFaNE5ENjVR?oc=5",
+    "title": "【注目トピックス 市況・概況】欧州為替：ドル・円は底堅い、米金利・原油にらみ",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1obEJPNVlQNzE0dEllWU1OdkFJUDBIQ1Q1b0QtQldKSkZia3FvZDNwdGptQkN3QnZYeXlJTlRZUWFaNE5ENjVR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-20T09:12:21.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LaXZZbWllSW1HVUZrWGYzLUZGOEc4b29sQWtNWVpYRFhUTUc2MGtWY2NTcGoxNkt6aUQtTC1BNE1Xck1JZ1h3?oc=5",
     "title": "【注目トピックス 市況・概況】東京為替：ドル・円は下げ渋り、戻りは限定的",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LaXZZbWllSW1HVUZrWGYzLUZGOEc4b29sQWtNWVpYRFhUTUc2MGtWY2NTcGoxNkt6aUQtTC1BNE1Xck1JZ1h3?oc=5",
@@ -14995,31 +15020,6 @@
     "date": "2026-07-06T06:00:00.000Z",
     "tags": [
       "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUi1vMFRySk1mb1pMS3lTeWFDR2FxUkNJYTVXWThMb1htNzVBUFNYUjd5cFFFT25ndFROUVptNVQyWGNIOE1QOC1LSFhlNWFDdS1wWk1BeEJGRkhMUS00?oc=5",
-    "title": "大和ハウス工業ほか6社、東大跡地の複合開発街区を一部オープン",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kUi1vMFRySk1mb1pMS3lTeWFDR2FxUkNJYTVXWThMb1htNzVBUFNYUjd5cFFFT25ndFROUVptNVQyWGNIOE1QOC1LSFhlNWFDdS1wWk1BeEJGRkhMUS00?oc=5",
-    "source": "千葉テレビ放送",
-    "date": "2026-07-06T05:46:18.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZRWpSd1p5Ui1XNzhKOTlTd0xIemNoajFoeHdYQXAtMjF6STdaaTVZUFRVUXpiZ1luV2RZQ2hhRmtyWms3QlVF?oc=5",
-    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は堅調、162円に接近",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ZRWpSd1p5Ui1XNzhKOTlTd0xIemNoajFoeHdYQXAtMjF6STdaaTVZUFRVUXpiZ1luV2RZQ2hhRmtyWms3QlVF?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-06T05:09:25.000Z",
-    "tags": [
-      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
