@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZNW9saENQX3ZCeEV4Z1V0LWdTX3hZeGgxTmM4RFdOZEl1cmxpaFZVbXp3UGNjeUR4TVMtVC1YZ2ZPSmlpeS1v?oc=5",
+    "title": "【注目トピックス 市況・概況】NY外為：カナダドル下落、米がカナダに50％追加関税発表",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5ZNW9saENQX3ZCeEV4Z1V0LWdTX3hZeGgxTmM4RFdOZEl1cmxpaFZVbXp3UGNjeUR4TVMtVC1YZ2ZPSmlpeS1v?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-21T17:33:24.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://toyokeizai.net/articles/-/952156",
     "title": "日銀に関する表記が二転三転した｢骨太騒動｣が決着､高市政権にマーケットの洗礼…対話力が課題に | 政治・経済・投資 | 東洋経済オンライン",
     "url": "https://toyokeizai.net/articles/-/952156?utm_source=rss&utm_medium=http&utm_campaign=link_back",
@@ -1147,6 +1159,18 @@
       "住宅ローン"
     ],
     "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://suumo.jp/journal/2026/07/21/218371/",
+    "title": "【新宿駅30分以内】中古マンション価格相場が安い駅ランキング2026年。一人暮らし向け、二人暮らし・ファミリー向け、それぞれ1位は？",
+    "url": "https://suumo.jp/journal/2026/07/21/218371/",
+    "source": "SUUMOジャーナル",
+    "date": "2026-07-20T22:00:57.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "「新宿グランドターミナル構想」を掲げ、駅と街が一体になった一大再開発プロジェクトが進む新宿駅。JR各線や小田急電鉄、京王電鉄、東京メトロ、都営地下鉄など多彩な路線が乗り入れ、2022年にはギネス世界記録で「最も混雑する鉄道駅」と認定されるほどのにぎわいをみせている。ビジネスに遊び…",
     "kind": "news"
   },
   {
@@ -14999,34 +15023,5 @@
     ],
     "summary": "",
     "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hZEo0SXp5bTQtUWFudTRBNTdZbkJLMGlER3JkTXJwNXNGM2lWc2piS1duajVqMlgwaGlndXRNdmtaMjkxRVBhNzZsWXFtSDhxWWpxanUzRDA?oc=5",
-    "title": "三井のリハウスに不動産売却を頼んでいい？ 評判口コミ、手数料率、デメリット、査定方法などを辛口評価！",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hZEo0SXp5bTQtUWFudTRBNTdZbkJLMGlER3JkTXJwNXNGM2lWc2piS1duajVqMlgwaGlndXRNdmtaMjkxRVBhNzZsWXFtSDhxWWpxanUzRDA?oc=5",
-    "source": "ダイヤモンド不動産研究所",
-    "date": "2026-07-07T07:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "住友",
-      "開発・デベロッパー",
-      "三井"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RaWN0TjE2cmpDSFc2cmt0N2tGcVlfLWlGMHhtZWlBYXM2TlpkQWFmVDlWMWtDamJseXRYbUZZQWNtOEJia2psTldhZzJRNlZrUGZzdEJiTW4?oc=5",
-    "title": "東急リバブルに不動産売却を頼んでいい？ 評判口コミ、手数料率、デメリット、査定方法などを辛口評価！",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RaWN0TjE2cmpDSFc2cmt0N2tGcVlfLWlGMHhtZWlBYXM2TlpkQWFmVDlWMWtDamJseXRYbUZZQWNtOEJia2psTldhZzJRNlZrUGZzdEJiTW4?oc=5",
-    "source": "ダイヤモンド不動産研究所",
-    "date": "2026-07-07T07:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "東急リ"
-    ],
-    "summary": "",
-    "kind": "press"
   }
 ]
