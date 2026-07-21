@@ -1,5 +1,17 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1STGZMcGdVZ2xKdnNQYVRSTjlUUkw3alFNUC1Ia2FQUVdjcHprZUJaNUVyRmNsTWRFN0hHbU4tUGhEeWxpdEg4?oc=5",
+    "title": "【注目トピックス 市況・概況】NY外為：円続落、対ドルで1986年来の安値更新、原油高を嫌気",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1STGZMcGdVZ2xKdnNQYVRSTjlUUkw3alFNUC1Ia2FQUVdjcHprZUJaNUVyRmNsTWRFN0hHbU4tUGhEeWxpdEg4?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-21T14:30:20.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1WXJpZXVob3AydVI3X3puZFdjdXh4SUVfWDJRc2lKcHNtejJZMjJsR3VoSU1vR1hSang2Y3hHTkNnUjJyQ0NF?oc=5",
     "title": "【注目トピックス 市況・概況】【市場反応】米・週次ADP雇用統計/7月フィラデルフィア連銀非製造業活動",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1WXJpZXVob3AydVI3X3puZFdjdXh4SUVfWDJRc2lKcHNtejJZMjJsR3VoSU1vR1hSang2Y3hHTkNnUjJyQ0NF?oc=5",
@@ -61,6 +73,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13Ql9LaUhUTVVhYmZ5clQ3Ynp6Uzd0cmlCcmU1YmpZSzNINVVEVWNHXzYzS0FhSUdMTGw2Vld4bmVuTGR6SGpQXw?oc=5",
+    "title": "先端技術の広域イノベで連携協定／三菱地所と東北大",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13Ql9LaUhUTVVhYmZ5clQ3Ynp6Uzd0cmlCcmU1YmpZSzNINVVEVWNHXzYzS0FhSUdMTGw2Vld4bmVuTGR6SGpQXw?oc=5",
+    "source": "週刊住宅タイムズ",
+    "date": "2026-07-21T09:51:24.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "三菱"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qc2hzOFZGMFQxODFfNkpsMl84dEdySVp1clBDX0ZibW1jbFRQVWVtNEp0TW1rUGxXUUt6dkhpdWtCeXUzM3dQTg?oc=5",
     "title": "自動運転トラックに対応した施設内車両誘導などを実証／三菱地所が５社と、都内の施設で",
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qc2hzOFZGMFQxODFfNkpsMl84dEdySVp1clBDX0ZibW1jbFRQVWVtNEp0TW1rUGxXUUt6dkhpdWtCeXUzM3dQTg?oc=5",
@@ -69,6 +94,33 @@
     "tags": [
       "開発・デベロッパー",
       "三菱"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92ZkxTLXZIWkhLZ1dMTV9UamhtSkJDaWVnU09WTzZSYklVUlE2M3ByM3l0OWNtNXBzT3hqcUFnd2xxeVpBazI0cg?oc=5",
+    "title": "藤沢で１棟リノベ賃貸全４８戸が竣工／東急不、リノベると連携で",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92ZkxTLXZIWkhLZ1dMTV9UamhtSkJDaWVnU09WTzZSYklVUlE2M3ByM3l0OWNtNXBzT3hqcUFnd2xxeVpBazI0cg?oc=5",
+    "source": "週刊住宅タイムズ",
+    "date": "2026-07-21T09:51:00.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtVkJoc2ZXZWpJRHdFOWRTUnMtQnp5TGp4TEw2aGd0VWtOTTk3Y0VSTFdXSWk2MVE4NnlOQ1RuQnNhUEZjWmowdg?oc=5",
+    "title": "札幌で大規模複合ビル竣工／ＮＴＴ都市",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtVkJoc2ZXZWpJRHdFOWRTUnMtQnp5TGp4TEw2aGd0VWtOTTk3Y0VSTFdXSWk2MVE4NnlOQ1RuQnNhUEZjWmowdg?oc=5",
+    "source": "週刊住宅タイムズ",
+    "date": "2026-07-21T09:50:48.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "建設"
     ],
     "summary": "",
     "kind": "news"
@@ -14974,55 +15026,5 @@
     ],
     "summary": "",
     "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kd1pwQ09KX2puTkZfTzh6V1dfWGN6MGxWYUxIV3hTRllsYzJ4LWx0bUlEbmREOW5lbVNJX0tQU1I2ZElRa3RzN0tic09HSVBsVG4yeWVUS3VYVDh0OWc?oc=5",
-    "title": "【2026年最新】日銀利上げで住宅ローンはどうなる？ 変動型9割の日本を直撃する金利上昇と5つの防衛策",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5kd1pwQ09KX2puTkZfTzh6V1dfWGN6MGxWYUxIV3hTRllsYzJ4LWx0bUlEbmREOW5lbVNJX0tQU1I2ZElRa3RzN0tic09HSVBsVG4yeWVUS3VYVDh0OWc?oc=5",
-    "source": "ホームズ",
-    "date": "2026-07-07T07:00:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zdGl5ek1qSVJSdGpqQ2JJdkQ4aVlOWDNfSnBfWjdKVjFzLUNjY01uemM1NkgxaUV3TEZBd0NOUHJkZlRZM3phTE01U3RocWt2RGJiOFZSR0xCcEZq?oc=5",
-    "title": "セントラル・パッタナーと三菱地所、サイアムスクエアで複合施設「CenTRal cENtrAL」開発",
-    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8zdGl5ek1qSVJSdGpqQ2JJdkQ4aVlOWDNfSnBfWjdKVjFzLUNjY01uemM1NkgxaUV3TEZBd0NOUHJkZlRZM3phTE01U3RocWt2RGJiOFZSR0xCcEZq?oc=5",
-    "source": "newsclip.be",
-    "date": "2026-07-07T07:00:00.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "三菱"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHSHo0VWVsaEl4QWpzd291YnJuQlFKajNqLWpPTktwRTI0c2htbjdDaGNqeEVwdjhhcmVKM0tCeEtKTklRbmt1bC14Nkl5cDg3R3RJM3ZOZUxaNTM1cjNLMk5zTQ?oc=5",
-    "title": "長期金利、一時２．８５％に上昇 ２９年ぶり高水準、財政悪化懸念で",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBHSHo0VWVsaEl4QWpzd291YnJuQlFKajNqLWpPTktwRTI0c2htbjdDaGNqeEVwdjhhcmVKM0tCeEtKTklRbmt1bC14Nkl5cDg3R3RJM3ZOZUxaNTM1cjNLMk5zTQ?oc=5",
-    "source": "時事ドットコム",
-    "date": "2026-07-07T06:45:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJRHBHQU1HeVI1OXJrdndBQVZJZ3R6d1VOcHFZaEgzZlQ0WmlhVllBakkwejA3QkxuaFpaUlZ1WHpZbGFzbWx3?oc=5",
-    "title": "【注目トピックス 市況・概況】日経平均大引け：前日比1480.73円安の68256.96円",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBJRHBHQU1HeVI1OXJrdndBQVZJZ3R6d1VOcHFZaEgzZlQ0WmlhVllBakkwejA3QkxuaFpaUlZ1WHpZbGFzbWx3?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-07T06:35:26.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
   }
 ]
