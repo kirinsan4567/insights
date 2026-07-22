@@ -1,5 +1,18 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HaUlYNFMtLVFrWm5UenVVeFNYeHc4aGYxSUpiTXRsR1dJZVNlNkpNMGtYUUJZVTJUaWlxR1hfYWRrV1pVQzVN?oc=5",
+    "title": "【注目トピックス 市況・概況】NY為替：戦争拡大懸念に原油価格や長期金利上昇",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1HaUlYNFMtLVFrWm5UenVVeFNYeHc4aGYxSUpiTXRsR1dJZVNlNkpNMGtYUUJZVTJUaWlxR1hfYWRrV1pVQzVN?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-22T21:27:20.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tV1ZFRHQtQ1d4MmRtZ1F0cmhickswV2xrY09ybG9IeHh4OFJxU2dDTXp6b1ZSdklvajQwdHUtR3VCVGFsdmNr?oc=5",
     "title": "【注目トピックス 市況・概況】NY株式：NYダウは6.06ドル安、原油価格や金利上昇を嫌気",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0tV1ZFRHQtQ1d4MmRtZ1F0cmhickswV2xrY09ybG9IeHh4OFJxU2dDTXp6b1ZSdklvajQwdHUtR3VCVGFsdmNr?oc=5",
@@ -10,6 +23,18 @@
       "不動産・市場"
     ],
     "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://www.itmedia.co.jp/business/articles/2607/23/news017.html",
+    "title": "人生最大の買い物なのに……なぜSNSで中古マンションを買う人が増えているのか",
+    "url": "https://www.itmedia.co.jp/business/articles/2607/23/news017.html",
+    "source": "ITmedia ビジネス",
+    "date": "2026-07-22T21:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "SNSで物件を見つけ、LINEで内見を予約し、中古マンションを購入する人が増えている。背景には、インフルエンサーではなく「キュレーター」が信頼を築く独自の仕組みがあった。SNS時代の新しい不動産ビジネスを追った。",
     "kind": "news"
   },
   {
@@ -529,6 +554,19 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RG5GTkFocDVoRzIzbC1XMWZTVkNlZm1BNTBtWXJLNkRoSkF4SHNUN3B1eVBKaExoeXZMM0EyRWN0bGFVcF9uWTJsSnBLNVNfSUlQbA?oc=5",
+    "title": "ダイワコーポレーション／神奈川県川崎市で3.4万m2の冷凍冷蔵施設を竣工、食品物流の拠点に",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4RG5GTkFocDVoRzIzbC1XMWZTVkNlZm1BNTBtWXJLNkRoSkF4SHNUN3B1eVBKaExoeXZMM0EyRWN0bGFVcF9uWTJsSnBLNVNfSUlQbA?oc=5",
+    "source": "物流ニュースのLNEWS",
+    "date": "2026-07-22T05:36:47.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHWDROWU93R2YxZHJadWF6ZHVpbW5KTkdMSnhrdW93NlpaaFZZbFhNMGRLR0NzeHBVREVleTI2ejJRUTU2RWRHNmQyZy1kWGM5OHlTeWJ2WnFyWXpUM0lr?oc=5",
     "title": "大和ハウス工業、岩手・紫波町に物流施設「DPL盛岡南」着工…最大3テナント入居可能",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHWDROWU93R2YxZHJadWF6ZHVpbW5KTkdMSnhrdW93NlpaaFZZbFhNMGRLR0NzeHBVREVleTI2ejJRUTU2RWRHNmQyZy1kWGM5OHlTeWJ2WnFyWXpUM0lr?oc=5",
@@ -931,6 +969,18 @@
     ],
     "summary": "",
     "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9saWI1QUQ4UjBuSTlROWU3Y3IzdS0zTDZiNlNFQUljUkt5Z1plYTdkQy1ZVHp3YkYyRlBpTWNJbzVRVDRDZl9XWEQtcXZUU0YzeFd6QzR5bw?oc=5",
+    "title": "【再開発準備組合】大崎西口駅前地区、施設規模は24階9万㎡ 26年度末の都決目指す",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9saWI1QUQ4UjBuSTlROWU3Y3IzdS0zTDZiNlNFQUljUkt5Z1plYTdkQy1ZVHp3YkYyRlBpTWNJbzVRVDRDZl9XWEQtcXZUU0YzeFd6QzR5bw?oc=5",
+    "source": "建設通信新聞Digital",
+    "date": "2026-07-22T01:00:00.000Z",
+    "tags": [
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "news"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9tbTlSMUwtLXJuZnJwZWYyVExqQTR2alp5OEtjZUR2OEJnN1VkLWIwOVd2U2VuQWpWV3FIQzRfdS04N2xFNURv?oc=5",
@@ -13871,6 +13921,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ySEkyU0luWDEwQ2hXZEFpa0NURmZlTkZ5ZThsTDdYV1ZIMElia3c3aFFudklkYkxpQ0FNVVZMVjdGNFkyZkw5TDh2OXNPUVdzUUFKSzFmY29tUnM0UlFyVkV3?oc=5",
+    "title": "エアコンをつけずに室内の熱中症対策が可能に！？ 積水ハウスとパナソニックが新たな装置を開発",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ySEkyU0luWDEwQ2hXZEFpa0NURmZlTkZ5ZThsTDdYV1ZIMElia3c3aFFudklkYkxpQ0FNVVZMVjdGNFkyZkw5TDh2OXNPUVdzUUFKSzFmY29tUnM0UlFyVkV3?oc=5",
+    "source": "朝日放送",
+    "date": "2026-07-09T07:00:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "積水"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ndFVRejQybU92UWQ0RG9sVEZickZNNEh4NmJLUlBUamtnbVJwYWs3OHVaS25JalRDb3JUSGFQaU03aVB4MkhJ?oc=5",
     "title": "【注目トピックス 市況・概況】日経平均大引け：前日比924.80円高の67743.85円",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9ndFVRejQybU92UWQ0RG9sVEZickZNNEh4NmJLUlBUamtnbVJwYWs3OHVaS25JalRDb3JUSGFQaU03aVB4MkhJ?oc=5",
@@ -14954,67 +15017,6 @@
     "date": "2026-07-08T19:26:40.000Z",
     "tags": [
       "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVU9INXlSVDV6MW9hQVJKazhIenJQc21ZYWhORVkyR3YtNGlSd1p5QWJaUnJjZG9TUm56OHNTMmhtTGtwZ1g3dWN5LTQ0UVZQYUl3?oc=5",
-    "title": "南流山周辺の賃貸情報を紹介するタウンハウジング南流山店は新築賃貸マンション「ウィット西平井Ｂ」の取り扱いを開始",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EVU9INXlSVDV6MW9hQVJKazhIenJQc21ZYWhORVkyR3YtNGlSd1p5QWJaUnJjZG9TUm56OHNTMmhtTGtwZ1g3dWN5LTQ0UVZQYUl3?oc=5",
-    "source": "ドリームニュース",
-    "date": "2026-07-08T19:18:09.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DNmh3QXFaQnlyUUdhYXBkN3BkSDlJLUlzNnlhdjZTM2oxWnpJRDVvVFA3TmlXMl9wQ3JlTjV2eVZ0MFBvR21j?oc=5",
-    "title": "【注目トピックス 市況・概況】[通貨オプション]R/R、円先安観に伴う円プット買い加速",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9DNmh3QXFaQnlyUUdhYXBkN3BkSDlJLUlzNnlhdjZTM2oxWnpJRDVvVFA3TmlXMl9wQ3JlTjV2eVZ0MFBvR21j?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-08T18:33:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Iemt0RkhlUGN1U0NkSFRIVlhhajFWYy0tenJKZGRrRVhsLUd3MXIyTXBnc1kyaHpRR2JtSDhzemJtWGpMOXBN?oc=5",
-    "title": "【注目トピックス 市況・概況】NY外為：ドル高値から反落、米10年債入札は好調",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Iemt0RkhlUGN1U0NkSFRIVlhhajFWYy0tenJKZGRrRVhsLUd3MXIyTXBnc1kyaHpRR2JtSDhzemJtWGpMOXBN?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-08T17:19:39.000Z",
-    "tags": [
-      "不動産・市場",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVFjOXR3QjhxY0otMHQ0QzZIM0NPVU5Gdi01RkoxRjBZdHF0dGhmSWZHZ2hGOG9IMDNrQkdiLW10WktnN2R6UVRibnYwRWdENHVqUUE3S1FrZDNleWl6ZUJmVV9fMUItLVhjTW42ak40SnB6Y1lsYUJqQXBsY3JLVzFsMWpCZkk5QlBocUlsLXhrZDNpLTdtYWtqaVhCcFlQNjRxc0F3?oc=5",
-    "title": "分譲地にあえて「空き地」 ポラス、早大と交流拠点 新モデル 埼玉で公園・共同菜園整備 郊外住宅の価値向上へ",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYVFjOXR3QjhxY0otMHQ0QzZIM0NPVU5Gdi01RkoxRjBZdHF0dGhmSWZHZ2hGOG9IMDNrQkdiLW10WktnN2R6UVRibnYwRWdENHVqUUE3S1FrZDNleWl6ZUJmVV9fMUItLVhjTW42ak40SnB6Y1lsYUJqQXBsY3JLVzFsMWpCZkk5QlBocUlsLXhrZDNpLTdtYWtqaVhCcFlQNjRxc0F3?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-07-08T17:03:56.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxSTRtaklGRS1rMWdNUmkyQUZtYmwxZFVQcEFXM2VsVVQ2QVI5UWMzNzIzY0t4d0s5a0NSVzdmMm95OEo0ODAxM3REckRyMnFmX1Nia3YtVnl5ZS01SUJVazJkSXJROS1udmk0Vg?oc=5",
-    "title": "用地仕入れ・設備工事に強み、総合力生かして全国展開へ",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxSTRtaklGRS1rMWdNUmkyQUZtYmwxZFVQcEFXM2VsVVQ2QVI5UWMzNzIzY0t4d0s5a0NSVzdmMm95OEo0ODAxM3REckRyMnFmX1Nia3YtVnl5ZS01SUJVazJkSXJROS1udmk0Vg?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-07-08T17:02:00.000Z",
-    "tags": [
-      "建設"
     ],
     "summary": "",
     "kind": "news"
