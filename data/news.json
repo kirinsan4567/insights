@@ -215,6 +215,18 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80VENULXYwODJmb2t2U3BwUFF4SEhDSlFrcnJoNjA1WmczbkIyWS1xT0RidXpGSHBzM3ZLdkZZeFNudkd2ZmQ4?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均VIは上昇、警戒感緩まず",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE80VENULXYwODJmb2t2U3BwUFF4SEhDSlFrcnJoNjA1WmczbkIyWS1xT0RidXpGSHBzM3ZLdkZZeFNudkd2ZmQ4?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-07-22T05:13:29.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNjRhUGpVY2N0d09YYVQ5ckk2R3QyZXdtWFFzdnJvTUtNRXk3em12LUVxV2llNzl5UFA5Yk5zOWJCTDRkUlU2NGxqRTRWdC0wclF0aks3cktxOVpRNjNSMTdzdTctX1l3V3c?oc=5",
     "title": "女性従業員の活躍推進に関する取組みが高く評価され「えるぼし認定」最高位の３つ星を取得",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvNjRhUGpVY2N0d09YYVQ5ckk2R3QyZXdtWFFzdnJvTUtNRXk3em12LUVxV2llNzl5UFA5Yk5zOWJCTDRkUlU2NGxqRTRWdC0wclF0aks3cktxOVpRNjNSMTdzdTctX1l3V3c?oc=5",
@@ -15018,18 +15030,6 @@
       "不動産・市場",
       "開発・デベロッパー",
       "東急"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qQ3RDQmR3LUlrdm5DT05uWEZaOFFDSzF1ZzF5NXFjVFowODBqQ0diaFo2Q1pHTnlrUVA2dWlLckJxTkNBeTkw?oc=5",
-    "title": "【注目トピックス 市況・概況】日経平均は1064円安、米経済指標などに関心",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5qQ3RDQmR3LUlrdm5DT05uWEZaOFFDSzF1ZzF5NXFjVFowODBqQ0diaFo2Q1pHTnlrUVA2dWlLckJxTkNBeTkw?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-08T05:51:59.000Z",
-    "tags": [
-      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
