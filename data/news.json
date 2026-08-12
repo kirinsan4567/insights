@@ -1,5 +1,30 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kcHVOazM2MXNjajl2SXNtMDFXZ2s3YkVfV3puSEd5cjhpTUFyMmNMVWNoaWxreXFPdkphaGd3X2ZjV2p1UUg4?oc=5",
+    "title": "【注目トピックス 市況・概況】[通貨オプション]短中期物のOP売り、レンジ相場",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1kcHVOazM2MXNjajl2SXNtMDFXZ2s3YkVfV3puSEd5cjhpTUFyMmNMVWNoaWxreXFPdkphaGd3X2ZjV2p1UUg4?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-08-12T15:33:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTazJQemM4dGNPNHk1eXZZZGUxcG9MaUFleDZJVV9EUHU0TF9tRUhxVFdUcnhrc05wZDJ0eElrMkdtcVMxOWtF?oc=5",
+    "title": "【注目トピックス 市況・概況】NY外為：ドル売りは一段落、米9月利上げ確率低下、CPI安定で",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBTazJQemM4dGNPNHk1eXZZZGUxcG9MaUFleDZJVV9EUHU0TF9tRUhxVFdUcnhrc05wZDJ0eElrMkdtcVMxOWtF?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-08-12T14:35:00.000Z",
+    "tags": [
+      "金利・日銀",
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RTzZBdHRqRXJ1R1Z0MXBydldJVUZyZ0ZlS0JaZF9wbzZqbVJ6UUpuRUdtdS1BR3pxT0M3QTZaZDZBOVpnekdr?oc=5",
     "title": "【注目トピックス 市況・概況】【市場反応】米CPI、コア指数は2021年3月来の低水準に並ぶ、ドル反落",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9RTzZBdHRqRXJ1R1Z0MXBydldJVUZyZ0ZlS0JaZF9wbzZqbVJ6UUpuRUdtdS1BR3pxT0M3QTZaZDZBOVpnekdr?oc=5",
@@ -79,6 +104,18 @@
     "date": "2026-08-12T09:07:52.000Z",
     "tags": [
       "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93cHZLeFZ0QWduTG4tbG5JOVlpVVdkcWFZV2FYVGNKNUpWNTI2VEhwcGhsbWhfS1dSUjFWQWNCRFZWc0xlekdvcGNnQXZ4bDBJU1E?oc=5",
+    "title": "「できるだけ家族に頼らず暮らしたい」〈年金月37万円・貯蓄6,000万円〉72歳夫婦、管理サービスの整った高層マンションを選んだワケ",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93cHZLeFZ0QWduTG4tbG5JOVlpVVdkcWFZV2FYVGNKNUpWNTI2VEhwcGhsbWhfS1dSUjFWQWNCRFZWc0xlekdvcGNnQXZ4bDBJU1E?oc=5",
+    "source": "ゴールドオンライン",
+    "date": "2026-08-12T08:57:00.000Z",
+    "tags": [
+      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
@@ -324,6 +361,19 @@
     "date": "2026-08-12T04:00:02.000Z",
     "tags": [
       "三菱",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwcHA0RXFyVDJTZWRVVWR4WHVVTlMxTW1nTkhBZ0xMZkVPWjBXdVJtTy1fYlFqbkc0eC1QZXdwMFFmamc1YVI4U1ZSTzdTSVFLQlIwbmt5OE1laXdxQkdzVkprY0RQZ3pkelE?oc=5",
+    "title": "SpecteeとSynspective、衛星画像とSNS情報を組み合わせて浸水範囲をより精緻に推定する手法を開発",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwcHA0RXFyVDJTZWRVVWR4WHVVTlMxTW1nTkhBZ0xMZkVPWjBXdVJtTy1fYlFqbkc0eC1QZXdwMFFmamc1YVI4U1ZSTzdTSVFLQlIwbmt5OE1laXdxQkdzVkprY0RQZ3pkelE?oc=5",
+    "source": "prtimes.jp",
+    "date": "2026-08-12T04:00:02.000Z",
+    "tags": [
+      "住友",
       "開発・デベロッパー"
     ],
     "summary": "",
@@ -4885,6 +4935,19 @@
       "建設"
     ],
     "summary": "野村不動産は、東京都港区の虎ノ門３丁目に延べ１万４５００㎡、高さ１０６ｍの共同住宅を新築する。設計…",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVmRhQVJObm9ZY0R4cDktNWNDYU1XejNvYUpBZmVDOEFxQnd3endZX3hRbzljV0pqclg5Nm1IS3pGdTM1Y2xFR1ZlRXdaOXdpdExCQnhsOWFYSDRZaGp1YXkwNllpcE5rekdN?oc=5",
+    "title": "【無料オンラインセミナー：賃料高騰・資材高騰時代を乗り切る、賢い移転戦略～物件探しとオフィスづくり、2つの視点から解説～】を三菱地所リアルエステートサービスとオカムラが8月27日（木）に共同開催",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vVmRhQVJObm9ZY0R4cDktNWNDYU1XejNvYUpBZmVDOEFxQnd3endZX3hRbzljV0pqclg5Nm1IS3pGdTM1Y2xFR1ZlRXdaOXdpdExCQnhsOWFYSDRZaGp1YXkwNllpcE5rekdN?oc=5",
+    "source": "時事ドットコム",
+    "date": "2026-08-04T12:10:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "三菱"
+    ],
+    "summary": "",
     "kind": "news"
   },
   {
@@ -15025,77 +15088,16 @@
     "kind": "press"
   },
   {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kRzlYRF9KY2pqSlgxZWVzalU1bmh0OWhlQ2duT2ZVUDhJaVVpcE00M2RyT0JFa0xEM2VjdXZqZFRSMmVpaFU4?oc=5",
-    "title": "【注目トピックス 市況・概況】7月17日日本国債市場：債券先物は127円85銭で取引終了",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9kRzlYRF9KY2pqSlgxZWVzalU1bmh0OWhlQ2duT2ZVUDhJaVVpcE00M2RyT0JFa0xEM2VjdXZqZFRSMmVpaFU4?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-17T06:47:49.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16dVh0XzNTU205Qkd4ZTZ3bjdHMWxuR1FCS1VtamozVkRscDFuanhpWFR2RU90dW4zT2cycjZXNW9DNnZEd3BsVUdZOW80a0Y5Qk9HYg?oc=5",
-    "title": "大和ハウス工業／岩手県紫波町に1.7万m2のマルチテナント型物流施設着工へ",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16dVh0XzNTU205Qkd4ZTZ3bjdHMWxuR1FCS1VtamozVkRscDFuanhpWFR2RU90dW4zT2cycjZXNW9DNnZEd3BsVUdZOW80a0Y5Qk9HYg?oc=5",
+    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83cmR3MGNCeGkwV3I5bk42UlFHNVdOZ2dBUXVWZUZtSk1iWUJBdk1GZzZ0d25qTzA0TGwzeXNZaHpoWFlOMUUzMlVlalFnSXhZeHhhcA?oc=5",
+    "title": "三菱地所／TRC、NANKAIと自動運転トラック活用した物流施設間の連携を共同検討",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE83cmR3MGNCeGkwV3I5bk42UlFHNVdOZ2dBUXVWZUZtSk1iWUJBdk1GZzZ0d25qTzA0TGwzeXNZaHpoWFlOMUUzMlVlalFnSXhZeHhhcA?oc=5",
     "source": "物流ニュースのLNEWS",
-    "date": "2026-07-17T06:08:43.000Z",
+    "date": "2026-07-17T07:00:00.000Z",
     "tags": [
       "開発・デベロッパー",
-      "建設",
-      "大和"
+      "三菱"
     ],
     "summary": "",
     "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YSjNvN2t1eDdJTDM4eWJLNkJZdFlURXRtSGhtajUtVkNYQzFhakpiNEZOdm9FYWVNQzBYWVNYSHhvWVlOTUE?oc=5",
-    "title": "資金の借入れ及び借入金の返済に関するお知らせ 投稿日時： 2026/07/17 15:00[適時開示]",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5YSjNvN2t1eDdJTDM4eWJLNkJZdFlURXRtSGhtajUtVkNYQzFhakpiNEZOdm9FYWVNQzBYWVNYSHhvWVlOTUE?oc=5",
-    "source": "みんかぶ",
-    "date": "2026-07-17T06:00:00.000Z",
-    "tags": [
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LMFZaQ0JhNy0wdWd6Yi1kanlfTm0ySWJrR1hzR09Ob2NjdGladVF6V1pNTEJFMjlqUXZVbnFzSndZUkRGNlBz?oc=5",
-    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は小安い、原油相場の失速で",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5LMFZaQ0JhNy0wdWd6Yi1kanlfTm0ySWJrR1hzR09Ob2NjdGladVF6V1pNTEJFMjlqUXZVbnFzSndZUkRGNlBz?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-17T05:55:39.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qU0N3MGRBOHRpMVRod2M5LW9wQjJiOVRlSG13MzZUczNnbWxGdVRfS2xXT2NQei1PNy1YOFFrczF2T09nNGhV?oc=5",
-    "title": "【注目トピックス 市況・概況】日経平均VIは大幅に上昇、AI・半導体関連株の不安定な値動きを警戒",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9qU0N3MGRBOHRpMVRod2M5LW9wQjJiOVRlSG13MzZUczNnbWxGdVRfS2xXT2NQei1PNy1YOFFrczF2T09nNGhV?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-07-17T05:38:19.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSa2lub01ocGhlNk1RQkxOWnljenRCZDhTVnRPblNSM3E1ZlBTNEpyazd6QTdMT2pqYVRlZmpQVXdiVFlrRGF6cE0yZlZKeG16WnIw?oc=5",
-    "title": "日本の高級住宅不動産市場、6.11%の急成長により2034年までに625億ドルの収益を創出へ",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBSa2lub01ocGhlNk1RQkxOWnljenRCZDhTVnRPblNSM3E1ZlBTNEpyazd6QTdMT2pqYVRlZmpQVXdiVFlrRGF6cE0yZlZKeG16WnIw?oc=5",
-    "source": "ドリームニュース",
-    "date": "2026-07-17T05:30:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
   }
 ]
