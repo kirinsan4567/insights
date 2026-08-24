@@ -1,5 +1,30 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JbzFES2l2dWU5bG0tU1VicUY1eFNkdDFKcURNTHVqc1NldzFfTmdCNGU5UmxzV1dxYVhmNmhCNndzQjByc0NR?oc=5",
+    "title": "【注目トピックス 市況・概況】【市場反応】米7月シカゴ連銀全米活動指数は悪化、ドル軟調",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5JbzFES2l2dWU5bG0tU1VicUY1eFNkdDFKcURNTHVqc1NldzFfTmdCNGU5UmxzV1dxYVhmNmhCNndzQjByc0NR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-08-24T12:53:06.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92MmlIbUEzenFrRXhGOHc1YkdXYkY3SXpUcUtyMjA1STlLeEI3R2NSc1lJTlBJZU1HMm1HUFJKQURId0ZBekZ0LW1DZw?oc=5",
+    "title": "大和ハウス、長野・松本で4.9万㎡の工業団地開発へ",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE92MmlIbUEzenFrRXhGOHc1YkdXYkY3SXpUcUtyMjA1STlLeEI3R2NSc1lJTlBJZU1HMm1HUFJKQURId0ZBekZ0LW1DZw?oc=5",
+    "source": "LOGI-BIZ online",
+    "date": "2026-08-24T09:54:07.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "大和"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yMEFvblBKOW1oSF9ubHNaYmJPU2c4Q0g5N3dENzFZa0s5WVROUE9tcE5vTGdGSk9Mb2NuNXZSWEtjWGtpMlVJ?oc=5",
     "title": "【注目トピックス 市況・概況】欧州為替：ドル・円は底堅い、上昇基調を維持",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9yMEFvblBKOW1oSF9ubHNaYmJPU2c4Q0g5N3dENzFZa0s5WVROUE9tcE5vTGdGSk9Mb2NuNXZSWEtjWGtpMlVJ?oc=5",
@@ -19,6 +44,18 @@
     "date": "2026-08-24T09:16:06.000Z",
     "tags": [
       "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xU3U5dHA0RlVDWmlIcXlCMWxvYTdLVWJuTFlDbGlsdXZScXo2cjVyQWpMdFFsMmUySF9acnBPMDROS3VQNTFV?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均テクニカル： 続落、5日・25日線のデッドクロス窺う",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1xU3U5dHA0RlVDWmlIcXlCMWxvYTdLVWJuTFlDbGlsdXZScXo2cjVyQWpMdFFsMmUySF9acnBPMDROS3VQNTFV?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-08-24T09:15:00.000Z",
+    "tags": [
+      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
@@ -92,6 +129,18 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB2VEtiYWVQTkpFSlRzcVNxWEZGR2d0Rm55OXZ2NVlwcmFYcGwycVlWMmJCbXRuMWFQRkdiMXliN2luOEJ1V1Uw?oc=5",
     "source": "マネーポストWEB",
     "date": "2026-08-24T07:35:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSXVHN19SRjVSMm9vZzA4RUNLa01BcExWN0I3RzNEb3QtcjlkN19CSkFaeEhXWnZFU3RfbFloRmFhMTRjMk1DaGVzanpMY0Y2c0gw?oc=5",
+    "title": "（まとめ）日経平均は488円安の65,528円で続落 一方TOPIXは小幅続伸 - 市況概況",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RSXVHN19SRjVSMm9vZzA4RUNLa01BcExWN0I3RzNEb3QtcjlkN19CSkFaeEhXWnZFU3RfbFloRmFhMTRjMk1DaGVzanpMY0Y2c0gw?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-08-24T07:34:00.000Z",
     "tags": [
       "不動産・市場"
     ],
@@ -332,6 +381,18 @@
     "date": "2026-08-24T04:40:00.000Z",
     "tags": [
       "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LS3l4LWZZdkl0NGhOWFhSUmZoWnhRNXN6cXdhVl9EQ3VETnM0QkFqcXFrM2pDWG1zYWgxeEJ1eU5jMzdFT2NwUA?oc=5",
+    "title": "建設工事受注動態統計／6月下請受注高 前年比28％増に／国交省",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1LS3l4LWZZdkl0NGhOWFhSUmZoWnhRNXN6cXdhVl9EQ3VETnM0QkFqcXFrM2pDWG1zYWgxeEJ1eU5jMzdFT2NwUA?oc=5",
+    "source": "週刊住宅タイムズ",
+    "date": "2026-08-24T04:31:50.000Z",
+    "tags": [
+      "建設"
     ],
     "summary": "",
     "kind": "news"
@@ -669,6 +730,18 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbDcxUDFlbGVqazhMdndyeGFlc0NLTjNaQ3FTLXgteEZkeVR3Z2pVOF9aampqcEdrSjJaQm5Da2ZfMk1WbGEwajhWSUVxNEdzcmJ2a2FST1o0eVZyaVktRUtaSnNMbG1OdEdtdlpHdw?oc=5",
+    "title": "三井不、マレーシアで集合住宅−現地社と開発・分譲",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbDcxUDFlbGVqazhMdndyeGFlc0NLTjNaQ3FTLXgteEZkeVR3Z2pVOF9aampqcEdrSjJaQm5Da2ZfMk1WbGEwajhWSUVxNEdzcmJ2a2FST1o0eVZyaVktRUtaSnNMbG1OdEdtdlpHdw?oc=5",
+    "source": "日刊工業新聞",
+    "date": "2026-08-23T21:27:25.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9za0tvWlVoM05ZQm56VEZMYS1kYkhVZVMzTDZjd0dBbGo1YTBlblV3QTA2d29VcW5qbFp5Nm9qVExsVmpORk5lRW9XRlPSAU9BVV95cUxNX0pfRmdDTXdQQWQyeHpEZ2tGWUJRWFJiV2RSTWNtWFZxbkZ1R0YteklaUERqWElEUHFhaXhTUXhlbzJ4eDNBbmRMY2dBNHpV?oc=5",
     "title": "28年ぶりの円買い協調介入、円安の主因はマクロ経済政策、問われる政府・日銀の転換",
     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9za0tvWlVoM05ZQm56VEZMYS1kYkhVZVMzTDZjd0dBbGo1YTBlblV3QTA2d29VcW5qbFp5Nm9qVExsVmpORk5lRW9XRlPSAU9BVV95cUxNX0pfRmdDTXdQQWQyeHpEZ2tGWUJRWFJiV2RSTWNtWFZxbkZ1R0YteklaUERqWElEUHFhaXhTUXhlbzJ4eDNBbmRMY2dBNHpV?oc=5",
@@ -813,6 +886,18 @@
     "date": "2026-08-23T20:00:00.000Z",
     "tags": [
       "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HOWJwQng1ZHR5a3BERE50Q0Q4YmNoRG1tSHFVYTh4eFE5SU1abjdlUEZFTl9mWUdDaW50dmRjUkxUa3pVeDMyTVpnOEVmM2x5cHA4Y3ZucEdUNndQSnNMdnhtOF9tSWNKeXFQMg?oc=5",
+    "title": "清水建設がデータ管理基盤を5年かけて整備、全国行脚とFDEで活用浸透へ",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HOWJwQng1ZHR5a3BERE50Q0Q4YmNoRG1tSHFVYTh4eFE5SU1abjdlUEZFTl9mWUdDaW50dmRjUkxUa3pVeDMyTVpnOEVmM2x5cHA4Y3ZucEdUNndQSnNMdnhtOF9tSWNKeXFQMg?oc=5",
+    "source": "日経クロステック",
+    "date": "2026-08-23T20:00:00.000Z",
+    "tags": [
+      "建設"
     ],
     "summary": "",
     "kind": "news"
@@ -14863,93 +14948,5 @@
     ],
     "summary": "",
     "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSER5WERSUUZrQjBnOWk4bG9HNXJDR0w0WXZOZlVkT3FueDJNbGtvUnRpUXRzaEZyYjExclZZU0kwQlNSRFh6VU1nNzRIYWdzR0JNajJFSE9sUk1NTm52X29scWhFRzdfOUE?oc=5",
-    "title": "【うめきた温泉 蓮 Wellbeing Park】200万ダウンロード超のマインドフルネスアプリ「Upmind」開発者・箕浦CEOが登場！心と体を整える健康セミナーを8/17に開催",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PSER5WERSUUZrQjBnOWk4bG9HNXJDR0w0WXZOZlVkT3FueDJNbGtvUnRpUXRzaEZyYjExclZZU0kwQlNSRFh6VU1nNzRIYWdzR0JNajJFSE9sUk1NTm52X29scWhFRzdfOUE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-08-07T01:00:02.000Z",
-    "tags": [
-      "東建",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id0ZsQ01FbEN1R0cwYVAzU0dzSnZ6V3NaQ1RTN3c3Sng4OXVwWVY3OHc0WW9XbjJmcm1FY3FSOXlJd3JQbUlFTWFZMzZsSW1IYml6RG5TUlBUU09ZSkRma3FlaVVFX0Q4Y3c?oc=5",
-    "title": "品質マネジメントシステムの国際規格「ISO 9001」の認証を取得",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id0ZsQ01FbEN1R0cwYVAzU0dzSnZ6V3NaQ1RTN3c3Sng4OXVwWVY3OHc0WW9XbjJmcm1FY3FSOXlJd3JQbUlFTWFZMzZsSW1IYml6RG5TUlBUU09ZSkRma3FlaVVFX0Q4Y3c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-08-07T01:00:02.000Z",
-    "tags": [
-      "東急",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94UW1QS1FXc2hZNC0xaEF3RXNPcVlfSG9OODhjbTdxcXZvNG03Mi1PYnlsR1ZQb3RndWgtZ25OOUR4YlFBZkllOHFrLVVNRFlhVDVDLWg4UEtMRnJQWWFDWXF5WGotUFU4N2c?oc=5",
-    "title": "GRApP、自社ブランド6施設目となるアパートメントホテル「ReLA 南流山」を2026年8月に開業",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94UW1QS1FXc2hZNC0xaEF3RXNPcVlfSG9OODhjbTdxcXZvNG03Mi1PYnlsR1ZQb3RndWgtZ25OOUR4YlFBZkllOHFrLVVNRFlhVDVDLWg4UEtMRnJQWWFDWXF5WGotUFU4N2c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-08-07T01:00:02.000Z",
-    "tags": [
-      "積水",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYnA5Qm96V0M5cWpWa0hMWEEybVlEcHFaS0gyVERDX0h1MllndUowNkpGa0IxNVVRUzRnNElQRHA3eWVDeEtRY1h0QlVBcFhyNy1SdUlESDdPZVYxSkU2RE80T1c1b0FBQWc?oc=5",
-    "title": "【2026年8月1日開業】and factory、大阪・難波エリアに『&AND HOSTEL NAMBA SOUTH』をオープン！空きホテルを&AND HOSTELブランドに再生！",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZYnA5Qm96V0M5cWpWa0hMWEEybVlEcHFaS0gyVERDX0h1MllndUowNkpGa0IxNVVRUzRnNElQRHA3eWVDeEtRY1h0QlVBcFhyNy1SdUlESDdPZVYxSkU2RE80T1c1b0FBQWc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-08-07T00:00:02.000Z",
-    "tags": [
-      "住友",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YTlNZc096MmtKdGJtUlJaRktVUXhZMGN4OVpsQ0dlb2lYaEl6cjQtNk53UnBKWkVPY1RtTHE1UGZXdl9ORXlJMHZuTEd2amhyT1BN?oc=5",
-    "title": "（朝）米国市場は3指数揃って下落 中東情勢悪化懸念から投資家心理が悪化し売り優勢の展開 - 市況概況",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YTlNZc096MmtKdGJtUlJaRktVUXhZMGN4OVpsQ0dlb2lYaEl6cjQtNk53UnBKWkVPY1RtTHE1UGZXdl9ORXlJMHZuTEd2amhyT1BN?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-08-06T23:09:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rZmtRaTFqYzhlTnhkNUM0YXNBZWxkVlhEOGM0QVU1QWZ1UzNqTVNNVjhZdnNqZE1VUEhaZkp5cDlrVllJVWctcmF1LTBDV0E0Q004?oc=5",
-    "title": "成瀬駅、ペットOK、多頭飼育・中型犬可、システムキッチン、最新デジタルキー、生活便利な賃貸物件情報",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rZmtRaTFqYzhlTnhkNUM0YXNBZWxkVlhEOGM0QVU1QWZ1UzNqTVNNVjhZdnNqZE1VUEhaZkp5cDlrVllJVWctcmF1LTBDV0E0Q004?oc=5",
-    "source": "ドリームニュース",
-    "date": "2026-08-06T22:58:38.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.decn.co.jp/?p=186790",
-    "title": "大阪市／淡路・十三駅エリアまちづくり方針検討調査業務／日本設計に",
-    "url": "https://www.decn.co.jp/?p=186790",
-    "source": "日刊建設工業新聞（工事・計画）",
-    "date": "2026-08-06T21:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "大阪市は「令和８年度淡路駅エリア・十三駅エリアのまちづくり方針に関する検討調査業務委託」の公募型プロポーザルで、日本設計の提案を選定した。リニア中央新幹線の大阪延伸を見据え、阪急淡路駅と十三駅周辺のまちづくりを進める。 […]",
-    "kind": "news"
   }
 ]
