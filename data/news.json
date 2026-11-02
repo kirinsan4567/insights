@@ -1,5 +1,694 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BLVlmZFF0bDFWdjJjdzh2X1hrdzNEa3lOTDVHSlNFeEszNDNXakFuWldmWEowVkZSSW5ESTJmNm92Q0kzM04yQklCSHotekc1MnRz?oc=5",
+    "title": "（まとめ）日経平均は方向感に欠ける展開で208円安の63,081円で続落 明日は米国で中間選挙 - 市況概況",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BLVlmZFF0bDFWdjJjdzh2X1hrdzNEa3lOTDVHSlNFeEszNDNXakFuWldmWEowVkZSSW5ESTJmNm92Q0kzM04yQklCSHotekc1MnRz?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-11-02T10:00:38.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PUC03RktJLVMyWjVGTDhKMzBfcFRScnZWSzI0VHJNMkhiM0wzdVFiVmo1N3g5Rnh1YjFRdEJndVlvWGNMOVQwQ3BWSGc3NlVv?oc=5",
+    "title": "賃貸管理士、試験申込者が過去最多の3万7855人に",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1PUC03RktJLVMyWjVGTDhKMzBfcFRScnZWSzI0VHJNMkhiM0wzdVFiVmo1N3g5Rnh1YjFRdEJndVlvWGNMOVQwQ3BWSGc3NlVv?oc=5",
+    "source": "住宅新報",
+    "date": "2026-11-02T10:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92T2VJeVBpbWt6cVdvZzE0SzdVMTZRTTZFYk5TRXlYS2x5QkxXN2hBWVNVRkpxSDlxM2JpcEdQVV9jdGFDR2U0TEZxR3RWMFZ2RXpOa0d4eldfNHNGOTNFa3I0N3VCT0tDbEJ6amlaOTRGUzZBVW5LelNJbm1leFk?oc=5",
+    "title": "野村不動産グループ、商業施設をつなぐ新アプリ『ののの』を配信開始 約700店舗への拡大を予定（リアルサウンド）",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92T2VJeVBpbWt6cVdvZzE0SzdVMTZRTTZFYk5TRXlYS2x5QkxXN2hBWVNVRkpxSDlxM2JpcEdQVV9jdGFDR2U0TEZxR3RWMFZ2RXpOa0d4eldfNHNGOTNFa3I0N3VCT0tDbEJ6amlaOTRGUzZBVW5LelNJbm1leFk?oc=5",
+    "source": "Yahoo!ニュース",
+    "date": "2026-11-02T09:10:44.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "野村"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YYmptNXFRN3RyclE5VXVBVXMtOEdzMTRNTlJVZUZMNnhaTlpoZEZRVjNGWjFtbGppalk0UHNlSmN4M2kxMWZoM2x5V0M3d3ViZWs2TS16Yw?oc=5",
+    "title": "三菱地所他、上海で大規模複合施設を開業",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5YYmptNXFRN3RyclE5VXVBVXMtOEdzMTRNTlJVZUZMNnhaTlpoZEZRVjNGWjFtbGppalk0UHNlSmN4M2kxMWZoM2x5V0M3d3ViZWs2TS16Yw?oc=5",
+    "source": "https://www.tokyo-takken.or.jp/",
+    "date": "2026-11-02T09:02:19.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "三菱"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdUF1UE9tMmxKa2hoeFRSR2xfeGFFQzRKaUlyWmtoNEFmUUpvY05MY1FBQ1I0d0V3OGdqV3hhOFBTZDNxQTBQNmNDcFhRQWp1TVJaRl9HYw?oc=5",
+    "title": "東急リバブル、東京・新宿で分譲マンション竣工",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0xdUF1UE9tMmxKa2hoeFRSR2xfeGFFQzRKaUlyWmtoNEFmUUpvY05MY1FBQ1I0d0V3OGdqV3hhOFBTZDNxQTBQNmNDcFhRQWp1TVJaRl9HYw?oc=5",
+    "source": "https://www.tokyo-takken.or.jp/",
+    "date": "2026-11-02T09:02:19.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "建設",
+      "東急リ"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10SHZFdWwxVkI3RHhqeE9PZFJURkt6MlhUOWVDVkpCTFBzbUFGemN0Q2VhMXdNb056WllLZEZPTDloaGhDSkhBbzN3T3lDVDBvZnBFU2pBd2J0RDFLdzlyYW0yMmlSdmc?oc=5",
+    "title": "エリアリンク＜8914＞、東急リバブルからトランクルーム事業の13物件を取得",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10SHZFdWwxVkI3RHhqeE9PZFJURkt6MlhUOWVDVkpCTFBzbUFGemN0Q2VhMXdNb056WllLZEZPTDloaGhDSkhBbzN3T3lDVDBvZnBFU2pBd2J0RDFLdzlyYW0yMmlSdmc?oc=5",
+    "source": "Excite エキサイト",
+    "date": "2026-11-02T08:50:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "東急リ"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Vbm9uRGJRbmlWeUhHR2JEU083QTNCNVlFazhzOEZIVGRjVVN5Wlh5c3VWZVd4cmh6NkcwdUZTdWdhVVhMR1Bv?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は伸び悩み、158円付近の売りで",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5Vbm9uRGJRbmlWeUhHR2JEU083QTNCNVlFazhzOEZIVGRjVVN5Wlh5c3VWZVd4cmh6NkcwdUZTdWdhVVhMR1Bv?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T08:30:22.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWVpRRk5EemlYWFNaOEVJNjFwVnZXYXBWWmwxQ3Bhd1hpeTJNRlV2UUlmTTNyLU93MUxNMklrN3JXSmxNNGxxbURLVmhWRVBm?oc=5",
+    "title": "柿の木坂で一棟賃貸マンションを取得 ルーフ",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5PWVpRRk5EemlYWFNaOEVJNjFwVnZXYXBWWmwxQ3Bhd1hpeTJNRlV2UUlmTTNyLU93MUxNMklrN3JXSmxNNGxxbURLVmhWRVBm?oc=5",
+    "source": "住宅新報",
+    "date": "2026-11-02T08:15:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNk1DZm0yakR2VUpYRUxXeWN3SkxvZ3laOGlfWjNzYktqNWpOdXg0M2J2OExzamplNTRmV2xwRGgxYkd4TGRaYnB3aTgweEpOR0U1aEo5MFQ?oc=5",
+    "title": "大阪ガス都市開発、自社ブランドの賃貸竣工 1都3県初のZEH適合",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KNk1DZm0yakR2VUpYRUxXeWN3SkxvZ3laOGlfWjNzYktqNWpOdXg0M2J2OExzamplNTRmV2xwRGgxYkd4TGRaYnB3aTgweEpOR0U1aEo5MFQ?oc=5",
+    "source": "全国賃貸住宅新聞",
+    "date": "2026-11-02T08:04:12.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JT3NKT3RmczFEQVU1TmgzT3Jibm1HSk41U1hmLWlzRWU5TjRoazBLY0YyMVB6Um5fdjQ3dmtsYjdQeG96dmxxRHlBTGlGNkhvamVhaEx3Y1B6Snkycm1LNkNIU3RIMW8xSHc?oc=5",
+    "title": "robot home、事業拡大および人員増加に伴い東銀座オフィス開設",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JT3NKT3RmczFEQVU1TmgzT3Jibm1HSk41U1hmLWlzRWU5TjRoazBLY0YyMVB6Um5fdjQ3dmtsYjdQeG96dmxxRHlBTGlGNkhvamVhaEx3Y1B6Snkycm1LNkNIU3RIMW8xSHc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T08:00:01.000Z",
+    "tags": [
+      "野村",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeVlaVHYyb1RvZkFVb0pBUEw0Mk9hUzVQanJMRC1FVnpDMmdkN3VBOGdHeW5SS0c2MF9Wb0xkUzh3Wk0tUGlPdWVIallLQnE3djZ5TUgtanh5VFFyTnFudVRGU2YyVDhQVVE?oc=5",
+    "title": "2027年新春「とっておきや」おせちの予約販売開始！最新トレンドを徹底解説",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zeVlaVHYyb1RvZkFVb0pBUEw0Mk9hUzVQanJMRC1FVnpDMmdkN3VBOGdHeW5SS0c2MF9Wb0xkUzh3Wk0tUGlPdWVIallLQnE3djZ5TUgtanh5VFFyTnFudVRGU2YyVDhQVVE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T07:58:38.000Z",
+    "tags": [
+      "野村",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kRnNBb2gySXA4emZnTDBTdkVQV3FmYkdoUG1kbGgzR3EzR29xSVhKRlhLUmRXeVlzd0FaYjNDNWo2QkhwVkRmWVR5a0pZVndSd0Y4X3FKdVh3N3dnR3V0STlyOA?oc=5",
+    "title": "「開業」に関するプレスリリース一覧",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9kRnNBb2gySXA4emZnTDBTdkVQV3FmYkdoUG1kbGgzR3EzR29xSVhKRlhLUmRXeVlzd0FaYjNDNWo2QkhwVkRmWVR5a0pZVndSd0Y4X3FKdVh3N3dnR3V0STlyOA?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T07:38:58.000Z",
+    "tags": [
+      "東建",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VRGhweHlZVTFUYmxtZzd5SUxXOTRtNWY3SVdyWGdoTWtKVDZvR3lyWV84YjNtNnRETmJzS2NMTUF5R0ZDY1Rv?oc=5",
+    "title": "【注目トピックス 市況・概況】日経VI：上昇、米国中間選挙も警戒材料に",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1VRGhweHlZVTFUYmxtZzd5SUxXOTRtNWY3SVdyWGdoTWtKVDZvR3lyWV84YjNtNnRETmJzS2NMTUF5R0ZDY1Rv?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T07:35:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxZzM1ZmdqTlprVkJTZlJzTnREZUg0NDNkdmVVbWhiT2t3czBnOGNiRXNqVV9BSnl0T1pzN1EwNTYyM010ZVYw?oc=5",
+    "title": "【注目トピックス 市況・概況】米国株安を受けた売りと好決算銘柄への買いが交錯【クロージング】",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAxZzM1ZmdqTlprVkJTZlJzTnREZUg0NDNkdmVVbWhiT2t3czBnOGNiRXNqVV9BSnl0T1pzN1EwNTYyM010ZVYw?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T07:34:31.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcFBkSkRGNGNQdWhyY2FSbVIwSlFOQ1NjcC1lbVYxWmZYRzEtR2p6NVdqUDRqcWF0MVhxbkZKQ0RWY2JRQWFOZzFzX3pIUUdwWV9DQjdSTlFhS0JnRk5ud0Rzek5IbUw0d1E?oc=5",
+    "title": "小型人工衛星打上げロケットZEROを開発するインターステラテクノロジズ、宇宙戦略基金「民間ロケット打上げ実証加速化（STAND）」に採択",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KcFBkSkRGNGNQdWhyY2FSbVIwSlFOQ1NjcC1lbVYxWmZYRzEtR2p6NVdqUDRqcWF0MVhxbkZKQ0RWY2JRQWFOZzFzX3pIUUdwWV9DQjdSTlFhS0JnRk5ud0Rzek5IbUw0d1E?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T07:30:49.000Z",
+    "tags": [
+      "野村",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbWFWTmhfbFVFWnhMM2EyQ1pUNFdWQ3U1TkJ4RzZvajFIVDV2MlRSUUVkWWxiUGtQV1RJRzZMZkhObzVBTG5qVXA5UQ?oc=5",
+    "title": "福島県須賀川市と災害時等における支援および協力に関する協定書」を締結",
+    "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PbWFWTmhfbFVFWnhMM2EyQ1pUNFdWQ3U1TkJ4RzZvajFIVDV2MlRSUUVkWWxiUGtQV1RJRzZMZkhObzVBTG5qVXA5UQ?oc=5",
+    "source": "47NEWS",
+    "date": "2026-11-02T07:30:00.000Z",
+    "tags": [
+      "大和",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPODFZVHoycTZ5WmJqSVNRNWdvY1o2anhuZXNEZTJ0cmVZVW9KVEZ6LXg3X29fSXJPVWRTU1pwWkFpWDBTVi1qWEtMWmZqUFlYRFoycUdmNkJPNmJpcjdOUUNGbG1qZUJwbEE?oc=5",
+    "title": "株式会社トーシン及び株式会社レコの新設分割会社の 株式取得（連結子会社化）に関するお知らせ",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPODFZVHoycTZ5WmJqSVNRNWdvY1o2anhuZXNEZTJ0cmVZVW9KVEZ6LXg3X29fSXJPVWRTU1pwWkFpWDBTVi1qWEtMWmZqUFlYRFoycUdmNkJPNmJpcjdOUUNGbG1qZUJwbEE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T07:15:01.000Z",
+    "tags": [
+      "積水",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GcU9UX21YaU1hX2xiQWt0My1jd2NHY3ZRRko0Z0RQUjlNbnBuN3U0dGh6V2p0cGJGV3BIMGtQNmxENWhzMGItY20xU003Y1lEV1A1U2EtbDk?oc=5",
+    "title": "大英産業、都内で賃貸マンション開発に参入",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9GcU9UX21YaU1hX2xiQWt0My1jd2NHY3ZRRko0Z0RQUjlNbnBuN3U0dGh6V2p0cGJGV3BIMGtQNmxENWhzMGItY20xU003Y1lEV1A1U2EtbDk?oc=5",
+    "source": "全国賃貸住宅新聞",
+    "date": "2026-11-02T07:03:06.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZVVqODBJVWJNWG9ORjJsYXF4U25PbXlaM2FfYVpOVUstMkFwZXFzWEgzQXJDajVQSEhiSU9qR2JyMnE5X3dkZFRiWTRXNUVB?oc=5",
+    "title": "住宅ローン返済で「月額１万円負担増」で限界 中央プロパティー調査",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZVVqODBJVWJNWG9ORjJsYXF4U25PbXlaM2FfYVpOVUstMkFwZXFzWEgzQXJDajVQSEhiSU9qR2JyMnE5X3dkZFRiWTRXNUVB?oc=5",
+    "source": "住宅新報",
+    "date": "2026-11-02T07:00:00.000Z",
+    "tags": [
+      "住宅ローン"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50QWo1QmJWSDd4Qld3WnVqRDcyRnhQUEY4SU5sbGQ2RGFteFhKckdSTFhnZjhhSk11X1U2eThMaGtBLXR6Y2ZJ?oc=5",
+    "title": "【注目トピックス 市況・概況】東証業種別ランキング：倉庫・運輸関連業が下落率トップ",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50QWo1QmJWSDd4Qld3WnVqRDcyRnhQUEY4SU5sbGQ2RGFteFhKckdSTFhnZjhhSk11X1U2eThMaGtBLXR6Y2ZJ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T06:53:16.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaW9zMnBzVEZESjkyeHR0UmJyejJmSzZRdHA5MUQ1UGtiTEJCUldZZ1UxMmtMYW5acWR0cVJmREM0MVBFZGtJ?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均大引け：前週末比208.25円安の63081.86円",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5OaW9zMnBzVEZESjkyeHR0UmJyejJmSzZRdHA5MUQ1UGtiTEJCUldZZ1UxMmtMYW5acWR0cVJmREM0MVBFZGtJ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T06:36:33.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xTEd2RThVRVZrbW9kYlZkTFVkUjZlYmVyQlh3Y05QSHVLcng0NkVGczhOWENEY2h0alNvd0F2RVFfV3NWaFhV?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は変わらず、上値が重い",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5xTEd2RThVRVZrbW9kYlZkTFVkUjZlYmVyQlh3Y05QSHVLcng0NkVGczhOWENEY2h0alNvd0F2RVFfV3NWaFhV?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T06:31:52.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRnc19yckZ2dG5jRXp4VElVYmQ4T0RrdVRDTFc5TzZsUTNyQzdXRnlUdzBYcGc5ejNnUENhYlZxNjJ4TnJub0UteHZKRGFBY3Y1WlpINHFUdmd5ZVR5WGRCTDVJcVZkLWlXcGdJTkJ0eHJtUHNQcVFrMnVUalBSMmExWm0xMG5Sc04zNDBYeHZLS2xOMnl2Sk82akpFbzZLaGUxdjg3amZmQTNQLW1QNXpaeE9MemtvdEVrNTIwQkVLVkhHMm9yUkhzanQ?oc=5",
+    "title": "三菱地所[8802]：自己株式の取得状況に関するお知らせ 2026年11月2日(適時開示) ：日経会社情報DIGITAL",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSmRnc19yckZ2dG5jRXp4VElVYmQ4T0RrdVRDTFc5TzZsUTNyQzdXRnlUdzBYcGc5ejNnUENhYlZxNjJ4TnJub0UteHZKRGFBY3Y1WlpINHFUdmd5ZVR5WGRCTDVJcVZkLWlXcGdJTkJ0eHJtUHNQcVFrMnVUalBSMmExWm0xMG5Sc04zNDBYeHZLS2xOMnl2Sk82akpFbzZLaGUxdjg3amZmQTNQLW1QNXpaeE9MemtvdEVrNTIwQkVLVkhHMm9yUkhzanQ?oc=5",
+    "source": "日本経済新聞",
+    "date": "2026-11-02T06:30:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "三菱"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jVzh4RzFSMmdxYkgtLWl1WVdBeUk1elpUM2VPaTNnNGw0aWpVZWJ6eDNCeEZuR0xPMWtOaHJqcU50MExRcHhGWXhRLUJnY1d5YWtz?oc=5",
+    "title": "兵機海運---中東向けスポット案件の受注などで27年3月期業績予想を上方修正",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jVzh4RzFSMmdxYkgtLWl1WVdBeUk1elpUM2VPaTNnNGw0aWpVZWJ6eDNCeEZuR0xPMWtOaHJqcU50MExRcHhGWXhRLUJnY1d5YWtz?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-11-02T06:21:09.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51ZU4wX0NsYXlTYk14VEpuQ1pfZm9iZU9tTzJVTjBCWlU0VlBCOFBmQnZfaG1FTzc2d3NrN1BWbDZlRlk2enpn?oc=5",
+    "title": "【注目トピックス 日本株】兵機海運—中東向けスポット案件の受注などで27年3月期業績予想を上方修正",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE51ZU4wX0NsYXlTYk14VEpuQ1pfZm9iZU9tTzJVTjBCWlU0VlBCOFBmQnZfaG1FTzc2d3NrN1BWbDZlRlk2enpn?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T06:16:50.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85UzRpLWVTZkFPcGpCT2FHX2Yta2hkaG9RUXdkQkZnclZ2RERBbjYwUDN1ZzcySnBQdS1WaExMUms2NU5DYnhF?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均は8円高、内外企業決算や米経済指標に関心",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE85UzRpLWVTZkFPcGpCT2FHX2Yta2hkaG9RUXdkQkZnclZ2RERBbjYwUDN1ZzcySnBQdS1WaExMUms2NU5DYnhF?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T05:52:12.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KOXhvM2JsRndXb0w3ZFV5UXpBY3dYdDdyXzBPRnE1LVpPeldrcVNyWnhmMUpsT0J3U2c5c2c0ZFkwd0JSdWxoY3BhSnc2VmhsVkhr?oc=5",
+    "title": "レーザーテック---大幅反発、受注高見通しを大幅に引き上げ",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KOXhvM2JsRndXb0w3ZFV5UXpBY3dYdDdyXzBPRnE1LVpPeldrcVNyWnhmMUpsT0J3U2c5c2c0ZFkwd0JSdWxoY3BhSnc2VmhsVkhr?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-11-02T05:51:27.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yc2tIZGRYM0M1cVpTWnBSOFhSbzNkT1NsVHhnOUpZOG9yTHh0ZExaVlgzLTFlZl95OEtmbklGSjhHSVo3N2NR?oc=5",
+    "title": "【注目トピックス 市況・概況】日経平均VIは上昇、米中間選挙も警戒材料に",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5yc2tIZGRYM0M1cVpTWnBSOFhSbzNkT1NsVHhnOUpZOG9yTHh0ZExaVlgzLTFlZl95OEtmbklGSjhHSVo3N2NR?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T05:09:50.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xTXhkMlVxclh4MUt1cjhZVXlkRFVjU3FyQjVSQ24ta0RtRDJBc1luam5qMk1qWjJqQXFnbE14RmlGdnJkNTVZ?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は小動き、ドル買いは後退",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4xTXhkMlVxclh4MUt1cjhZVXlkRFVjU3FyQjVSQ24ta0RtRDJBc1luam5qMk1qWjJqQXFnbE14RmlGdnJkNTVZ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T04:30:44.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByN2dncl9PVThrblpyTXZ4aFBPSVpDY096TkdyVWJJSlg1c2k0S0JqNzJOeXZNdUZQWXBEM2lYM3BOaXNmYWFFak9iaEpSZ2pSWlgyN3BWRjQxSUUtcWlqRUQwYzItUWpHNkE?oc=5",
+    "title": "JALグループ 2027年3月期 第2四半期連結業績",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFByN2dncl9PVThrblpyTXZ4aFBPSVpDY096TkdyVWJJSlg1c2k0S0JqNzJOeXZNdUZQWXBEM2lYM3BOaXNmYWFFak9iaEpSZ2pSWlgyN3BWRjQxSUUtcWlqRUQwYzItUWpHNkE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T04:22:25.000Z",
+    "tags": [
+      "野村",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VXliMTlHS2NDeFBQTE1NVVFaR2V0X0U1WENCTFhBWkR3NC1URUdjNl9wWHJ5SF90Vk1OLW9HVXpNc1pEeWJPdFRqcFE3MkplaXRoSUZPN3JuQ001SWlRRkxKeHhMcDI3WWR0OQ?oc=5",
+    "title": "フラット35の11月金利、3.81% 4カ月ぶり下落",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2VXliMTlHS2NDeFBQTE1NVVFaR2V0X0U1WENCTFhBWkR3NC1URUdjNl9wWHJ5SF90Vk1OLW9HVXpNc1pEeWJPdFRqcFE3MkplaXRoSUZPN3JuQ001SWlRRkxKeHhMcDI3WWR0OQ?oc=5",
+    "source": "日本経済新聞",
+    "date": "2026-11-02T04:07:23.000Z",
+    "tags": [
+      "金利・日銀",
+      "住宅ローン"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qbjNTT0Z1S3drVGEwYzdOblYxa3hORlhqUW9SMm4yN0hqNzZaVkVmXy0tSXhLTGFmTDRsNnJ4a1JZZ192UXBSaThERTZfakNCaFNUaE5iSjY?oc=5",
+    "title": "グローバル・リンク・マネジメント、中古のオフィスやホテルを再生",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qbjNTT0Z1S3drVGEwYzdOblYxa3hORlhqUW9SMm4yN0hqNzZaVkVmXy0tSXhLTGFmTDRsNnJ4a1JZZ192UXBSaThERTZfakNCaFNUaE5iSjY?oc=5",
+    "source": "全国賃貸住宅新聞",
+    "date": "2026-11-02T04:05:09.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OT2RvLUFCZjNrQXMxdkQ2T192OXg5OXYtdkhEeDRxYURUUGt4OHRLblNXY0FEdVdncXozOFpUd1hiNzlTdDdEQ2Rwc2YzWnN4YmZDRE1qZkpQbFFQekVLZEd6dlRZM3FyYXc?oc=5",
+    "title": "品川・羽田・横浜へ自在な「蒲田」エリアに、新築投資用マンション「RELUXIA蒲田西」販売開始",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OT2RvLUFCZjNrQXMxdkQ2T192OXg5OXYtdkhEeDRxYURUUGt4OHRLblNXY0FEdVdncXozOFpUd1hiNzlTdDdEQ2Rwc2YzWnN4YmZDRE1qZkpQbFFQekVLZEd6dlRZM3FyYXc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T04:00:02.000Z",
+    "tags": [
+      "不動産・市場",
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EXzVqUjZlOXZ3WmJvaGdNdFRQZWFMNnFsQ1U5U2lNd0wzOWI0QU9uRHlNWjIwUHA4YUdHbGJ2eDFITW53dHpLcGxOUXAzOU9RakFYOF9rbHdkcVFYV213U3VFWmF6QQ?oc=5",
+    "title": "【住友不動産ハウジング】第二回オンライン完成現場見学会",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EXzVqUjZlOXZ3WmJvaGdNdFRQZWFMNnFsQ1U5U2lNd0wzOWI0QU9uRHlNWjIwUHA4YUdHbGJ2eDFITW53dHpLcGxOUXAzOU9RakFYOF9rbHdkcVFYV213U3VFWmF6QQ?oc=5",
+    "source": "朝日新聞",
+    "date": "2026-11-02T03:47:40.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "住友"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTRHRKS210N3IxU1BiUUhJcUNDM0w4NUl0M1hjVHFyOTZHYU5mVHQ3c1pJODBfNnZlY2xMRjMyS01CakZocDVMd2pn?oc=5",
+    "title": "大和ハウス、伊勢崎市場跡地に県内最大物流施設",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBTRHRKS210N3IxU1BiUUhJcUNDM0w4NUl0M1hjVHFyOTZHYU5mVHQ3c1pJODBfNnZlY2xMRjMyS01CakZocDVMd2pn?oc=5",
+    "source": "LOGISTICS TODAY",
+    "date": "2026-11-02T03:23:19.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "大和"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5waDIxQjVQOEhkN2xfc21kSFdEemVuajZvTWtZd2h0MGtaLVRFb19YUkJQeU5VcGxLVTJvRGpqVHFQWjlhQ3NB?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は小じっかり、ドルに買戻し",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5waDIxQjVQOEhkN2xfc21kSFdEemVuajZvTWtZd2h0MGtaLVRFb19YUkJQeU5VcGxLVTJvRGpqVHFQWjlhQ3NB?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T03:21:18.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENlB3OFV3WGtBR3p1aEc4TjhKcU5XSVpVMFRhcFFOMWRsMWstTEpGVUlWRUcyLVl6YTFpNjlBSmFnd0d0NTNGeGZRbTJmRkNLek45N004NURPdzhvQ0Rqd1Q4TWxGenNDNHc?oc=5",
+    "title": "木内建設株式会社と株式会社森とみずのちからは小水力発電事業協業のための協定書締結をおこないました。",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ENlB3OFV3WGtBR3p1aEc4TjhKcU5XSVpVMFRhcFFOMWRsMWstTEpGVUlWRUcyLVl6YTFpNjlBSmFnd0d0NTNGeGZRbTJmRkNLek45N004NURPdzhvQ0Rqd1Q4TWxGenNDNHc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T03:00:02.000Z",
+    "tags": [
+      "建設",
+      "東急",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mRUY3S0JvUVNIY1dDTGoybFhxT2lFd1Y0Z1k5VEt1WTJwYXlfVXV3YWVhLXU4a3pNY1BvWWpxSXlORkVNUG5fTWw1RFpXdVZ0My12N1JNZ014YmJ0dWhtYmhpa1lOanJVa1E?oc=5",
+    "title": "日立社会情報サービス、C&Aホールディングスと業務提携契約を締結",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5mRUY3S0JvUVNIY1dDTGoybFhxT2lFd1Y0Z1k5VEt1WTJwYXlfVXV3YWVhLXU4a3pNY1BvWWpxSXlORkVNUG5fTWw1RFpXdVZ0My12N1JNZ014YmJ0dWhtYmhpa1lOanJVa1E?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T02:30:01.000Z",
+    "tags": [
+      "積水",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/962684",
+    "title": "中古車販売店｢ガリバー｣のIDOMが業績下方修正の\"想定外\" 来期以降の出店ペースはどうなる？ | 政治・経済・投資 | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/962684?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-11-02T02:30:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "中古車販売店｢ガリバー｣のIDOMが増益計画にブレーキをかけました。その背景とは？",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVjI0SHB4cWoxR2ZfQ2U3LUJCR2Y2MGE5b251a3E3YWdUSjRDdEpMRFBaalVxVXQ5SFRBeFdzSDdhNkpjOWxVS0NMWWtaX1JSWHJDN3NTVVpNMjBpcHY1a0JOaE55Y09QV0E?oc=5",
+    "title": "東急リバブル初の顔認証導入マンションミガロホールディングスの子会社DXYZの顔認証IDプラットフォーム「FreeiD」を「ルジェンテ新宿」に導入",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVjI0SHB4cWoxR2ZfQ2U3LUJCR2Y2MGE5b251a3E3YWdUSjRDdEpMRFBaalVxVXQ5SFRBeFdzSDdhNkpjOWxVS0NMWWtaX1JSWHJDN3NTVVpNMjBpcHY1a0JOaE55Y09QV0E?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T02:00:40.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "東急リ"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMHFyeXJhVU5SUm5IS2I5VWk5TUZjY0xOYlR6OGowSmZMSzQwRWpITFMxUjJKTF8zVDdTbjA3VDFJZW1YS3JHanNrYWMta1owUlVGbk5nTklrYzc4R0VCTjBFdDJLOVN1S2c?oc=5",
+    "title": "東急リバブル初の顔認証導入マンション",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMHFyeXJhVU5SUm5IS2I5VWk5TUZjY0xOYlR6OGowSmZMSzQwRWpITFMxUjJKTF8zVDdTbjA3VDFJZW1YS3JHanNrYWMta1owUlVGbk5nTklrYzc4R0VCTjBFdDJLOVN1S2c?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T02:00:02.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "東急リ",
+      "三井"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
+    "title": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T02:00:02.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "住友"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MXl0aWJMa3FfZ2xia1A1QXJ3ODV5ckRXTDI5b1luYTE4ajJTTlo0SElxLU1JRzRWQ0VWQjNKNFVjcEpqUWpUQV9pWFRoRkRlRktSY2FJYU5qSjlUV0pUMU13UHQ5T0dsU2c?oc=5",
+    "title": "マンション内を“顔だけ”で移動できる暮らしを実現 ルジェンテシリーズ初導入！顔認証セキュリティサービス「FreeiD」を標準装備した「ルジェンテ新宿」が竣工",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MXl0aWJMa3FfZ2xia1A1QXJ3ODV5ckRXTDI5b1luYTE4ajJTTlo0SElxLU1JRzRWQ0VWQjNKNFVjcEpqUWpUQV9pWFRoRkRlRktSY2FJYU5qSjlUV0pUMU13UHQ5T0dsU2c?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T02:00:02.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "建設",
+      "東急リ"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nUW1nQmEtNHVEWDl6d2hoMWZucTE4SXFFcTJmbktVX0hjUi1PUDlHNzlja0c2Z3FGZFRtT1JnbGJnYnJoR21NQXVzdjZxdw?oc=5",
+    "title": "【東京“地価上昇”エリアのマンション購入ガイド】Vol.2 板橋区｜property technologies",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nUW1nQmEtNHVEWDl6d2hoMWZucTE4SXFFcTJmbktVX0hjUi1PUDlHNzlja0c2Z3FGZFRtT1JnbGJnYnJoR21NQXVzdjZxdw?oc=5",
+    "source": "アットプレス",
+    "date": "2026-11-02T02:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ3FxY1h4bF9LMFg5enRKc2VGVGlVdzcyaV9IYmtsZzNybW5aYW1tcWpQa016amFCNUhzclc0dGNIZ3h1RmJpZGJSRUNqb2w2LXkxY2tKdFZaczZDZ1g4SGM1eU85U1RvYnc?oc=5",
+    "title": "マルチテナント型物流施設「（仮称）DPL群馬伊勢崎」着工",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ3FxY1h4bF9LMFg5enRKc2VGVGlVdzcyaV9IYmtsZzNybW5aYW1tcWpQa016amFCNUhzclc0dGNIZ3h1RmJpZGJSRUNqb2w2LXkxY2tKdFZaczZDZ1g4SGM1eU85U1RvYnc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T01:45:59.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "建設",
+      "大和"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfV0xiWWdJdUVHa3FUWUF4dGFQampaNkRnRExXQjJ4Nk43TXk3YWJOSjBkQmJuTGZtdVZMa1poNnloNWVnNE1R?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は158円手前で小動き、ユーロは続伸",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfV0xiWWdJdUVHa3FUWUF4dGFQampaNkRnRExXQjJ4Nk43TXk3YWJOSjBkQmJuTGZtdVZMa1poNnloNWVnNE1R?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T01:33:06.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWWszclNnSTNrcnBYV0RVWms4enh4cWZISmxQYkc2dzlRakpNZk9oaDE4WHpoLWFSRjRFUU1zQW9iQWpuUGFoaUdBN3J2cjczWFpmV19sZjFsQ3VXM29HeE1qYkFtOTd2dVE?oc=5",
+    "title": "フュディアルコミュニティ、ファッションサブスクリプションサービス「airCloset」を運営する株式会社エアークローゼットと業務提携",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWWszclNnSTNrcnBYV0RVWms4enh4cWZISmxQYkc2dzlRakpNZk9oaDE4WHpoLWFSRjRFUU1zQW9iQWpuUGFoaUdBN3J2cjczWFpmV19sZjFsQ3VXM29HeE1qYkFtOTd2dVE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T01:00:02.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTHIzU1FBdUREZUJUakdWUE15VzJWOEtlZmJjNmxJX25XM1ozN0RmaXBkZzZsYTA0d0tsSksxVTlNWUF2OFlFSXFJSnVYV0FNMTlnZW5wamNlZ3ZkZW9oNW13cEJXeTFHY3c?oc=5",
+    "title": "hitomi、ピコ太郎、LiLiCo、TRFメンバーらが出演！小児がん治療支援チャリティーライヴ＆特別番組「LIVE EMPOWER CHILDREN 2027 プロジェクト」関西4病院で開催！",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBaTHIzU1FBdUREZUJUakdWUE15VzJWOEtlZmJjNmxJX25XM1ozN0RmaXBkZzZsYTA0d0tsSksxVTlNWUF2OFlFSXFJSnVYV0FNMTlnZW5wamNlZ3ZkZW9oNW13cEJXeTFHY3c?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T01:00:02.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeWZjZ2R4V0gtM1FmeHdXVzVKMDBLYVJucm94LXJoZ1JTQkQ2NVNzellDS3h4Q2RRREV3SXJTdmptUE5XVDBlVjk5dzlYNWNMWWEzOEJJUUZnbklCSElDcnBlMERZVlJfSXc?oc=5",
+    "title": "『プロジェクトセカイ カラフルステージ！ feat. 初音ミク』「ULTIM@TE☆BE∀M!!」をリズムゲーム楽曲として追加！",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JeWZjZ2R4V0gtM1FmeHdXVzVKMDBLYVJucm94LXJoZ1JTQkQ2NVNzellDS3h4Q2RRREV3SXJTdmptUE5XVDBlVjk5dzlYNWNMWWEzOEJJUUZnbklCSElDcnBlMERZVlJfSXc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-02T01:00:02.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://www.itmedia.co.jp/business/articles/2611/02/news006.html",
+    "title": "建設現場の「古い図面」問題 紙とデジタルのズレが招く「手戻り」と「工事遅延」、日本HPはどう解消した？",
+    "url": "https://www.itmedia.co.jp/business/articles/2611/02/news006.html",
+    "source": "ITmedia ビジネス",
+    "date": "2026-11-02T01:00:00.000Z",
+    "tags": [
+      "建設"
+    ],
+    "summary": "急速なデジタル化が進む建築・建設業界。一方で、現場が参照しているのは、依然として紙やPDFの図面が中心。デジタルと紙、オフィスと現場で異なる媒体で情報が参照されていると、最新の図面の共有が遅れ、手戻りや施工ミス、工事の遅延などにつながりかねない。この課題を日本HPの新サービスはど…",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rUFdER0dGVkdsTXNIQm9nQU9tMktqR0ZHLVB4U0ctbEwtZjM0UXR2N1R3cmNVN3FxRkdBdEZoV3diQWVvUVVCYV9NSElJbTVINEl3VWpTRUJvU0Q2RUE?oc=5",
+    "title": "東京建物が相次いで商業施設を開発｜商業記者の独り言。 by 商業施設新聞",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5rUFdER0dGVkdsTXNIQm9nQU9tMktqR0ZHLVB4U0ctbEwtZjM0UXR2N1R3cmNVN3FxRkdBdEZoV3diQWVvUVVCYV9NSElJbTVINEl3VWpTRUJvU0Q2RUE?oc=5",
+    "source": "産業タイムズ社",
+    "date": "2026-11-02T00:49:15.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "東建"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1FYc2Z5YjQtTm1MdEUtbkZUUGxVSV9lRV9IUV9adkNHMUh5U2VsQnVDclFDZXlXT3pTRU5YZVdHc251Y1BRbkJ0TG9zQXdwNkxadUNCMG1mTW41WUtFWjRiOC1zaklRX3ZnNzNVV1MzWVA5RmdXdHlBLWRqcERaV1FLcVJ4dw?oc=5",
+    "title": "豪住宅価格が7カ月連続下落、過去40年で最も急速",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS1FYc2Z5YjQtTm1MdEUtbkZUUGxVSV9lRV9IUV9adkNHMUh5U2VsQnVDclFDZXlXT3pTRU5YZVdHc251Y1BRbkJ0TG9zQXdwNkxadUNCMG1mTW41WUtFWjRiOC1zaklRX3ZnNzNVV1MzWVA5RmdXdHlBLWRqcERaV1FLcVJ4dw?oc=5",
+    "source": "Reuters",
+    "date": "2026-11-02T00:36:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92OXo5Y1pvM3ozM3RhNUF6U2tHQmd2NlR3UGhBanU3QTVvNU5ienhKLW1JLVJwLXJhWHR1WVUxNUdLRjQ4Snpz?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は上昇基調、157円82銭まで値を上げる",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE92OXo5Y1pvM3ozM3RhNUF6U2tHQmd2NlR3UGhBanU3QTVvNU5ienhKLW1JLVJwLXJhWHR1WVUxNUdLRjQ4Snpz?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T00:33:27.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVnVHZjJKUFRpd21qS01MdG9Qb3BkZlV6NGFBeVo5NExBUDN0WnBlY2tjQUR4c2hpdWppY2JVSjk4cHFoRFNWOG5rSDh5QkJTak40SXJDQzZEV1VDV0k5Sg?oc=5",
+    "title": "SBIアルヒ、固定金利と変動金利を組み合わせたミックスローンに新タイプを追加",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lVnVHZjJKUFRpd21qS01MdG9Qb3BkZlV6NGFBeVo5NExBUDN0WnBlY2tjQUR4c2hpdWppY2JVSjk4cHFoRFNWOG5rSDh5QkJTak40SXJDQzZEV1VDV0k5Sg?oc=5",
+    "source": "Infoseek",
+    "date": "2026-11-02T00:30:00.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2UlhRTUM0MU5yMFlxYjZNS2VoZk90Sm10V2MtUG1wVGhlaVhoS3FxOUk5TGh4RllWWUZ6ZmhYbDNsUXFLbzN0TEhhWDg3MVNUalR6MWFPUS1VMUxSTUVaclFweFlDcHRBdkE?oc=5",
     "title": "GATES、総再生100万回のYouTube「Open GATES【不動産投資の扉】」発、未公開不動産プラットフォーム「OPEN GATES DIRECT」を11月2日にリニューアル",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA2UlhRTUM0MU5yMFlxYjZNS2VoZk90Sm10V2MtUG1wVGhlaVhoS3FxOUk5TGh4RllWWUZ6ZmhYbDNsUXFLbzN0TEhhWDg3MVNUalR6MWFPUS1VMUxSTUVaclFweFlDcHRBdkE?oc=5",
@@ -32,6 +721,19 @@
     "source": "マネーポストWEB",
     "date": "2026-11-02T00:04:20.000Z",
     "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9weERyTjNWeDIydUxvblBpT0RxbS1KQ3ZhbGR5VmY1Ul9nWHh0V19rNnhvakg2WDh4czc3Q3hrSGdMOElqN0JJ?oc=5",
+    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は小幅な値動き、日銀の金利据え置き後の動向を注視",
+    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9weERyTjNWeDIydUxvblBpT0RxbS1KQ3ZhbGR5VmY1Ul9nWHh0V19rNnhvakg2WDh4czc3Q3hrSGdMOElqN0JJ?oc=5",
+    "source": "マネーポストWEB",
+    "date": "2026-11-02T00:03:55.000Z",
+    "tags": [
+      "金利・日銀",
       "不動産・市場"
     ],
     "summary": "",
@@ -528,6 +1230,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Ulpia08wQnhJRzlsY2FsUlhiZG9mUi1YVEdzRlN6c0o4R0VQcWlfQTRCVUhLR2hESm9jbF9oaHNwYnRzR1pBN0padWFMX1h1c1VUV201M3F1ZVBHTmxHOENn?oc=5",
+    "title": "【売買】物流3棟を取得、SOSiLA物流リートなど出資のSPC",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE53Ulpia08wQnhJRzlsY2FsUlhiZG9mUi1YVEdzRlN6c0o4R0VQcWlfQTRCVUhLR2hESm9jbF9oaHNwYnRzR1pBN0padWFMX1h1c1VUV201M3F1ZVBHTmxHOENn?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-11-01T07:32:38.000Z",
+    "tags": [
+      "住友商事",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOHk4ZmFCWkJSQjFvdGNQUzB1aC1IOHFvaHhmVngyc3Biby1MamdiVE1sR2pNaE1hSzBTUllkSXJNR2FGT18zZzZCZFQ0Z1ZzS0JtbTd4Wmk?oc=5",
     "title": "紅葉シーズン到来 福田雄一さんの不動産投資コラム127話【健美家】",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hOHk4ZmFCWkJSQjFvdGNQUzB1aC1IOHFvaHhmVngyc3Biby1MamdiVE1sR2pNaE1hSzBTUllkSXJNR2FGT18zZzZCZFQ0Z1ZzS0JtbTd4Wmk?oc=5",
@@ -588,6 +1303,19 @@
     ],
     "summary": "",
     "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41OElzWGxHdDhkR0FZOTN5dXVtVWo5dEZRbGxPQnAwVEZ2dERxT3hSaGVGNW9ENENHUVRDWlM1cGN6bGo2RkRnd2xyQTdaSjVxZHBfbmJENlRVdE5qTV85Ml9n?oc=5",
+    "title": "【売買】西心斎橋でホテル用地を確保、日鉄興和",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41OElzWGxHdDhkR0FZOTN5dXVtVWo5dEZRbGxPQnAwVEZ2dERxT3hSaGVGNW9ENENHUVRDWlM1cGN6bGo2RkRnd2xyQTdaSjVxZHBfbmJENlRVdE5qTV85Ml9n?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-11-01T04:30:55.000Z",
+    "tags": [
+      "日鉄",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kaUZvcFBrVVdfX292ZTUxMjJWcGVvbFdfN3E0QVh0TUJvMnJ3RmRFS1lCb21GV3FvMFVWOGIxM2dpQnpWY3hrTVRBRDhocnE4TnRlM3R4ZGN2LWRuRWNRRVJWeWZ2Q2N5bkNHd25WcDdKLVdKdzY3Y3l3?oc=5",
@@ -740,6 +1468,31 @@
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4zcGl5R3NRbnRXQUJ3bnRrMTd5Vld6ODR2WGE0SWJTeWpPM2E2ZFFFYXNyVlJwWV9yNGI5LXJMNnRfcDk2VDdj?oc=5",
     "source": "マネーポストWEB",
     "date": "2026-11-01T02:01:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOWZDNG1UMDNub3hZdUdySXBmS3RfWEdvc3pVY1h2eThZc1FBQndmeWFLLTdUb1prTGhpWlNuNzFyRDBjYnZwNGlVbUp3NmJDa2JEQWdHc2hVNGpDMGRBcHlB?oc=5",
+    "title": "【売買】馬車道駅近くの複合ビルを売却、大和ハウス",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1BOWZDNG1UMDNub3hZdUdySXBmS3RfWEdvc3pVY1h2eThZc1FBQndmeWFLLTdUb1prTGhpWlNuNzFyRDBjYnZwNGlVbUp3NmJDa2JEQWdHc2hVNGpDMGRBcHlB?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-11-01T01:45:20.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "大和"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SRlFFZXRkdGZoY2MxdkhBV2l5bE51bzlBbjRGaGFzcmVsRm4zN01YRV9wMG42YjBtX3B0Vi1EdjQ5U1N3NUNvUDNrRmpFVmFVZ09VN1hSeVAtUjhsWE4xMEV3?oc=5",
+    "title": "【分析】新築マンション価格は今後も高水準で推移、ニッセイ基礎研",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SRlFFZXRkdGZoY2MxdkhBV2l5bE51bzlBbjRGaGFzcmVsRm4zN01YRV9wMG42YjBtX3B0Vi1EdjQ5U1N3NUNvUDNrRmpFVmFVZ09VN1hSeVAtUjhsWE4xMEV3?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-11-01T00:10:02.000Z",
     "tags": [
       "不動産・市場"
     ],
@@ -966,6 +1719,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GNzcwZTl6X0pRZ1JsWWN1S3o4UGpZejdNSlZPR1M5UjVaTGE2U0s2aGczTXIzOXYyMnFMckpDQnBJWjdtSFgxWGNyQUlkTDRXQVFkMVFBckszTDZSRmJ4S0hn?oc=5",
+    "title": "【開発】秋葉原ジャンク通り沿いに1490m2のホテル、大和ハウス",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5GNzcwZTl6X0pRZ1JsWWN1S3o4UGpZejdNSlZPR1M5UjVaTGE2U0s2aGczTXIzOXYyMnFMckpDQnBJWjdtSFgxWGNyQUlkTDRXQVFkMVFBckszTDZSRmJ4S0hn?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-10-31T11:17:44.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "大和"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2OUZDNnlaNy1vUEFwRGZNUWM3dTVGT1BSbnQ5WnJMUHZhUnMzT0pRMVdwc25CbGJscTVINTJBNkYwNHozc3RrcDc1VGs3ODRHQmRmSDZ2Qzc0Zl9KN1E?oc=5",
     "title": "住宅ローンはどう備える？金利上昇時に考えたい「返済期間短縮と繰り上げ返済」：FPが解説 (2026年10月31日掲載)",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2OUZDNnlaNy1vUEFwRGZNUWM3dTVGT1BSbnQ5WnJMUHZhUnMzT0pRMVdwc25CbGJscTVINTJBNkYwNHozc3RrcDc1VGs3ODRHQmRmSDZ2Qzc0Zl9KN1E?oc=5",
@@ -1133,7 +1899,9 @@
       "開発・デベロッパー",
       "東建",
       "東急リ",
-      "三井"
+      "三井",
+      "野村",
+      "東急"
     ],
     "summary": "",
     "kind": "press"
@@ -1611,6 +2379,18 @@
     ],
     "summary": "",
     "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBXdjdRLWVQaFJsQTN3bnJxNnJLSjJrdlVrLW5rUjdvOUhTNndrTXQwLTV1dTlqMFdHR3pJVGU2YnZkS2h0NlM1VFZ4VXFkdWlndzNkVUVpX3Q4bnNabE85NVNYVTJmTmZQV2QwU2FMVkdhWGhzOE93Tm1hVHE0aDNR?oc=5",
+    "title": "日銀総裁、物価２％定着へ軸足 持続・安定的な実現「まだ」―政策判断、上振れリスク意識",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaVBXdjdRLWVQaFJsQTN3bnJxNnJLSjJrdlVrLW5rUjdvOUhTNndrTXQwLTV1dTlqMFdHR3pJVGU2YnZkS2h0NlM1VFZ4VXFkdWlndzNkVUVpX3Q4bnNabE85NVNYVTJmTmZQV2QwU2FMVkdhWGhzOE93Tm1hVHE0aDNR?oc=5",
+    "source": "時事ドットコム",
+    "date": "2026-10-30T10:32:00.000Z",
+    "tags": [
+      "金利・日銀"
+    ],
+    "summary": "",
+    "kind": "news"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdElvMUpEQWk1YjZBVTQwaGRQaWRTUHFSeVVNRDJOSGRJX2psa1phU25ySl9PbDNjTWtJLUNyeHRhVEZRTUZETnV6Y0pxQkZFRVc4?oc=5",
@@ -6989,6 +7769,19 @@
     "kind": "press"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicng4OFE0RDdFVkhrVmN4M3l4aG5CYjJiMVRlc29PakU4ckVOYmtrMEhnTVc4YUw3T01HcGp3Mk5LaGJuWGJhZ2o3dHFtdlZLXzcybUhPSFRoSnI0TkpEbGxSYUJZQ3ItUFE?oc=5",
+    "title": "「川越市」と包括連携協定を締結。埼玉県川越市からJリーグを目指す「COEDO KAWAGOE F.C」が強固な連携を目指す",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBicng4OFE0RDdFVkhrVmN4M3l4aG5CYjJiMVRlc29PakU4ckVOYmtrMEhnTVc4YUw3T01HcGp3Mk5LaGJuWGJhZ2o3dHFtdlZLXzcybUhPSFRoSnI0TkpEbGxSYUJZQ3ItUFE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-10-27T03:00:02.000Z",
+    "tags": [
+      "大和",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydkJGRllDS09uUURpX0Q0OE8xZUV1RnlrMkVDV0lxMW9fZFVvSFk1WVBabU4xS1ViVjUxZWZmZDNzM3djT3hWQUZIUU1iQ0xjdEYtaFM2REtMRzg?oc=5",
     "title": "千代田区がデベロッパーにマンション転売禁止を要請：役所の思いつきで住宅価格は安くなるのか？",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAydkJGRllDS09uUURpX0Q0OE8xZUV1RnlrMkVDV0lxMW9fZFVvSFk1WVBabU4xS1ViVjUxZWZmZDNzM3djT3hWQUZIUU1iQ0xjdEYtaFM2REtMRzg?oc=5",
@@ -10761,6 +11554,20 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SWFNVVGdMNC1ZY25wTDA1SnZzcVd2a2Y0aEhVdTJJOENPWU5rUXBjeXMwcUR4a0RSZlNVUWtzbHdPanQ5djdLamdaeXFWRVRDR3VnS1ItU1oxOXRlcF9XbTVB?oc=5",
+    "title": "【開発】日本橋小舟町に2900m2のH1O、野村不動産",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SWFNVVGdMNC1ZY25wTDA1SnZzcVd2a2Y0aEhVdTJJOENPWU5rUXBjeXMwcUR4a0RSZlNVUWtzbHdPanQ5djdLamdaeXFWRVRDR3VnS1ItU1oxOXRlcF9XbTVB?oc=5",
+    "source": "日経不動産マーケット情報",
+    "date": "2026-10-23T04:47:58.000Z",
+    "tags": [
+      "不動産・市場",
+      "開発・デベロッパー",
+      "野村"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQTEV2MnhwbUplLXduWGV6TjZueHlwSXBDQUVkTEFVWDd1X3Q4c2lhU0VBRmZIS1paai1tMmpSaUFoX05ONlpj?oc=5",
     "title": "【注目トピックス 市況・概況】東京為替：ドル・円は小動き、157付近の売りを意識",
     "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBQTEV2MnhwbUplLXduWGV6TjZueHlwSXBDQUVkTEFVWDd1X3Q4c2lhU0VBRmZIS1paai1tMmpSaUFoX05ONlpj?oc=5",
@@ -14183,780 +14990,5 @@
     ],
     "summary": "",
     "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbGFDb1RNcF9HdTd2bERXVmtteFpjdHpzejU3dFlFM3NvLTFyZEtPdzFLSzlTTFB4QTJHNFRwOHBkX0VEeXNhNE02TTVvbGIyRUlocjV5UlVfcUlPbDVZN1E0ZmIzWkg3ZFE?oc=5",
-    "title": "タイ国営エネルギー最大手PTTとゼロボード、イノベーションと新規事業連携を通じた脱炭素ソリューションの推進に向けMOUを締結",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PbGFDb1RNcF9HdTd2bERXVmtteFpjdHpzejU3dFlFM3NvLTFyZEtPdzFLSzlTTFB4QTJHNFRwOHBkX0VEeXNhNE02TTVvbGIyRUlocjV5UlVfcUlPbDVZN1E0ZmIzWkg3ZFE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-10-21T01:00:02.000Z",
-    "tags": [
-      "住友",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KWHpNOEgzaEt3SUoya0dSUjYzQjJOSE1EY1M2alY2eUF2RTdXWUFWUDFRbXpLMjNPVVNMQ2N0MzJIRjAyOUVISm1WMlJDNm1YVVBjeVNFQjFxZXFHU2tOTVRoRDItZUFhZ2c?oc=5",
-    "title": "【キャンメイク】高輝度ラメが星のように輝く☆リキッドハイライター「スタールミエールハイライター」を2026年10月下旬より新発売！",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KWHpNOEgzaEt3SUoya0dSUjYzQjJOSE1EY1M2alY2eUF2RTdXWUFWUDFRbXpLMjNPVVNMQ2N0MzJIRjAyOUVISm1WMlJDNm1YVVBjeVNFQjFxZXFHU2tOTVRoRDItZUFhZ2c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-10-21T01:00:02.000Z",
-    "tags": [
-      "住友",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByUTZyM2d3Z3ZLUkQwdWJoNVMxclB5eUpLV1I2Y3Y3WmQyVFo4ODMzQVlmODRfYk9XUkdIOUcyc3VYSWRHemdV?oc=5",
-    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は上昇、158円40銭まで上値を伸ばす",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFByUTZyM2d3Z3ZLUkQwdWJoNVMxclB5eUpLV1I2Y3Y3WmQyVFo4ODMzQVlmODRfYk9XUkdIOUcyc3VYSWRHemdV?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-21T00:35:32.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXZtaXRMSzdhdmRva0llTmtLNkVQWXZ2Wmc5NU1XY2RBYUtJNmJIbGlBbGx1aEljeW9SUTl2M3JKLXRwQjNkMkRtc1JCMEJ1VFJYT2dDS1JENVhUcFlqUXAwWUpOVDNOeVZ2ajU4bWJUUW1lcFdiVW5lTWt1ZlJqTC13?oc=5",
-    "title": "東京都世田谷区一棟マンション",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcXZtaXRMSzdhdmRva0llTmtLNkVQWXZ2Wmc5NU1XY2RBYUtJNmJIbGlBbGx1aEljeW9SUTl2M3JKLXRwQjNkMkRtc1JCMEJ1VFJYT2dDS1JENVhUcFlqUXAwWUpOVDNOeVZ2ajU4bWJUUW1lcFdiVW5lTWt1ZlJqTC13?oc=5",
-    "source": "www.rakumachi.jp",
-    "date": "2026-10-21T00:06:24.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EaXVFVXNsSGJPMnpvdmZsZDA1YjNhUWxzd2NPbmJLcWw4UDdOT3JOaHk1NUIwanQxcDFmQTNYbGZaUDdPMnlZ?oc=5",
-    "title": "【注目トピックス 市況・概況】日経平均は791円高、寄り後はもみ合い",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9EaXVFVXNsSGJPMnpvdmZsZDA1YjNhUWxzd2NPbmJLcWw4UDdOT3JOaHk1NUIwanQxcDFmQTNYbGZaUDdPMnlZ?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-21T00:05:54.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pZlZSaDZfMENHOENIM0Q1TEU1VU5icjJOX3ByTGhhTW4yV1JQa2Q4bS1VYWVLOW9DeWN3ZUw5eElEV2NDT0ZR?oc=5",
-    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は上値が重い、158円台前半で小動き",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9pZlZSaDZfMENHOENIM0Q1TEU1VU5icjJOX3ByTGhhTW4yV1JQa2Q4bS1VYWVLOW9DeWN3ZUw5eElEV2NDT0ZR?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-21T00:05:31.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KNER0aHg3WERlbGRRRzdFb01IVk1iWFZJQzM1RDJMeHlpSC11ellVZ3VZa0dPOWgwcm1tRlJiSVR4em43TlRxRWhaWUZBNmU5ak9RaUJVU0ZaYWZBcVVOVg?oc=5",
-    "title": "首都圏マンション、初の１億円台＝東京２３区も最高値、コスト上昇で―今年度上半期 2026年10月20日",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KNER0aHg3WERlbGRRRzdFb01IVk1iWFZJQzM1RDJMeHlpSC11ellVZ3VZa0dPOWgwcm1tRlJiSVR4em43TlRxRWhaWUZBNmU5ak9RaUJVU0ZaYWZBcVVOVg?oc=5",
-    "source": "時事エクイティ",
-    "date": "2026-10-20T23:56:33.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aM0ZVUDktWXZVNW54NHNyNHJuQ055M0pSY0lQLUNjNmNUUjdZY3ZyWGpUbEpzUDVSUG9nRWVwU2t5czhRaFp3?oc=5",
-    "title": "【注目トピックス 市況・概況】前場に注目すべき3つのポイント～買い一巡後は半導体株の底入れを見極め～",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aM0ZVUDktWXZVNW54NHNyNHJuQ055M0pSY0lQLUNjNmNUUjdZY3ZyWGpUbEpzUDVSUG9nRWVwU2t5czhRaFp3?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T23:37:23.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12blF5MGxIRDM1Y0pmR3NpZjNES050RndpMmtudHBiaU10VTBHazltRFZXbW5YczRaNGtyT3dhLURCU2JRLWVEMjZ6WHZyYlk5YzNNUy12LVBfUExsZ0U1dzlhdGZjYW1aMlE?oc=5",
-    "title": "ダイナミックマッププラットフォーム、北米大学生向けモビリティ技術開発コンペティション「EcoCAR Innovation Challenge」に高精度3次元地図データを提供",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12blF5MGxIRDM1Y0pmR3NpZjNES050RndpMmtudHBiaU10VTBHazltRFZXbW5YczRaNGtyT3dhLURCU2JRLWVEMjZ6WHZyYlk5YzNNUy12LVBfUExsZ0U1dzlhdGZjYW1aMlE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-10-20T23:30:01.000Z",
-    "tags": [
-      "三井",
-      "開発・デベロッパー"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZanBsbzIwUXlOWk5sSTlqVmhmT2tnaUxYVU9Xa1hGdXBseDNyaEp2dHlER1FuLV9wRjhYRFdXbkhwMmZ5ODF1R2VqN0JtdS05N0p3?oc=5",
-    "title": "（朝）米国市場は堅調な展開 人工知能（AI）への過剰投資の懸念はあるものの堅調な企業業績への期待から買いがやや優勢の展開 - 市況概況",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZanBsbzIwUXlOWk5sSTlqVmhmT2tnaUxYVU9Xa1hGdXBseDNyaEp2dHlER1FuLV9wRjhYRFdXbkhwMmZ5ODF1R2VqN0JtdS05N0p3?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-10-20T23:28:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lRlExN3NJUDJWYU1Dc0NiRm1MQmtndllXMl9ZQ1RLT1lTaXVfN0ZYZjhITGxSOXIxUHo0bU82SGx0d0t3cHBJ?oc=5",
-    "title": "【注目トピックス 市況・概況】東証グロース市場250指数先物見通し：一旦反発か",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1lRlExN3NJUDJWYU1Dc0NiRm1MQmtndllXMl9ZQ1RLT1lTaXVfN0ZYZjhITGxSOXIxUHo0bU82SGx0d0t3cHBJ?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T23:05:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HeWp1MXdaRjBYQmlMeDg1elNBaXE5TmtITTdOV0QtdWZlR3VhM1FoaUxkRk8yZ0I3TEhJWEQzUlR6c1VfNnd3?oc=5",
-    "title": "【注目トピックス 市況・概況】今日の為替市場ポイント：ユーロ関連の動向にも注意が必要",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5HeWp1MXdaRjBYQmlMeDg1elNBaXE5TmtITTdOV0QtdWZlR3VhM1FoaUxkRk8yZ0I3TEhJWEQzUlR6c1VfNnd3?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T23:01:24.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZSU5DQkFnbkx4NU1HVGFXU1p1eXFwalItVV84R3QtaElmb2N3YjExWS1uWm5TcEhFcDJHRkZ4aW82c0RZYjVTRmdoOFcwejVy?oc=5",
-    "title": "墨田区両国三丁目で132平方メートルの不動産を取得 大和ハウス工業",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZSU5DQkFnbkx4NU1HVGFXU1p1eXFwalItVV84R3QtaElmb2N3YjExWS1uWm5TcEhFcDJHRkZ4aW82c0RZYjVTRmdoOFcwejVy?oc=5",
-    "source": "住宅新報",
-    "date": "2026-10-20T23:00:00.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ma3Z6X3F1cWhyejM4MVlCRmh3TjE5UlV6bld3TmFSeHVQUHc3eHFvRU1hY19Gb3RuLWRuaWdVTkFHT21jbTFn?oc=5",
-    "title": "NYの視点：米9月着工件数落ち込む、今後の建設や中古住宅販売は一段と悪化を示唆、追加利上げの論拠弱まる",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9Ma3Z6X3F1cWhyejM4MVlCRmh3TjE5UlV6bld3TmFSeHVQUHc3eHFvRU1hY19Gb3RuLWRuaWdVTkFHT21jbTFn?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T22:40:40.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場",
-      "開発・デベロッパー",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySTEzNHlQMUxwSnJjcG11VjJHWUJyYU01T1Qtc3BkbndFWkV4N0NZOXk3M1BQUnBTbDF5YmdvUWFQb0VBU0gw?oc=5",
-    "title": "【注目トピックス 市況・概況】NY原油：小幅続落で98.23ドル、中東の輸出回復観測で利益確定売り優勢",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBySTEzNHlQMUxwSnJjcG11VjJHWUJyYU01T1Qtc3BkbndFWkV4N0NZOXk3M1BQUnBTbDF5YmdvUWFQb0VBU0gw?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T22:34:20.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LR0lPWkxVcDdBWHpEZGRoUVNVZkttODMtSEJKX3podTZUR2Zyc3FLN1FyVG9BWVVES2RVcEZFQXNadDE5MjIzUGZkNEFaazVzTHZoSElYZlo?oc=5",
-    "title": "変動金利・高返済比率の大家はレッドゾーン目前。手遅れになる前に打つべき6つの手",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LR0lPWkxVcDdBWHpEZGRoUVNVZkttODMtSEJKX3podTZUR2Zyc3FLN1FyVG9BWVVES2RVcEZFQXNadDE5MjIzUGZkNEFaazVzTHZoSElYZlo?oc=5",
-    "source": "健美家",
-    "date": "2026-10-20T22:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tXzBDd1lpSFVRTzN3SzIxbWI3UGROSHhBb0ZTSGQtNEJhT3ZobzVlU1UyWVRWSXg4dGNTVkVDdjFqdzVuTUtNcXVJbWV0YVdqbFcxTVg2cGJ2WVQ4Mk5Z?oc=5",
-    "title": "自動運転トラック実装支援事業に採択、物流施設内で実証へ…ダイナミックマップや大和ハウス工業ら",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9tXzBDd1lpSFVRTzN3SzIxbWI3UGROSHhBb0ZTSGQtNEJhT3ZobzVlU1UyWVRWSXg4dGNTVkVDdjFqdzVuTUtNcXVJbWV0YVdqbFcxTVg2cGJ2WVQ4Mk5Z?oc=5",
-    "source": "レスポンス（Response.jp）",
-    "date": "2026-10-20T21:30:03.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sZFJhd2JHQUhqOGJLSXltV0o4YkxCdWI1Ym5IZXZPZFZGRm5qR3ZJcmdHUkk2ejZHeTQtSnJpQ3lxU0NTSDJmOTRfdUgwN25KV1E?oc=5",
-    "title": "米9月着工件数落ち込む、今後の建設や中古住宅販売は一段と悪化を示唆、追加利上げの論拠弱まる",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1sZFJhd2JHQUhqOGJLSXltV0o4YkxCdWI1Ym5IZXZPZFZGRm5qR3ZJcmdHUkk2ejZHeTQtSnJpQ3lxU0NTSDJmOTRfdUgwN25KV1E?oc=5",
-    "source": "ザイFX！",
-    "date": "2026-10-20T21:23:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場",
-      "開発・デベロッパー",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1S21Wc3IwYVhzV21lR2VzQU15RF96Z2dwQkRYMkxvaGZZQ1ctYnRpZEVKWjhjbUdPOGZBcVdGaFZYYnBoLVdv?oc=5",
-    "title": "【注目トピックス 市況・概況】20日の米国市場ダイジェスト：米国株式市場はまちまち、原油安や良好な企業決算が支える",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFB1S21Wc3IwYVhzV21lR2VzQU15RF96Z2dwQkRYMkxvaGZZQ1ctYnRpZEVKWjhjbUdPOGZBcVdGaFZYYnBoLVdv?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T21:16:41.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9haGxWWTRZWGRKVGtlRnM4cXNUclQ5REFoaGliVVJvOXY4YnVCcTNldl91ZTBfbUhJeWFFcXpGYVkxZzI2TGRV?oc=5",
-    "title": "【注目トピックス 市況・概況】NY株式：NYダウは529.85ドル高、原油安や良好な企業決算が支える",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9haGxWWTRZWGRKVGtlRnM4cXNUclQ5REFoaGliVVJvOXY4YnVCcTNldl91ZTBfbUhJeWFFcXpGYVkxZzI2TGRV?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T21:07:20.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WejRnVlZ3VzA1WHZWUnZMbkhEWWZxRTA5d3ZMcjJtUDEzTTBaRWVOT1hJU24zVVpFV1lJbllWem9CSlJuNWp3el91OXBCb3ZaS2p6Q2hRTVVOcWNmVnZfOW1nZXE?oc=5",
-    "title": "千葉豪雨でマンションが停電・断水！高まる「地下設備」リスク、不動産投資家が確認すべきは",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WejRnVlZ3VzA1WHZWUnZMbkhEWWZxRTA5d3ZMcjJtUDEzTTBaRWVOT1hJU24zVVpFV1lJbllWem9CSlJuNWp3el91OXBCb3ZaS2p6Q2hRTVVOcWNmVnZfOW1nZXE?oc=5",
-    "source": "健美家",
-    "date": "2026-10-20T21:07:19.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13dnRZRk1rR2xodnRZNnl0U1d6aHktS2JhYXJLV1A2dmJDZ0djXzhlM3Z4OUthZHBSRVlycnNaMVA2UQ?oc=5",
-    "title": "総事業費70億円で神戸に10棟目…大和ハウス、レンタルラボ展開を加速中",
-    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE13dnRZRk1rR2xodnRZNnl0U1d6aHktS2JhYXJLV1A2dmJDZ0djXzhlM3Z4OUthZHBSRVlycnNaMVA2UQ?oc=5",
-    "source": "ニュースイッチ by 日刊工業新聞社",
-    "date": "2026-10-20T21:00:00.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.decn.co.jp/?p=188587",
-    "title": "大分県／大分総合庁舎整備ＢＴＯ／２７年１月下旬にＤＢＯ公告",
-    "url": "https://www.decn.co.jp/?p=188587",
-    "source": "日刊建設工業新聞（工事・計画）",
-    "date": "2026-10-20T21:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "大分県は庁舎別館（大分市大手町）内にある中部振興局と、大分土木事務所（同向原西）を移転・集約する「大分総合庁舎整備事業」の実施方針と要求水準書案を公表した。庁舎建て替えの事業方式はＤＢＯ（設計・建設・運営）方式で２０２ […]",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.decn.co.jp/?p=188591",
-    "title": "滋賀県／県庁舎在り方検討懇話会開く／４案を比較、４・３万平米の新棟建設が有効",
-    "url": "https://www.decn.co.jp/?p=188591",
-    "source": "日刊建設工業新聞（工事・計画）",
-    "date": "2026-10-20T21:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "滋賀県は、老朽化などに伴い再整備を検討している県庁舎について、現在の東館を解体、新館・新新館を減築し、約４万３２００平方メートルの新棟を新たに建設する建物配置案が最も有効と評価した。１９日に「県庁舎等のあり方検討懇話会 […]",
-    "kind": "news"
-  },
-  {
-    "id": "https://toyokeizai.net/articles/-/961885",
-    "title": "AIは本当に長期金利を押し上げるのか。カギを握るのは､生産性上昇が恒久的か一時的かという見極めにくい論点だ | 政治・経済・投資 | 東洋経済オンライン",
-    "url": "https://toyokeizai.net/articles/-/961885?utm_source=rss&utm_medium=http&utm_campaign=link_back",
-    "source": "東洋経済オンライン",
-    "date": "2026-10-20T20:45:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "AI投資熱の高まりがアメリカの長期金利や債券市場にどのような影響を及ぼすのか､専門家が鋭く読み解きます。複雑化するAIと金利の関係の本質はどこにあるのでしょうか。",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTXhPR042aTZNQ0tVNGt4VWtOU3VDRTdFSWJDc2dNV1ZIclVZZG9PZWZuRDY5al82WDZ4Qkp6eTM5NkJRZHUweFg5TFMydmdvdVFsUzc5RVJ2MmwtNGM4dnltcWFrUEtqWUFCRA?oc=5",
-    "title": "JR九州上場10年、赤字の「三島会社」不動産で脱皮 首都圏に用地部隊",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xTXhPR042aTZNQ0tVNGt4VWtOU3VDRTdFSWJDc2dNV1ZIclVZZG9PZWZuRDY5al82WDZ4Qkp6eTM5NkJRZHUweFg5TFMydmdvdVFsUzc5RVJ2MmwtNGM4dnltcWFrUEtqWUFCRA?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBybWdRaG9WUXFOVGxEYWpNY29aQjBGS2tySnFTTi0xLVJuYnN0TU1nSUZmdlVvZFdKM1RkVVZ2ZlBZNG5LMjE3S3NwODVSTmN1a2c?oc=5",
-    "title": "金利上昇局面でも不動産市場が底堅い理由…変化に強い「短期・開発型クラウドファンディング」の有効性を解説",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBybWdRaG9WUXFOVGxEYWpNY29aQjBGS2tySnFTTi0xLVJuYnN0TU1nSUZmdlVvZFdKM1RkVVZ2ZlBZNG5LMjE3S3NwODVSTmN1a2c?oc=5",
-    "source": "ゴールドオンライン",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40eGp4RWhNLXdRYUtWQm9KZEdqYnFYdVZFY1FqdE5DOXVqS2tWeU94LXE4M3hZV0U5blZlcDVQbHpVdFB2NFZvcEZDTzFTVll2aXktRXAyRnBIdkpJczROWG5Falc4aW8?oc=5",
-    "title": "住人「もうだめかと」、千葉豪雨で地下水没のマンション 停電解消に2カ月",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40eGp4RWhNLXdRYUtWQm9KZEdqYnFYdVZFY1FqdE5DOXVqS2tWeU94LXE4M3hZV0U5blZlcDVQbHpVdFB2NFZvcEZDTzFTVll2aXktRXAyRnBIdkpJczROWG5Falc4aW8?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11UHpWZzRrenNBLXlPMmRaRlJYOWpVU3pGMlZFZVNma0t5VXExc0RzYTRxQW91ckt2dmJwcWZyaG9wWmtJUENvWjR4WEJyZm9FdU1PYmI0YUNWVWJDRlgtM1Bwb0ozTTQ?oc=5",
-    "title": "建設業でもカスハラ対策を義務化、過剰な値引きや無償工事要求に備え",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11UHpWZzRrenNBLXlPMmRaRlJYOWpVU3pGMlZFZVNma0t5VXExc0RzYTRxQW91ckt2dmJwcWZyaG9wWmtJUENvWjR4WEJyZm9FdU1PYmI0YUNWVWJDRlgtM1Bwb0ozTTQ?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGxyNGJDbkxjUnZfUHpkMkJ5NGxqcTNYXzB5QmI4SXBZZDNaeXEtcHBaMHJ2YlotRnR5RlNtOTg3YlVkV1VlNE16djBJTEJaSEtabUJBSnFDaHp4SHRRZG40bXVlYTBDTjBRMQ?oc=5",
-    "title": "「ダム」は大林組が2連覇、前田建設工業は2年連続減収でピークから半減",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBNeGxyNGJDbkxjUnZfUHpkMkJ5NGxqcTNYXzB5QmI4SXBZZDNaeXEtcHBaMHJ2YlotRnR5RlNtOTg3YlVkV1VlNE16djBJTEJaSEtabUJBSnFDaHp4SHRRZG40bXVlYTBDTjBRMQ?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KRi1XRnpzWHVNZmI0N2RZaFd0VHVKYi1IRG50c1hMa0RVMF9pdWlTb0duLURqNjE0SGVMWWhQaFhqYVRva3JJLW5qSXFKakZ6bUlFZTdybEZQMU1hSWdmWmk3bUUyOFdJUU1ZLQ?oc=5",
-    "title": "施工計画、施工設備及び積算 過去問題と解説 2026年度",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KRi1XRnpzWHVNZmI0N2RZaFd0VHVKYi1IRG50c1hMa0RVMF9pdWlTb0duLURqNjE0SGVMWWhQaFhqYVRva3JJLW5qSXFKakZ6bUlFZTdybEZQMU1hSWdmWmk3bUUyOFdJUU1ZLQ?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UjVER0ZiOWwzd0wtbXlRZHkyUWUwTVRUSHNqVmk0Z09kZnJzVjFBWEw0TThXaHNEN1FuTmo3dWQ3OC1GSEs5ai1QbGoxbTN5Z3lKdkVxeXVTVlNZbjRRUUc1Y1puUERlRldzUw?oc=5",
-    "title": "新品高騰で広がる中古活用と第三者保守 IT機器延命か購入か、用途で分ける",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83UjVER0ZiOWwzd0wtbXlRZHkyUWUwTVRUSHNqVmk0Z09kZnJzVjFBWEw0TThXaHNEN1FuTmo3dWQ3OC1GSEs5ai1QbGoxbTN5Z3lKdkVxeXVTVlNZbjRRUUc1Y1puUERlRldzUw?oc=5",
-    "source": "日経クロステック",
-    "date": "2026-10-20T20:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1298797",
-    "title": "NAA/完成予定期日は34年末/10月28日から住民説明会成田C滑走路など",
-    "url": "https://www.kensetsunews.com/archives/1298797",
-    "source": "建設通信新聞Digital（企業）",
-    "date": "2026-10-20T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "成田国際空港会社（ＮＡＡ）は１９日、「成田空港第２の開港プロジェクト」として整備を進めているＣ滑走…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1298785",
-    "title": "港区/参加表明11月19日まで/水辺まちづくり計画支援",
-    "url": "https://www.kensetsunews.com/archives/1298785",
-    "source": "建設通信新聞Digital（関東・甲信越）",
-    "date": "2026-10-20T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "東京都港区は、水辺のまちづくりに向けた具体的な取り組みの検討に本格着手する。１０月１９日に「（仮称…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1298931",
-    "title": "国際航業がAIアプリ開発/自然言語で衛星データ解析/クマ出没予測への活用も",
-    "url": "https://www.kensetsunews.com/archives/1298931",
-    "source": "建設通信新聞Digital（企業）",
-    "date": "2026-10-20T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "国際航業は、自然言語による指示だけで衛星データなどの空間情報を解析できるＡＩ（人工知能）アプリ「Ｋ…",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.kensetsunews.com/archives/1298771",
-    "title": "インフラマネジへ戦略転換/井林国交相 安全・安心へ決意/社整審・交政審が中間答申",
-    "url": "https://www.kensetsunews.com/archives/1298771",
-    "source": "建設通信新聞Digital（行政）",
-    "date": "2026-10-20T19:55:00.000Z",
-    "tags": [
-      "建設"
-    ],
-    "summary": "国土交通省の社会資本整備審議会、交通政策審議会は２０日、今後のインフラマネジメントの在り方に関する…",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1waWZkbEdRVVJrbVBUenhfaVJsaXYtYzNSUTNuc0l1OUZ1Uk5YTW1DdG5QcFZqSHlhRWN6RUR3WGlfY2xtTkZwelBRdEfSAU9BVV95cUxNeDdIYkI1aFc0RzN3Z29VR1BHNnhJS0FYdnRVNnkwSjVXX09EVXctWVVSbjFlTV9xMTFxTUNReGlEeVJ3TjhOTEkwYVYxdHNn?oc=5",
-    "title": "【九州・沖縄111物件】マンション管理頑張ってるランキング！2年で最も改善したのは…？4位ホワイトキャッスル第2下到津、1位は？",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1waWZkbEdRVVJrbVBUenhfaVJsaXYtYzNSUTNuc0l1OUZ1Uk5YTW1DdG5QcFZqSHlhRWN6RUR3WGlfY2xtTkZwelBRdEfSAU9BVV95cUxNeDdIYkI1aFc0RzN3Z29VR1BHNnhJS0FYdnRVNnkwSjVXX09EVXctWVVSbjFlTV9xMTFxTUNReGlEeVJ3TjhOTEkwYVYxdHNn?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-10-20T19:30:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xTDhHalkwV0RDZkJpN05XVUFXRjNfbmFidFlJZl9yVGQ5ZlVjV0ZJaGpGZHJRM2U0blV4MDR6TUwyX3JHYk5tUTFBeljSAU9BVV95cUxOcmlCM3V2MVVXSF94dHBadjVZZE4tSzRrRTFYSjdlYUtRdWZwUEd5WkZJMzliWGhnM2ZjOGsweUhSS0ZiYnp0OUVNckZRLWN3?oc=5",
-    "title": "マンション消防設備点検の闇、「法律通り」に点検を行う業者は少数派という現実…管理組合はどう対応すべきか《再配信》",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4xTDhHalkwV0RDZkJpN05XVUFXRjNfbmFidFlJZl9yVGQ5ZlVjV0ZJaGpGZHJRM2U0blV4MDR6TUwyX3JHYk5tUTFBeljSAU9BVV95cUxOcmlCM3V2MVVXSF94dHBadjVZZE4tSzRrRTFYSjdlYUtRdWZwUEd5WkZJMzliWGhnM2ZjOGsweUhSS0ZiYnp0OUVNckZRLWN3?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-10-20T19:10:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zTnMxazNjQ1ZrY0xIaXg0U2d6MjViMDQ5dXBkUS1uVjM2bkF5RTYwQmtacU1BME1IQTZpdmlkMHdqcnZYMVNZ?oc=5",
-    "title": "【注目トピックス 市況・概況】10月20日のNY為替概況",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE8zTnMxazNjQ1ZrY0xIaXg0U2d6MjViMDQ5dXBkUS1uVjM2bkF5RTYwQmtacU1BME1IQTZpdmlkMHdqcnZYMVNZ?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T19:08:09.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRzRma3VaaHhGb1Y1akR0OGM2LTgwU096MzZXVkZNOTdHLUQybU9sOFVMMTdCd2R4dzBBVTRXSnJnWW05cEdjTDJQOEhXTFdhTWVOTExjZFBCZ2xJa2dJenhUMzFqQV8tdFJ3Zw?oc=5",
-    "title": "9月の米住宅着工、3カ月連続で下落 金利上昇が影響",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rRzRma3VaaHhGb1Y1akR0OGM2LTgwU096MzZXVkZNOTdHLUQybU9sOFVMMTdCd2R4dzBBVTRXSnJnWW05cEdjTDJQOEhXTFdhTWVOTExjZFBCZ2xJa2dJenhUMzFqQV8tdFJ3Zw?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-10-20T18:21:36.000Z",
-    "tags": [
-      "金利・日銀",
-      "開発・デベロッパー",
-      "建設"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYVYyZjgtOGRRVVpadkh1VDhsRU8tampPWk9HVElUR2h1RHI2REJoanZlMzNqNjZuSzRLLVFZdTFxaEptcGdRUjJQNlQ4Sk51eGxnUzUxLU5JTDdacWI2VnRR?oc=5",
-    "title": "【経済調査部／市場戦略リサーチ部】エコノミスト（日本・海外）／ストラテジスト（株式・金利・為替）",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9RYVYyZjgtOGRRVVpadkh1VDhsRU8tampPWk9HVElUR2h1RHI2REJoanZlMzNqNjZuSzRLLVFZdTFxaEptcGdRUjJQNlQ4Sk51eGxnUzUxLU5JTDdacWI2VnRR?oc=5",
-    "source": "日経転職版",
-    "date": "2026-10-20T18:07:13.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zQlZ5bjZiaTlDcWxzYk1kb1R0RFBSbnJQdl93WUMtdXFDRzBzSk5SSEtUYjVYWTBrd1VfdHZHbHpoN0NfcVhHMWFoaGZMaG5sc3dSRDBwYjVJRWJpX3ZiOTRIbkhsT05XM2dR?oc=5",
-    "title": "新築が高すぎて買えない人の選択肢。中古＋リフォームで予算内に収める住み替え設計",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zQlZ5bjZiaTlDcWxzYk1kb1R0RFBSbnJQdl93WUMtdXFDRzBzSk5SSEtUYjVYWTBrd1VfdHZHbHpoN0NfcVhHMWFoaGZMaG5sc3dSRDBwYjVJRWJpX3ZiOTRIbkhsT05XM2dR?oc=5",
-    "source": "ホームズ",
-    "date": "2026-10-20T17:49:57.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ucmlzbDZLZG5rT1AxXzRxbkRQa0dZeXF1Z1RSRklpXzJqYkNzVlRoajhnMm9IbHVvSXhCTG1jbGgyYXVLaVln?oc=5",
-    "title": "【注目トピックス 市況・概況】NY外為：ポンド高、英雇用関連指標が予想外に好調で利上げ観測強まる",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ucmlzbDZLZG5rT1AxXzRxbkRQa0dZeXF1Z1RSRklpXzJqYkNzVlRoajhnMm9IbHVvSXhCTG1jbGgyYXVLaVln?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T17:49:17.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyNUdEaDZTS2VWN1h5UnY2WnlLQlFoblh1Y3dGSHpzZm9pZlM3Ujhlc0Jab1RqNEJZNG10UEdCc1U1SEpRNXBVSTBzbEFfZ3NQS1VuYV81WTVtaHpSUml0QVFDaE13LWdIVnlBSA?oc=5",
-    "title": "住宅ローン、ネット銀「目先の負担減」競う PayPayは手数料ゼロに",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyNUdEaDZTS2VWN1h5UnY2WnlLQlFoblh1Y3dGSHpzZm9pZlM3Ujhlc0Jab1RqNEJZNG10UEdCc1U1SEpRNXBVSTBzbEFfZ3NQS1VuYV81WTVtaHpSUml0QVFDaE13LWdIVnlBSA?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-10-20T17:00:00.000Z",
-    "tags": [
-      "住宅ローン"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBTOXF6M1NyenFHRjJtTmhmbHowRzhQWlROTVRvUjlzSGR4c2psLU9DZUFuaklQcXgtMlRMRWNOZEotbmhoOXZ0ZnoyYWFzWjlIWHVNS3BIMmQyLV9YcnlMSHZScjMySnlkYnAyaDJfaE1kY1liZ2NrSWZCSGs5TDNHcXROcm9ldmZ3a2ZSNzdnRlV2c0FqeWRVTXNtZWhpNUdkekN6TUtLVEFT?oc=5",
-    "title": "「賃貸 エアコン 交換」の検索結果",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNnBTOXF6M1NyenFHRjJtTmhmbHowRzhQWlROTVRvUjlzSGR4c2psLU9DZUFuaklQcXgtMlRMRWNOZEotbmhoOXZ0ZnoyYWFzWjlIWHVNS3BIMmQyLV9YcnlMSHZScjMySnlkYnAyaDJfaE1kY1liZ2NrSWZCSGs5TDNHcXROcm9ldmZ3a2ZSNzdnRlV2c0FqeWRVTXNtZWhpNUdkekN6TUtLVEFT?oc=5",
-    "source": "Yahoo!ニュース",
-    "date": "2026-10-20T16:31:16.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uci1xalEtcDd4UkF4eF8waXEtTjlrSThPaDNZWGtSdHVMQkJQNlQ2RjJVTjdPVUZzc3Jfbnkzc2R2cHNieGt3?oc=5",
-    "title": "【注目トピックス 市況・概況】NY外為：ドル売り後退、原油価格が下げ止まる、関係筋は米イラン合意に近いとの報道を否定",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9uci1xalEtcDd4UkF4eF8waXEtTjlrSThPaDNZWGtSdHVMQkJQNlQ2RjJVTjdPVUZzc3Jfbnkzc2R2cHNieGt3?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T15:29:38.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRRFc1SDJWb040czFCMmx2c2Q0TUFFX1dPT3lrYTVzVG1TNUFDOXlaZktBQ1hLaXMzLXkxbzRvd0M2dmdIQzJz?oc=5",
-    "title": "【注目トピックス 市況・概況】【市場反応】米9月中古住宅販売成約指数は予想下回る、ドル安値圏",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRRFc1SDJWb040czFCMmx2c2Q0TUFFX1dPT3lrYTVzVG1TNUFDOXlaZktBQ1hLaXMzLXkxbzRvd0M2dmdIQzJz?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T14:16:52.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ETzdNSFZQQlRVWk40ZzlOU3E1UDlTUm5CZTY4X1ZSVkVfdk4tQVRfRkdkX0ZkUU1RcVdwczA2bFdEcUpEclhKMTFCZWhlTVNTUkxuQm5IZWR4ZzQ?oc=5",
-    "title": "クリエイターが仙台・泉に集合 三菱地所が商業施設前でフェス",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ETzdNSFZQQlRVWk40ZzlOU3E1UDlTUm5CZTY4X1ZSVkVfdk4tQVRfRkdkX0ZkUU1RcVdwczA2bFdEcUpEclhKMTFCZWhlTVNTUkxuQm5IZWR4ZzQ?oc=5",
-    "source": "河北新報オンライン",
-    "date": "2026-10-20T14:00:00.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "三菱"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcENTalVPckxOWnpVQS04MGR2c192ZHNWQ2lDSDVlU2xqRXhVeFY3VTFLWDJQLUdIanR0Q0JJS0NkZzBwNVc3cXF4d29kRHk1ZFY5YkU4ZmFzd3lpOVlhelhDZFU2X3R2UlVnQTNzbk9CV3JjQzR2T3JPaU9sR2dLZVRjeFZCSlR4cEZhdU1XLU9BSUpjRV9td3VYUUd1VEVJMExUVnd6S2RFbGpWejN0TzA2MXRpNFJf?oc=5",
-    "title": "「マンション 暴落 待ち」の検索結果",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcENTalVPckxOWnpVQS04MGR2c192ZHNWQ2lDSDVlU2xqRXhVeFY3VTFLWDJQLUdIanR0Q0JJS0NkZzBwNVc3cXF4d29kRHk1ZFY5YkU4ZmFzd3lpOVlhelhDZFU2X3R2UlVnQTNzbk9CV3JjQzR2T3JPaU9sR2dLZVRjeFZCSlR4cEZhdU1XLU9BSUpjRV9td3VYUUd1VEVJMExUVnd6S2RFbGpWejN0TzA2MXRpNFJf?oc=5",
-    "source": "Yahoo!ニュース",
-    "date": "2026-10-20T13:55:08.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRQVRtZkVxWnRyUnJhSWMwMW9aSlZDQ1JsMTFXQ3p6ZWxZdjA1akRsS2lveGdoamJ2YTJ2TGEya2xfNWVtelFn?oc=5",
-    "title": "【注目トピックス 市況・概況】欧州為替：ドル・円は小動き、材料難で様子見",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRQVRtZkVxWnRyUnJhSWMwMW9aSlZDQ1JsMTFXQ3p6ZWxZdjA1akRsS2lveGdoamJ2YTJ2TGEya2xfNWVtelFn?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T11:04:54.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Yd0xoNFNEYmZfREFnMnI3QlQ2T2pSXzFWTURpRTJWQ0ZDbVVXcC04TGNYazhpV1VRMWMtd01MenUzcjlzbmJ3cDA4ZVFlM1pSUDV3?oc=5",
-    "title": "日経平均株価の｢RSIが上向きに反転｣が調整一巡のサイン！ AI債務懸念や原油高、金利上昇、米･中間選挙などで乱高下する間は焦らずに“相場反転”を待とう！",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Yd0xoNFNEYmZfREFnMnI3QlQ2T2pSXzFWTURpRTJWQ0ZDbVVXcC04TGNYazhpV1VRMWMtd01MenUzcjlzbmJ3cDA4ZVFlM1pSUDV3?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-10-20T11:00:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91MENjdG9UbTFGOWhwRnZMLW1fejhNUXppYWdrMUk4NlVGM2ZoOXZFVFd2cmFLMjd6VzYxbWdoTFhIN2NMNjZF?oc=5",
-    "title": "【注目トピックス 市況・概況】欧州為替：ドル・円は底堅い、原油高でドル買い",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE91MENjdG9UbTFGOWhwRnZMLW1fejhNUXppYWdrMUk4NlVGM2ZoOXZFVFd2cmFLMjd6VzYxbWdoTFhIN2NMNjZF?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T10:27:52.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWGpQTDZlNktLN3pvcnZiNWtvZmJqRm1LeXlWeHdfUFdGX3MxYWRxTkpLOHJOaXQzSGZJdkE4eFAwYWVvX084Q3RxNklwMjkxYnVz?oc=5",
-    "title": "（まとめ）広範な銘柄に売りが出た日経平均は841円安の64,075円で続落 - 市況概況",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xWGpQTDZlNktLN3pvcnZiNWtvZmJqRm1LeXlWeHdfUFdGX3MxYWRxTkpLOHJOaXQzSGZJdkE4eFAwYWVvX084Q3RxNklwMjkxYnVz?oc=5",
-    "source": "ダイヤモンド・オンライン",
-    "date": "2026-10-20T10:00:35.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMS1NTHpDdXU5TWtHcl80VHpacGdlVERUVV9WVU95ZllxdFBwYzhHdzF2SnIwb3U1dnN0cHRRTGFFdm5uek1WbW1rNmlxQmxoZHREMUVyNXFJYXVvdEo0X3A2akJKSjcwVGQ0Yw?oc=5",
-    "title": "近畿圏の新築マンション6010万円で最高更新 4〜9月、発売戸数は減",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCMS1NTHpDdXU5TWtHcl80VHpacGdlVERUVV9WVU95ZllxdFBwYzhHdzF2SnIwb3U1dnN0cHRRTGFFdm5uek1WbW1rNmlxQmxoZHREMUVyNXFJYXVvdEo0X3A2akJKSjcwVGQ0Yw?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-10-20T10:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzliWmhvS21LZXM0Z3FWN0R2V1c4LXBaVVduQTFub1JkREZQMWFWZnEyLWVEd2dCMmJIZG1Qb2NINGNRSFVoZmFWWVpDdjVuUTRYTG1Gd183Smw0Ri1PR3hwZ1YzOUgtWUlzdW03TXRRQmdfM0QzdURTdkNQTnVTdUJCUQ?oc=5",
-    "title": "大阪府大阪市西区北堀江4丁目 一棟マンション",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUzliWmhvS21LZXM0Z3FWN0R2V1c4LXBaVVduQTFub1JkREZQMWFWZnEyLWVEd2dCMmJIZG1Qb2NINGNRSFVoZmFWWVpDdjVuUTRYTG1Gd183Smw0Ri1PR3hwZ1YzOUgtWUlzdW03TXRRQmdfM0QzdURTdkNQTnVTdUJCUQ?oc=5",
-    "source": "www.rakumachi.jp",
-    "date": "2026-10-20T09:47:20.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0pocGd2N0dhN0VYYlNwb2hEWFhuSFN5WmlrSGFBdGw2SkhSWDI5cF96MnM0ckgtazVVWkVxUmUta2pwNk12QmZHTWZmWTdQbXo0S1lJQTZGTGRVaW1pM2tHdmxZRGtnZTRqLTlMSVhicjhSeS1DTk1WNEF1WVJwZ1RB?oc=5",
-    "title": "東京都大田区１棟マンション",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOS0pocGd2N0dhN0VYYlNwb2hEWFhuSFN5WmlrSGFBdGw2SkhSWDI5cF96MnM0ckgtazVVWkVxUmUta2pwNk12QmZHTWZmWTdQbXo0S1lJQTZGTGRVaW1pM2tHdmxZRGtnZTRqLTlMSVhicjhSeS1DTk1WNEF1WVJwZ1RB?oc=5",
-    "source": "www.rakumachi.jp",
-    "date": "2026-10-20T09:29:09.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56N2hNc0J0a0dzN1ZNQkFVUmRkTDF2UEpwQmxubmVZMkxUZ2dOaHUzOHNMb2xwZkNxeEF2bFUzOUIycDFTaDQ0?oc=5",
-    "title": "【注目トピックス 市況・概況】欧州為替：ドル・円は失速、ユーロは全面安",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE56N2hNc0J0a0dzN1ZNQkFVUmRkTDF2UEpwQmxubmVZMkxUZ2dOaHUzOHNMb2xwZkNxeEF2bFUzOUIycDFTaDQ0?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T09:13:57.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://www.businessinsider.jp/article/2610-margin-debt-record-high-stock-market-risk/",
-    "title": "信用取引の借入残高、「過去最高」となる。株価急落、追証続出に備えてウォール街は“臨戦態勢”に",
-    "url": "https://www.businessinsider.jp/article/2610-margin-debt-record-high-stock-market-risk/",
-    "source": "BUSINESS INSIDER JAPAN",
-    "date": "2026-10-20T09:00:00.000Z",
-    "tags": [
-      "住宅ローン"
-    ],
-    "summary": "ウォール街では、過去最高に膨らんだ信用取引の借入残高を注視する動きが広がっています。一部のストラテジストは、それが株価急落のリスクを高めると警戒を強めています。",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhWXp5NkhlOXJUc2pWUXVDTGM1Tl9nUFMxa2lzeE5jMGVhcjVJM0R6YURpVGl1MnFYSmJvX3RMQ0VlTzFlVVE?oc=5",
-    "title": "日銀為替市況 午後５時時点、１５８円０７～０９銭のドル安・円高",
-    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhWXp5NkhlOXJUc2pWUXVDTGM1Tl9nUFMxa2lzeE5jMGVhcjVJM0R6YURpVGl1MnFYSmJvX3RMQ0VlTzFlVVE?oc=5",
-    "source": "みんかぶ",
-    "date": "2026-10-20T08:47:37.000Z",
-    "tags": [
-      "金利・日銀",
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUF2c0dNcF9IM0ZUb2gyR2MwTUF3Qk5SVmJpczJVZEoxTmlpU0RhU2oxOUxOczBLMWc3cHhDRnk2VjVGVVBuLUFoRkJ6ajhGWW5xWWNUd19nV2I0MXpweUlzR3JXcS16a1l6ZQ?oc=5",
-    "title": "ケネディクスが賃貸戸建て専用REIT 11月上場",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUUF2c0dNcF9IM0ZUb2gyR2MwTUF3Qk5SVmJpczJVZEoxTmlpU0RhU2oxOUxOczBLMWc3cHhDRnk2VjVGVVBuLUFoRkJ6ajhGWW5xWWNUd19nV2I0MXpweUlzR3JXcS16a1l6ZQ?oc=5",
-    "source": "日本経済新聞",
-    "date": "2026-10-20T08:37:17.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Dei1FUHh4WjRHTWowUC1pLXBhWlNMb3N5d2dRU05KWWRxNEZNMnAxbm5zM3J3YXp5TWFlM1ZCdWpqSmlNb2JXWWozdzEwTUs0dENmOW11Rlc4dlh0NWQzeHZjcDVsaFk?oc=5",
-    "title": "日米の追加利上げは年内にある？ FRB・日銀の次の一手と、円相場・株価への影響を解説",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1Dei1FUHh4WjRHTWowUC1pLXBhWlNMb3N5d2dRU05KWWRxNEZNMnAxbm5zM3J3YXp5TWFlM1ZCdWpqSmlNb2JXWWozdzEwTUs0dENmOW11Rlc4dlh0NWQzeHZjcDVsaFk?oc=5",
-    "source": "マイナビニュース",
-    "date": "2026-10-20T08:30:00.000Z",
-    "tags": [
-      "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lN2xEUExaQ3M0aDd3bGFkMS1wdjk3b3dPcEV6bDZ6VU9qcWlqamc3SHlnS1h4NHZKQ2xDUkNZeC14LXR0WkVzQ2QtSnRYNTl6YzNkcA?oc=5",
-    "title": "首都圏マンション、初の１億円台＝東京２３区も最高値、コスト上昇で―今年度上半期",
-    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1lN2xEUExaQ3M0aDd3bGFkMS1wdjk3b3dPcEV6bDZ6VU9qcWlqamc3SHlnS1h4NHZKQ2xDUkNZeC14LXR0WkVzQ2QtSnRYNTl6YzNkcA?oc=5",
-    "source": "時事通信ニュース",
-    "date": "2026-10-20T08:25:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01QjVkdmZ4eXZ2T2tKblRXaTVrbjBrajBqVXp4OEFjb2IyLVp1RExwWWRCc3FkNkVQWmFnVl9RRWUwQWRwak5V?oc=5",
-    "title": "【注目トピックス 市況・概況】欧米為替見通し: ドル・円は伸び悩みか、米経済指標が低調ならドル買い縮小",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01QjVkdmZ4eXZ2T2tKblRXaTVrbjBrajBqVXp4OEFjb2IyLVp1RExwWWRCc3FkNkVQWmFnVl9RRWUwQWRwak5V?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-10-20T08:25:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
   }
 ]
