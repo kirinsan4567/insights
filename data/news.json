@@ -1,5 +1,54 @@
 [
   {
+    "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZTE3UXRHZUt2S3hvWDVRM2RRZGlrZG9MN3ZwY2EyYUJRaXM2aGlhWk1sM2xoMDRBaTFpVnM0RDRNbTFHOG1USzdZY2JPbW5FbXc?oc=5",
+    "title": "新築戸建てが600万円引きの2,580万円に。名古屋エリアの旅館業立ち上げのために「3日後契約」で掴んだ物件【前編】",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BZTE3UXRHZUt2S3hvWDVRM2RRZGlrZG9MN3ZwY2EyYUJRaXM2aGlhWk1sM2xoMDRBaTFpVnM0RDRNbTFHOG1USzdZY2JPbW5FbXc?oc=5",
+    "source": "健美家",
+    "date": "2026-11-14T22:00:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/964314",
+    "title": "隣駅の｢タワマンは苦戦｣してたのに､郊外の駅前にポツンと立つ29階建てが1億円超でも売れたワケ 地元の不動産屋も驚いた | ライフ | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/964314?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-11-14T21:30:00.000Z",
+    "tags": [
+      "不動産・市場"
+    ],
+    "summary": "タワーマンションが林立する現代の街並み。その陰で､地域独自の歴史や暮らし､自然がいきいきと息づいています。免許センターの街として知られる横浜市･二俣川駅周辺で､タワマンと共存する｢街の素顔｣を深掘り…",
+    "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XNE85YVBhWHhtT2s2NmFVRkZhbldIOWstbkdWM21hSC1LUENMRi1EMlpzbmRlcVpXdU10OHlOXzNWU1ZoWlh1Zzh4ZnA?oc=5",
+    "title": "就職人気企業ランキング28年卒【理系女子・ベスト50】3位は森ビル、1位は？",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XNE85YVBhWHhtT2s2NmFVRkZhbldIOWstbkdWM21hSC1LUENMRi1EMlpzbmRlcVpXdU10OHlOXzNWU1ZoWlh1Zzh4ZnA?oc=5",
+    "source": "ダイヤモンド・オンライン",
+    "date": "2026-11-14T21:00:00.000Z",
+    "tags": [
+      "開発・デベロッパー",
+      "森"
+    ],
+    "summary": "",
+    "kind": "news"
+  },
+  {
+    "id": "https://toyokeizai.net/articles/-/963719",
+    "title": "大阪･阿倍野｢故郷を返してほしい｣の声も…｢インバウンドで復活｣の裏で､再開発が1822億円の大赤字 変貌した街の現在 | ライフ | 東洋経済オンライン",
+    "url": "https://toyokeizai.net/articles/-/963719?utm_source=rss&utm_medium=http&utm_campaign=link_back",
+    "source": "東洋経済オンライン",
+    "date": "2026-11-14T20:45:00.000Z",
+    "tags": [
+      "開発・デベロッパー"
+    ],
+    "summary": "大阪･阿倍野地区は､約40年にわたる再開発で美しい街へと生まれ変わりました。しかし､その裏では約1822億円もの巨額の収支不足が見込まれています。街は整備された一方で､何が失われ､何が残されたのか。…",
+    "kind": "news"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdy1vOGRkbzNSTjNBZkk4MF9VNFJSSGk5RVhCNGVPdGNNU2xINjc4MWNmMGx1NFZscVpISXRrRm9ETHpfS19VQjJ3cUZhUklSalREcDFHcGp4Nzk0SWg5QjNBV0l3RTlTb3lMaHo1blhBaDhwa1BldDZsb2p2OGNqZkhSR0N4SnR0dlE?oc=5",
     "title": "広島県尾道市御調町 戸建",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdy1vOGRkbzNSTjNBZkk4MF9VNFJSSGk5RVhCNGVPdGNNU2xINjc4MWNmMGx1NFZscVpISXRrRm9ETHpfS19VQjJ3cUZhUklSalREcDFHcGp4Nzk0SWg5QjNBV0l3RTlTb3lMaHo1blhBaDhwa1BldDZsb2p2OGNqZkhSR0N4SnR0dlE?oc=5",
@@ -114,6 +163,20 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9lUi1VejVVTmZyUHVZanJ4bnhYUmZNLXBjbkNWOUx2dXRqOWczTmw4QkdpdEdQMWpJNHU3ZThrVml1RGZfbnVvUExfalhfZW1Fa1lLSGs2eGFxTElBbGdBcDc1NDVlVWw2OGpkRWR5bGhld0FjT1FGQTBlRVdlN3M3TVdkVWs?oc=5",
+    "title": "「マンション」に関するプレスリリース一覧",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONU9lUi1VejVVTmZyUHVZanJ4bnhYUmZNLXBjbkNWOUx2dXRqOWczTmw4QkdpdEdQMWpJNHU3ZThrVml1RGZfbnVvUExfalhfZW1Fa1lLSGs2eGFxTElBbGdBcDc1NDVlVWw2OGpkRWR5bGhld0FjT1FGQTBlRVdlN3M3TVdkVWs?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-13T22:45:03.000Z",
+    "tags": [
+      "不動産・市場",
+      "オープンハウス",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95alNJN3lIMmNBU3d1ejNaTGZYZmhESWMwU0VpS0VIY25oRWJZUWNMblNpSktycV9vcDZSYVRsbGJOTzY3NUV3aDc2ZDhmcXNIM2cxelJfQ0lWeW1QaVlF?oc=5",
     "title": "人口二十万から三十万人の街が、住みやすい。理想の居住地。地上の楽園。和歌山不動産投資。",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95alNJN3lIMmNBU3d1ejNaTGZYZmhESWMwU0VpS0VIY25oRWJZUWNMblNpSktycV9vcDZSYVRsbGJOTzY3NUV3aDc2ZDhmcXNIM2cxelJfQ0lWeW1QaVlF?oc=5",
@@ -210,6 +273,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZkYtYzZzclJFMHpBS3daZUllZng1MVNpa3BkYTBLdmNCQVVtLXZNTzRjRGxkQkw4TW4wbFM5bEE0R1dzRW9QcTA3aEJpeC0yZVdsQ2pXWXhHaXdiYWp2S2QyMHNLQzNIU2c?oc=5",
+    "title": "SBCメディカルグループ、台湾の生成AI企業NeuroBrain Dynamicsと資本業務提携 ― 医療AIで国内外287院の収益力を強化、アジアBtoB展開の基盤へ",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZkYtYzZzclJFMHpBS3daZUllZng1MVNpa3BkYTBLdmNCQVVtLXZNTzRjRGxkQkw4TW4wbFM5bEE0R1dzRW9QcTA3aEJpeC0yZVdsQ2pXWXhHaXdiYWp2S2QyMHNLQzNIU2c?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-13T11:30:01.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sQ3lFSFhDaTZicW5vSmJHYjNBVnp4Q0phMkdxU2otN2JrVGVuMnJocHZUNHRWNWVqMzh1NlBsUGpRQXA5UXJ6NmFSOGZqTGYzcmI4?oc=5",
     "title": "（まとめ）日経平均は一時1,000円超高も最終的には322円高の61,142円で反発 - 市況概況",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sQ3lFSFhDaTZicW5vSmJHYjNBVnp4Q0phMkdxU2otN2JrVGVuMnJocHZUNHRWNWVqMzh1NlBsUGpRQXA5UXJ6NmFSOGZqTGYzcmI4?oc=5",
@@ -234,6 +310,19 @@
     "kind": "news"
   },
   {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9STTZ4WmxmTlRYMEM3cjJReDYyMnBIMVdpbTRYVm9hLXlSazVPNVV1cXA2NGlIenoyTFJDRF9fbmQ4TjcwUmg2YVpYRXI2SzhSekk0N25lWkxaMmxIVTdpVDBMR2dMODVNSmc?oc=5",
+    "title": "27/３期２Q決算発表および業績進捗について",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9STTZ4WmxmTlRYMEM3cjJReDYyMnBIMVdpbTRYVm9hLXlSazVPNVV1cXA2NGlIenoyTFJDRF9fbmQ4TjcwUmg2YVpYRXI2SzhSekk0N25lWkxaMmxIVTdpVDBMR2dMODVNSmc?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-13T08:30:01.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
     "id": "https://www.businessinsider.jp/article/2611-former-police-officer-achieves-fire-using-low-interest-rates/",
     "title": "39歳の元警察官、“超低金利”を武器にFIREを達成する。借入4億円で年収1750万円を得る「日本型レバレッジFIRE」とは",
     "url": "https://www.businessinsider.jp/article/2611-former-police-officer-achieves-fire-using-low-interest-rates/",
@@ -245,6 +334,19 @@
     ],
     "summary": "元警察官のポル氏は、ごく最近にFIRE生活へ突入したばかり。現在は、太陽光と不動産で約4億円を借入、年間キャッシュフロー1750万円を得ています。その日本の超低金利を武器にした「日本型レバレッジFIRE」とでも呼ぶべき設計に迫ります。",
     "kind": "news"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ycnd5dnhlcmYwODhaQy03cGhEU1NOM25yWEpaVUhDeEoyaXVBZEhjdDBQWGd5cTFWQ01PQkxIMmVNQk8xeU9zNFlhS1UzTXRKT2Y4MDRITTNIS2tUb0Z5ZzZRTFFpbXFYQUE?oc=5",
+    "title": "おひとりさま高齢者を支えるあかり保証、四国2拠点目となる徳島支店を開設",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ycnd5dnhlcmYwODhaQy03cGhEU1NOM25yWEpaVUhDeEoyaXVBZEhjdDBQWGd5cTFWQ01PQkxIMmVNQk8xeU9zNFlhS1UzTXRKT2Y4MDRITTNIS2tUb0Z5ZzZRTFFpbXFYQUE?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-13T08:29:02.000Z",
+    "tags": [
+      "住友",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
   },
   {
     "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1iOG56QUl4bWt2ZzZKT0V6cDB0Zl9Id1I2N3NpT3BodE51ZXpwOWMtZDlnNEJSQk9FY2ZTRDFOYnQ1ZDZWRWhxbmIyaEdST0F2a25FeXkxS0Q?oc=5",
@@ -1957,6 +2059,19 @@
     "date": "2026-11-12T02:00:02.000Z",
     "tags": [
       "積水",
+      "開発・デベロッパー"
+    ],
+    "summary": "",
+    "kind": "press"
+  },
+  {
+    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSWYyQmxfd2MwRkQzZXVBRDA5YUVXYkVybTEwTWRDYnpNaVQ5c003V0ZScHE5Y1NwUWpDNGdveHAtQWJvNGNtLWdFcnk1RWxBZ1dZWU5kNDdYM2ZZRk5FT1JTYkZUSnU1R0E?oc=5",
+    "title": "サブウェイ、熊本市中心部に初出店！熊本県内３店舗目『サクラマチクマモト店』11月19日（木）オープン",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqSWYyQmxfd2MwRkQzZXVBRDA5YUVXYkVybTEwTWRDYnpNaVQ5c003V0ZScHE5Y1NwUWpDNGdveHAtQWJvNGNtLWdFcnk1RWxBZ1dZWU5kNDdYM2ZZRk5FT1JTYkZUSnU1R0E?oc=5",
+    "source": "PR TIMES",
+    "date": "2026-11-12T02:00:02.000Z",
+    "tags": [
+      "住友",
       "開発・デベロッパー"
     ],
     "summary": "",
@@ -14914,127 +15029,6 @@
     "date": "2026-11-02T02:09:00.000Z",
     "tags": [
       "金利・日銀"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVjI0SHB4cWoxR2ZfQ2U3LUJCR2Y2MGE5b251a3E3YWdUSjRDdEpMRFBaalVxVXQ5SFRBeFdzSDdhNkpjOWxVS0NMWWtaX1JSWHJDN3NTVVpNMjBpcHY1a0JOaE55Y09QV0E?oc=5",
-    "title": "東急リバブル初の顔認証導入マンションミガロホールディングスの子会社DXYZの顔認証IDプラットフォーム「FreeiD」を「ルジェンテ新宿」に導入",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rVjI0SHB4cWoxR2ZfQ2U3LUJCR2Y2MGE5b251a3E3YWdUSjRDdEpMRFBaalVxVXQ5SFRBeFdzSDdhNkpjOWxVS0NMWWtaX1JSWHJDN3NTVVpNMjBpcHY1a0JOaE55Y09QV0E?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T02:00:40.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "東急リ"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMHFyeXJhVU5SUm5IS2I5VWk5TUZjY0xOYlR6OGowSmZMSzQwRWpITFMxUjJKTF8zVDdTbjA3VDFJZW1YS3JHanNrYWMta1owUlVGbk5nTklrYzc4R0VCTjBFdDJLOVN1S2c?oc=5",
-    "title": "東急リバブル初の顔認証導入マンション",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iMHFyeXJhVU5SUm5IS2I5VWk5TUZjY0xOYlR6OGowSmZMSzQwRWpITFMxUjJKTF8zVDdTbjA3VDFJZW1YS3JHanNrYWMta1owUlVGbk5nTklrYzc4R0VCTjBFdDJLOVN1S2c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T02:00:02.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "東急リ",
-      "三井"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
-    "title": "ナウキャスト、三菱商事都市開発へ法人営業AXツール「DataLens法人営業」およびデータベースサービス「DataLens CRE営業」を提供開始",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FakwtWTlCc2lEVFczUWJUM3l4ZWZfeng3bndhd3lYRDllaktMU2dneFRVOHlVaVhTS2VHODdUVjZJbGRVdVhnWWV6QWRhdzkydUpRcFlJaHVabnVDb0JNSDc2UDRQWUdtbkE?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T02:00:02.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "住友"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MXl0aWJMa3FfZ2xia1A1QXJ3ODV5ckRXTDI5b1luYTE4ajJTTlo0SElxLU1JRzRWQ0VWQjNKNFVjcEpqUWpUQV9pWFRoRkRlRktSY2FJYU5qSjlUV0pUMU13UHQ5T0dsU2c?oc=5",
-    "title": "マンション内を“顔だけ”で移動できる暮らしを実現 ルジェンテシリーズ初導入！顔認証セキュリティサービス「FreeiD」を標準装備した「ルジェンテ新宿」が竣工",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10MXl0aWJMa3FfZ2xia1A1QXJ3ODV5ckRXTDI5b1luYTE4ajJTTlo0SElxLU1JRzRWQ0VWQjNKNFVjcEpqUWpUQV9pWFRoRkRlRktSY2FJYU5qSjlUV0pUMU13UHQ5T0dsU2c?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T02:00:02.000Z",
-    "tags": [
-      "不動産・市場",
-      "開発・デベロッパー",
-      "建設",
-      "東急リ"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jNDczeTc4eXU1TDJlQTdOYjlGZVZEdzR4WUZjd2luOVp5dEJ4ZTduMFB5dUNPMFZoRnVwcHZ1azlyakFtV2N0MTRUZTdBbDRaSzJLQ3Z4SXJoRlFibFRlM2U4LWRmSHV3bWc?oc=5",
-    "title": "羽田からひろがる、新たな出会い「あわい -awai2026- 」開催決定 | 羽田みらい開発株式会社のプレスリリース",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jNDczeTc4eXU1TDJlQTdOYjlGZVZEdzR4WUZjd2luOVp5dEJ4ZTduMFB5dUNPMFZoRnVwcHZ1azlyakFtV2N0MTRUZTdBbDRaSzJLQ3Z4SXJoRlFibFRlM2U4LWRmSHV3bWc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T02:00:02.000Z",
-    "tags": [
-      "野村",
-      "開発・デベロッパー",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nUW1nQmEtNHVEWDl6d2hoMWZucTE4SXFFcTJmbktVX0hjUi1PUDlHNzlja0c2Z3FGZFRtT1JnbGJnYnJoR21NQXVzdjZxdw?oc=5",
-    "title": "【東京“地価上昇”エリアのマンション購入ガイド】Vol.2 板橋区｜property technologies",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nUW1nQmEtNHVEWDl6d2hoMWZucTE4SXFFcTJmbktVX0hjUi1PUDlHNzlja0c2Z3FGZFRtT1JnbGJnYnJoR21NQXVzdjZxdw?oc=5",
-    "source": "アットプレス",
-    "date": "2026-11-02T02:00:00.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ3FxY1h4bF9LMFg5enRKc2VGVGlVdzcyaV9IYmtsZzNybW5aYW1tcWpQa016amFCNUhzclc0dGNIZ3h1RmJpZGJSRUNqb2w2LXkxY2tKdFZaczZDZ1g4SGM1eU85U1RvYnc?oc=5",
-    "title": "マルチテナント型物流施設「（仮称）DPL群馬伊勢崎」着工",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZZ3FxY1h4bF9LMFg5enRKc2VGVGlVdzcyaV9IYmtsZzNybW5aYW1tcWpQa016amFCNUhzclc0dGNIZ3h1RmJpZGJSRUNqb2w2LXkxY2tKdFZaczZDZ1g4SGM1eU85U1RvYnc?oc=5",
-    "source": "PR TIMES",
-    "date": "2026-11-02T01:45:59.000Z",
-    "tags": [
-      "開発・デベロッパー",
-      "建設",
-      "大和"
-    ],
-    "summary": "",
-    "kind": "press"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclBfQ2FGRWc3QjhVWXhyamhJNnNxVE54R184UldFNGtHTlU3ZGhGVk85TnpkdFNSWVE4bjJiMzBzVXR4clBTNno3cUxSQmFGVVl6dEo0NmtyNjJrTk5WdTlRMzFJblUzUmxFUEVLY0dTRWJ3NEF6MmYwaEZLYWNIb2dTTjU?oc=5",
-    "title": "◆不動産投資のPLAC◆入間郡◆14.9％◆毛呂駅徒歩8分◆",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOclBfQ2FGRWc3QjhVWXhyamhJNnNxVE54R184UldFNGtHTlU3ZGhGVk85TnpkdFNSWVE4bjJiMzBzVXR4clBTNno3cUxSQmFGVVl6dEo0NmtyNjJrTk5WdTlRMzFJblUzUmxFUEVLY0dTRWJ3NEF6MmYwaEZLYWNIb2dTTjU?oc=5",
-    "source": "www.rakumachi.jp",
-    "date": "2026-11-02T01:43:35.000Z",
-    "tags": [
-      "不動産・市場"
-    ],
-    "summary": "",
-    "kind": "news"
-  },
-  {
-    "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfV0xiWWdJdUVHa3FUWUF4dGFQampaNkRnRExXQjJ4Nk43TXk3YWJOSjBkQmJuTGZtdVZMa1poNnloNWVnNE1R?oc=5",
-    "title": "【注目トピックス 市況・概況】東京為替：ドル・円は158円手前で小動き、ユーロは続伸",
-    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBfV0xiWWdJdUVHa3FUWUF4dGFQampaNkRnRExXQjJ4Nk43TXk3YWJOSjBkQmJuTGZtdVZMa1poNnloNWVnNE1R?oc=5",
-    "source": "マネーポストWEB",
-    "date": "2026-11-02T01:33:06.000Z",
-    "tags": [
-      "不動産・市場"
     ],
     "summary": "",
     "kind": "news"
